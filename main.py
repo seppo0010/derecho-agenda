@@ -13,18 +13,18 @@ BASE_URL = os.environ.get('BASE_URL', 'http://www.derecho.uba.ar/')
 IN_URL = os.environ.get('IN_URL', 'http://www.derecho.uba.ar/agenda/')
 debug = os.environ.get('DEBUG', 'false') == 'true'
 if debug:
-    with open('example.html', encoding='windows-1252') as fp:
+    with open('example.html') as fp:
         html_doc = fp.read()
 else:
     req = requests.get(IN_URL)
-    html_doc = req.text()
+    html_doc = req.text
 
 calendar = Calendar()
 soup = BeautifulSoup(html_doc, 'html.parser')
 for article in soup.find_all('article', class_='item-agenda'):
     fecha = article.find('time')['datetime']
     link = article.find('a')
-    title = link.get_text().encode("iso-8859-1").decode('utf-8')
+    title = link.get_text()
     calendar.events.add(Event(
         name=title,
         begin=fecha + '-03:00',
