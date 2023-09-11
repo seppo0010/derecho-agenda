@@ -2,171 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencias-armin-englaender-profesor-de-la-universidad-de-munich-lmu
-DURATION:PT2H
-DTSTART:20231002T210000Z
-SUMMARY:Conferencias Armin Engländer (profesor de la Universidad de Múnich (LMU)
-UID:8376d939-c114-4764-b26a-262d25d23b27@8376.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencias-armin-englaender-profesor-de-la-universidad-de-munich-lmu
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/jornadas-de-capacitacion-ambiental-1
-DURATION:PT2H
-DTSTART:20230914T210000Z
-SUMMARY:Jornadas de Capacitación Ambiental 
-UID:76c0fe1d-f246-483e-88b8-6190261e1019@76c0.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/jornadas-de-capacitacion-ambiental-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-internacional-de-presentacion-y-debate-sobre-ley-de-buen-trato-crianza-positiva-y-proteccion-integral-contra-la-violencia-hacia-ninas-ninos-y-adolescentes
-DURATION:PT2H
-DTSTART:20230918T200000Z
-SUMMARY:Jornada internacional de presentación y debate sobre: "Ley de buen trato\, crianza positiva y protección integral\, contra la violencia hacia niñas\, niños y adolescentes"
-UID:37144edf-63d6-48ec-ae9d-842527ebf7b6@3714.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-internacional-de-presentacion-y-debate-sobre-ley-de-buen-trato-crianza-positiva-y-proteccion-integral-contra-la-violencia-hacia-ninas-ninos-y-adolescentes
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/novedades-jurisprudenciales-en-el-impuesto-a-las-ganancias-ciclo-de-disertaciones-sobre-tributacion-nacional
-DURATION:PT2H
-DTSTART:20230918T210000Z
-SUMMARY:Novedades jurisprudenciales en el Impuesto a las Ganancias. Ciclo de Disertaciones sobre Tributación Nacional
-UID:01f2a219-5163-4b54-9fa0-e54e375784ca@01f2.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/novedades-jurisprudenciales-en-el-impuesto-a-las-ganancias-ciclo-de-disertaciones-sobre-tributacion-nacional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/el-beneficiario-final-y-la-planificacion-fiscal-internacional
-DURATION:PT2H
-DTSTART:20230913T160000Z
-SUMMARY:El beneficiario final y la planificación fiscal internacional
-UID:8544182b-39e9-4918-b7c0-a006894a1a94@8544.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/el-beneficiario-final-y-la-planificacion-fiscal-internacional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-sobre-restricciones-al-comercio-exterior-agropecuario
-DURATION:PT2H
-DTSTART:20230920T180000Z
-SUMMARY:Jornada sobre "Restricciones al comercio exterior agropecuario" 
-UID:2622fc99-9963-40a8-b472-210c05f0bd80@2622.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-sobre-restricciones-al-comercio-exterior-agropecuario
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/xiii-jornadas-sobre-ensenanza-del-derecho
-DURATION:PT2H
-DTSTART:20231005T030000Z
-SUMMARY:XIII Jornadas sobre Enseñanza del Derecho
-UID:0dd47e9d-a4d7-4470-a06c-b4c6cebfc140@0dd4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/xiii-jornadas-sobre-ensenanza-del-derecho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/estafa-informatica-y-los-problemas-de-imputacion
-DURATION:PT2H
-DTSTART:20230919T200000Z
-SUMMARY:Estafa informática y los problemas de imputación
-UID:1f04a745-70c7-4da5-b762-339f22ff947f@1f04.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/estafa-informatica-y-los-problemas-de-imputacion
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-investigaciones-y-debates-actuales-en-la-historia-del-derecho
-DURATION:PT2H
-DTSTART:20231030T210000Z
-SUMMARY:Nuevas investigaciones y debates actuales en la historia del derecho
-UID:5eefc32b-46d5-4ed0-86f6-9bf79d7d4ce3@5eef.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-investigaciones-y-debates-actuales-en-la-historia-del-derecho
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-ensayos-sobre-democracia-homenaje-a-carlos-strasser-i-compilado-por-lisi-trejo
 DURATION:PT2H
 DTSTART:20230912T210000Z
 SUMMARY:Presentación del libro Ensayos sobre democracia. Homenaje a Carlos Strasser\, compilado por Lisi Trejo
-UID:e89cb965-addd-4ee8-aa6f-1efe03495a21@e89c.org
+UID:f0e4fe8f-ab64-4f87-8f33-42c53d74aa94@f0e4.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-ensayos-sobre-democracia-homenaje-a-carlos-strasser-i-compilado-por-lisi-trejo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-positivismo-o-postpositivismo
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/inteligencia-artificial-juicio-criminal-y-garantias-de-la-defensa
 DURATION:PT2H
-DTSTART:20230927T213000Z
-SUMMARY:Conversatorio: ¿Positivismo o postpositivismo? 
-UID:7717f19a-cb61-41d2-a908-063d14df4840@7717.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-positivismo-o-postpositivismo
+DTSTART:20230913T220000Z
+SUMMARY:Inteligencia artificial\, juicio criminal y garantías de la defensa
+UID:623994e2-dd32-4031-ade8-55d99f30150a@6239.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/inteligencia-artificial-juicio-criminal-y-garantias-de-la-defensa
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/encuentro-sobre-derecho-de-las-familias-y-sucesiones
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/justicia-hidrica-territorial-y-ambiental
 DURATION:PT2H
-DTSTART:20230922T190000Z
-SUMMARY:Encuentro sobre Derecho de las Familias y Sucesiones
-UID:fdff775a-ffcd-4850-8841-83cf4e4fba43@fdff.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/encuentro-sobre-derecho-de-las-familias-y-sucesiones
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-sobre-tareas-de-cuidado
-DURATION:PT2H
-DTSTART:20230912T220000Z
-SUMMARY:Conversatorio sobre "Tareas de cuidado"
-UID:cb0f7754-6395-40fd-a4f3-6599b874a895@cb0f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-sobre-tareas-de-cuidado
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-conferencias-a-cargo-del-profesor-hernan-orozco
-DURATION:PT2H
-DTSTART:20231026T200000Z
-SUMMARY:Ciclo de conferencias a cargo del profesor Hernán Orozco
-UID:903dd790-2d5d-40b4-9074-9cf85123ae5c@903d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-conferencias-a-cargo-del-profesor-hernan-orozco
+DTSTART:20230911T200000Z
+SUMMARY:Justicia hídrica\, territorial y ambiental
+UID:91e441e9-d6b0-4946-94d6-48dcdb9fb589@91e4.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/justicia-hidrica-territorial-y-ambiental
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-conferencias-juan-b-alberdi
 DURATION:PT2H
 DTSTART:20230911T210000Z
 SUMMARY:Ciclo de Conferencias Juan B. Alberdi
-UID:602a5a75-ceee-415c-a242-ac692d96befa@602a.org
+UID:8ca8da8a-e556-4807-89a5-36b92434a17a@8ca8.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-conferencias-juan-b-alberdi
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/primeras-jornadas-sobre-ecocidio-y-derecho-penal-ambiental
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/biopics-un-thriller-legal-cuestiones-en-torno-a-la-gestion-de-derechos-en-peliculas-y-series-biograficas
 DURATION:PT2H
-DTSTART:20230913T203000Z
-SUMMARY:Primeras jornadas sobre Ecocidio y Derecho Penal Ambiental
-UID:178b22c6-1c9c-42c3-869b-9fd8572a190a@178b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/primeras-jornadas-sobre-ecocidio-y-derecho-penal-ambiental
+DTSTART:20230919T200000Z
+SUMMARY:Biopics: ¿Un thriller legal? Cuestiones en torno a la gestión de derechos en películas y series biográficas
+UID:b7d0bb29-70c9-41fe-9963-752ba5d0a7f8@b7d0.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/biopics-un-thriller-legal-cuestiones-en-torno-a-la-gestion-de-derechos-en-peliculas-y-series-biograficas
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-exposiciones-del-prof-dr-luca-marafioti
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencia-magistral-la-situacion-de-ninos-ninas-y-adolescentes-sin-cuidado-parental
 DURATION:PT2H
-DTSTART:20230914T210000Z
-SUMMARY:Ciclo de exposiciones del Prof. Dr. Luca Marafioti
-UID:4c4293cd-f642-4601-b912-2c72c25fde6e@4c42.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-exposiciones-del-prof-dr-luca-marafioti
+DTSTART:20230920T200000Z
+SUMMARY:Conferencia magistral "La situación de niños\, niñas y adolescentes sin cuidado parental"
+UID:947dbd7e-9a03-44b1-b8f6-3b788c1f2b96@947d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencia-magistral-la-situacion-de-ninos-ninas-y-adolescentes-sin-cuidado-parental
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/sistema-previsional-reformas-latinoamericanas
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/la-clausula-de-eternidad-de-la-constitucion-alemana
 DURATION:PT2H
-DTSTART:20230921T210000Z
-SUMMARY:Sistema previsional. Reformas latinoamericanas
-UID:eb2843b9-d876-49c3-bc9e-4eaf35c3f54b@eb28.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/sistema-previsional-reformas-latinoamericanas
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-internacional-de-politicas-publicas-trabajo-salud-y-derechos-humanos
-DURATION:PT2H
-DTSTART:20231011T130000Z
-SUMMARY:Seminario internacional de políticas públicas\, trabajo\, salud y derechos humanos
-UID:3cc44f84-188c-4afc-b497-24b0a2056e46@3cc4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-internacional-de-politicas-publicas-trabajo-salud-y-derechos-humanos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/omision-de-denuncia-y-violencia-intrafamiliar
-DURATION:PT2H
-DTSTART:20231121T210000Z
-SUMMARY:Omisión de denuncia y violencia intrafamiliar
-UID:5795c55d-4c84-46f8-940a-ad195c6770f9@5795.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/omision-de-denuncia-y-violencia-intrafamiliar
+DTSTART:20230914T213000Z
+SUMMARY:La cláusula de eternidad de la constitución alemana
+UID:d2cc4cb1-90ae-4f39-a521-3abea9ccd4fe@d2cc.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/la-clausula-de-eternidad-de-la-constitucion-alemana
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-taller-aproximaciones-a-la-historia-argentina-desde-la-educacion-universitaria-ii-y-iii-dialogo-entre-proyectos-de-investigacion
 DURATION:PT2H
 DTSTART:20230918T200000Z
 SUMMARY:Seminario-taller: Aproximaciones a la Historia Argentina desde la educación universitaria II y III. Diálogo entre proyectos de investigación
-UID:e1afea89-4421-42bf-b7aa-3b139185ab4a@e1af.org
+UID:67ad7e99-0b74-4f81-9682-92defdd25fe4@67ad.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-taller-aproximaciones-a-la-historia-argentina-desde-la-educacion-universitaria-ii-y-iii-dialogo-entre-proyectos-de-investigacion
 END:VEVENT
 BEGIN:VEVENT
@@ -174,303 +70,407 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/procesos-elec
 DURATION:PT2H
 DTSTART:20230919T200000Z
 SUMMARY:Procesos electorales: Desafíos de las TIC y la inteligencia artificial
-UID:62bc4335-ce93-4969-8541-891c6192ea62@62bc.org
+UID:af011f58-117d-4cdb-864d-5b34d709a428@af01.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/procesos-electorales-desafios-de-las-tic-y-la-inteligencia-artificial
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/genero-y-consumo-experiencias-nacionales-e-internacionales
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-sobre-restricciones-al-comercio-exterior-agropecuario
 DURATION:PT2H
-DTSTART:20230919T190000Z
-SUMMARY:Género y Consumo. Experiencias nacionales e internacionales
-UID:2b0b7dc8-efa7-4503-b9fe-586113a1e5bf@2b0b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/genero-y-consumo-experiencias-nacionales-e-internacionales
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/la-noche-de-los-museos-2023
-DURATION:PT2H
-DTSTART:20230923T220000Z
-SUMMARY:La Noche de los Museos 2023
-UID:7bee73a1-4795-437d-a01a-35e38a2b7cb6@7bee.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/la-noche-de-los-museos-2023
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-la-otra-ventanilla-judicializacion-de-conflictos-sociales-en-argentina-i
-DURATION:PT2H
-DTSTART:20230912T210000Z
-SUMMARY:Presentación del libro La otra ventanilla. Judicialización de conflictos sociales en Argentina
-UID:031568b7-d2d9-4ef0-9b31-4021cde44595@0315.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-la-otra-ventanilla-judicializacion-de-conflictos-sociales-en-argentina-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-salud-mental-y-derecho-civil-cuestiones-actuales
-DURATION:PT2H
-DTSTART:20230925T200000Z
-SUMMARY:Jornada "Salud mental y derecho civil: cuestiones actuales"
-UID:a562e184-4fc5-44a0-a675-49aa3bdc20fa@a562.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-salud-mental-y-derecho-civil-cuestiones-actuales
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-conferencias-en-xenotrasplantes-y-derecho
-DURATION:PT2H
-DTSTART:20231005T213000Z
-SUMMARY:Ciclo de conferencias en Xenotrasplantes y Derecho
-UID:a391f2a2-c223-42a7-8bc6-2415208c96c8@a391.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-conferencias-en-xenotrasplantes-y-derecho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-moralitaet-en-hegel
-DURATION:PT2H
-DTSTART:20230921T220000Z
-SUMMARY:Seminario - Moralität en Hegel 
-UID:327e6daa-ae77-4b22-b9ae-0f8d4b53bf4f@327e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-moralitaet-en-hegel
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/la-clausula-de-eternidad-de-la-constitucion-alemana
-DURATION:PT2H
-DTSTART:20230914T213000Z
-SUMMARY:La cláusula de eternidad de la constitución alemana
-UID:925c83c4-e283-4f10-a1b0-f6dcd6aef958@925c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/la-clausula-de-eternidad-de-la-constitucion-alemana
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/vulnerabilidad-y-derecho-penal
-DURATION:PT2H
-DTSTART:20230926T210000Z
-SUMMARY:Vulnerabilidad y derecho penal
-UID:c9c046cf-7325-4e18-bfd0-8fe7c1aa0716@c9c0.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/vulnerabilidad-y-derecho-penal
+DTSTART:20230920T180000Z
+SUMMARY:Jornada sobre "Restricciones al comercio exterior agropecuario" 
+UID:c316eba8-cb9a-48a3-b863-12efd42229e8@c316.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-sobre-restricciones-al-comercio-exterior-agropecuario
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-de-la-catedra-a-cargo-del-prof-dr-fernando-j-cordoba
 DURATION:PT2H
 DTSTART:20230920T210000Z
 SUMMARY:Seminario de la Cátedra a cargo del Prof. Dr. Fernando J. Córdoba
-UID:e830a534-adee-441a-b7a1-28d141bb097a@e830.org
+UID:be0d94ea-9075-48f8-bfe7-f35b922ca454@be0d.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-de-la-catedra-a-cargo-del-prof-dr-fernando-j-cordoba
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/propuesta-para-incorporar-el-ecocidio-al-codigo-penal-de-la-nacion
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/xiii-jornadas-sobre-ensenanza-del-derecho
 DURATION:PT2H
-DTSTART:20230911T190000Z
-SUMMARY:Propuesta para incorporar el Ecocidio al Código Penal de la Nación
-UID:55847c26-4c85-446d-92a4-f6572d697bfb@5584.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/propuesta-para-incorporar-el-ecocidio-al-codigo-penal-de-la-nacion
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencia-internacional-plain-2-23-conectar-culturas-comunicacion-clara-para-construir-puentes
-DURATION:PT2H
-DTSTART:20230927T030000Z
-SUMMARY:Conferencia internacional PLAIN 2023. Conectar culturas: comunicación clara para construir puentes
-UID:936fcc79-67b6-486c-ac6f-9d46fae03492@936f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencia-internacional-plain-2-23-conectar-culturas-comunicacion-clara-para-construir-puentes
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ix-interescuelas-de-filosofia-del-derecho
-DURATION:PT2H
-DTSTART:20231108T130000Z
-SUMMARY:IX Interescuelas de Filosofía del Derecho
-UID:dc834f2b-1fb1-43b1-a589-36e26f3c9338@dc83.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ix-interescuelas-de-filosofia-del-derecho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/las-profesiones-juridicas-frente-a-la-tecnologia-de-produccion-calculo-y-vigilancia-digital
-DURATION:PT2H
-DTSTART:20230919T210000Z
-SUMMARY:Las profesiones jurídicas frente a la tecnología de producción\, cálculo y vigilancia digital
-UID:21bdefc8-8ce6-472a-b5aa-45f325cf77d6@21bd.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/las-profesiones-juridicas-frente-a-la-tecnologia-de-produccion-calculo-y-vigilancia-digital
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ix-jornada-de-derecho-aduanero-a-sesenta-anos-de-la-competencia-aduanera-del-tribunal-fiscal-de-la-nacion
-DURATION:PT2H
-DTSTART:20231025T180000Z
-SUMMARY:IX Jornada de derecho aduanero. A sesenta años de la competencia aduanera del Tribunal Fiscal de la Nación
-UID:125d3785-e064-4ecd-bedc-b74191dcfd1d@125d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ix-jornada-de-derecho-aduanero-a-sesenta-anos-de-la-competencia-aduanera-del-tribunal-fiscal-de-la-nacion
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/xxix-jornada-de-derecho-de-la-integracion-elecciones-parlasur-2-23-legitimidad-democratica-y-mercosur
-DURATION:PT2H
-DTSTART:20230913T213000Z
-SUMMARY:XXIX Jornada de Derecho de la Integración. Elecciones PARLASUR 2023. Legitimidad democrática y MERCOSUR
-UID:d35bc9e7-ea75-4acc-9879-19f88de39bbe@d35b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/xxix-jornada-de-derecho-de-la-integracion-elecciones-parlasur-2-23-legitimidad-democratica-y-mercosur
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/inteligencia-artificial-juicio-criminal-y-garantias-de-la-defensa
-DURATION:PT2H
-DTSTART:20230913T220000Z
-SUMMARY:Inteligencia artificial\, juicio criminal y garantías de la defensa
-UID:ecb44907-86fe-4871-9da8-251e80613dfb@ecb4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/inteligencia-artificial-juicio-criminal-y-garantias-de-la-defensa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-derecho-procesal-constitucional-e-interamericano-i-del-dr-pablo-luis-manili
-DURATION:PT2H
-DTSTART:20231017T210000Z
-SUMMARY:Presentación del libro Derecho procesal constitucional e interamericano del Dr. Pablo Luis Manili
-UID:f1855c9d-ea0f-4b66-a3ea-291729e66478@f185.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-derecho-procesal-constitucional-e-interamericano-i-del-dr-pablo-luis-manili
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
-DURATION:PT2H
-DTSTART:20230915T183000Z
-SUMMARY:Programa "Difusión de cultura tributaria"
-UID:8015e342-2439-45f3-82b1-b626554625cd@8015.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/creatividad-un-nuevo-enfoque-para-investigar-traduccion-y-tecnologia
-DURATION:PT2H
-DTSTART:20230928T133000Z
-SUMMARY:Creatividad: un nuevo enfoque para investigar traducción y tecnología
-UID:a4811755-ad5d-4d68-99d6-5e7f1b875a40@a481.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/creatividad-un-nuevo-enfoque-para-investigar-traduccion-y-tecnologia
+DTSTART:20231005T030000Z
+SUMMARY:XIII Jornadas sobre Enseñanza del Derecho
+UID:a92a7768-534b-425d-b25a-9a9e83c2fc69@a92a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/xiii-jornadas-sobre-ensenanza-del-derecho
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/iniciativa-popular-agua-para-la-vida-el-derecho-al-agua-y-el-agua-como-sujeto-de-derecho
 DURATION:PT2H
 DTSTART:20231012T210000Z
 SUMMARY:Iniciativa Popular Agua para la Vida: el derecho al agua y el agua como sujeto de derecho
-UID:92ab8ca4-ee3f-4d2f-af1f-9c18e53a4adf@92ab.org
+UID:a0116cd5-4d5b-4116-995b-f5c14e6f1b5f@a011.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/iniciativa-popular-agua-para-la-vida-el-derecho-al-agua-y-el-agua-como-sujeto-de-derecho
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-en-conmemoracion-de-los-aa7-anos-de-la-constitucion-nacional
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/omision-de-denuncia-y-violencia-intrafamiliar
 DURATION:PT2H
-DTSTART:20230911T210000Z
-SUMMARY:Jornada en conmemoración de los 170 años de la Constitución Nacional
-UID:e9018872-f3d4-42f1-87fd-ed672f6fa5ac@e901.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-en-conmemoracion-de-los-aa7-anos-de-la-constitucion-nacional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/concurso-de-ponencias-xi-congreso-de-derecho-de-ejecucion-penal
-DURATION:PT2H
-DTSTART:20230901T130000Z
-SUMMARY:Concurso de ponencias - XI Congreso de derecho de Ejecución penal
-UID:c39a275f-b327-4fcb-9b0f-cc76cd113a03@c39a.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/concurso-de-ponencias-xi-congreso-de-derecho-de-ejecucion-penal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencia-magistral-la-situacion-de-ninos-ninas-y-adolescentes-sin-cuidado-parental
-DURATION:PT2H
-DTSTART:20230920T200000Z
-SUMMARY:Conferencia magistral "La situación de niños\, niñas y adolescentes sin cuidado parental"
-UID:a8abeb1e-0e75-4ffc-8b9a-126071f3fc02@a8ab.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencia-magistral-la-situacion-de-ninos-ninas-y-adolescentes-sin-cuidado-parental
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/reinauguracion-de-la-sede-social-de-la-asociacion-de-docentes-de-la-facultad-de-derecho
-DURATION:PT2H
-DTSTART:20231003T210000Z
-SUMMARY:Reinauguración de la sede social de la Asociación de Docentes de la Facultad de Derecho
-UID:3f0d49d1-ae6e-47ec-b3fb-27a0b9a4dbcc@3f0d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/reinauguracion-de-la-sede-social-de-la-asociacion-de-docentes-de-la-facultad-de-derecho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/congreso-argentino-sobre-defensa-tecnica-de-la-ninez
-DURATION:PT2H
-DTSTART:20231117T120000Z
-SUMMARY:Congreso argentino sobre defensa técnica de la niñez
-UID:57513a7b-27cd-4c08-aa1e-e82626a88d1e@5751.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/congreso-argentino-sobre-defensa-tecnica-de-la-ninez
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-juicio-a-las-juntas-a-4-anos-del-retorno-de-la-democracia
-DURATION:PT2H
-DTSTART:20231106T203000Z
-SUMMARY:Conversatorio "Juicio a las juntas: a 40 años del retorno de la democracia"
-UID:845bfbbe-1b42-4833-aa3b-c4246a1c251b@845b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-juicio-a-las-juntas-a-4-anos-del-retorno-de-la-democracia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-y-taller-de-debate-y-argumentacion-juridica
-DURATION:PT2H
-DTSTART:20230913T200000Z
-SUMMARY:Programa y Taller de Debate y Argumentación Jurídica
-UID:17b448eb-ff33-427f-9627-c25d79e9cee0@17b4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-y-taller-de-debate-y-argumentacion-juridica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/proceso-penal-como-foro-de-la-verdad-modelos-de-juicio-abreviado-y-su-control-judicial
-DURATION:PT2H
-DTSTART:20230928T170000Z
-SUMMARY:¿Proceso penal como foro de la verdad? Modelos de juicio abreviado y su control judicial
-UID:507bed1a-b9ad-42ff-b4a5-b160b514bcf2@507b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/proceso-penal-como-foro-de-la-verdad-modelos-de-juicio-abreviado-y-su-control-judicial
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-sobre-delitos-contra-la-propiedad-perpetrados-mediante-el-empleo-de-la-fuerza-violencia-engano-abuso-de-confianza-o-modernas-tecnologias
-DURATION:PT2H
-DTSTART:20230920T190000Z
-SUMMARY:Seminario sobre Delitos contra la propiedad perpetrados mediante el empleo de la fuerza\, violencia\, engaño\, abuso de confianza o modernas tecnologías
-UID:dc30c0c0-11cc-480d-8204-91663b6cfd56@dc30.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-sobre-delitos-contra-la-propiedad-perpetrados-mediante-el-empleo-de-la-fuerza-violencia-engano-abuso-de-confianza-o-modernas-tecnologias
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/por-un-ejercicio-del-derecho-a-informar-libre-de-difamacion-presentacion-del-libro-i-el-caso-pedro-salinas-i-del-prof-dr-percy-garcia-cavero-universidad-de-piura-republica-del-peru
-DURATION:PT2H
-DTSTART:20231025T220000Z
-SUMMARY:Por un ejercicio del derecho a informar libre de difamación. Presentación del libro El caso Pedro Salinas\, del Prof. Dr. Percy García Cavero (Universidad de Piura - República del Perú)
-UID:dcdd732d-ddab-475e-b88f-68912458a9b4@dcdd.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/por-un-ejercicio-del-derecho-a-informar-libre-de-difamacion-presentacion-del-libro-i-el-caso-pedro-salinas-i-del-prof-dr-percy-garcia-cavero-universidad-de-piura-republica-del-peru
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/xv-congreso-latinoamericano-de-ninez-adolescencia-y-familia
-DURATION:PT2H
-DTSTART:20230926T130000Z
-SUMMARY:XV Congreso Latinoamericano de Niñez Adolescencia y Familia
-UID:eb3c42d9-2bb0-4ccb-8080-385f20d2ddf6@eb3c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/xv-congreso-latinoamericano-de-ninez-adolescencia-y-familia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-charlas-2-23-del-centro-de-transparencia-y-lucha-contra-la-corrupcion
-DURATION:PT2H
-DTSTART:20230919T200000Z
-SUMMARY:Ciclo de Charlas 2023 del Centro de Transparencia y Lucha contra la Corrupción
-UID:5ee545a3-ddfc-46f6-8b9a-a42ee6ad7018@5ee5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-charlas-2-23-del-centro-de-transparencia-y-lucha-contra-la-corrupcion
+DTSTART:20231121T210000Z
+SUMMARY:Omisión de denuncia y violencia intrafamiliar
+UID:01e32caf-f704-4f30-ac19-c4f55a64489f@01e3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/omision-de-denuncia-y-violencia-intrafamiliar
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-lecturas-de-sentencias-de-la-corte-interamericana-de-derechos-humanos-corte-idh-caso-pavez-pavez-vs-chile
 DURATION:PT2H
 DTSTART:20230912T200000Z
 SUMMARY:Ciclo de lecturas de sentencias de la Corte Interamericana de Derechos Humanos (Corte IDH) - Caso "Pavez Pavez Vs. Chile"
-UID:d511bfd3-e10e-48e6-9a15-ad464351b661@d511.org
+UID:3b08755b-0f8c-4ff0-9e81-7bef16e070cc@3b08.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-lecturas-de-sentencias-de-la-corte-interamericana-de-derechos-humanos-corte-idh-caso-pavez-pavez-vs-chile
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/acto-de-investidura-como-doctor-i-honoris-causa-i-de-la-uba-a-antonio-garcia-amado
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ix-jornada-de-derecho-aduanero-a-sesenta-anos-de-la-competencia-aduanera-del-tribunal-fiscal-de-la-nacion
 DURATION:PT2H
-DTSTART:20230928T213000Z
-SUMMARY:Acto de investidura como Doctor Honoris Causa de la UBA a Antonio García Amado 
-UID:d219752a-fde5-44a2-bc01-5152952389c8@d219.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/acto-de-investidura-como-doctor-i-honoris-causa-i-de-la-uba-a-antonio-garcia-amado
+DTSTART:20231025T180000Z
+SUMMARY:IX Jornada de derecho aduanero. A sesenta años de la competencia aduanera del Tribunal Fiscal de la Nación
+UID:1b6550b5-5ebf-4c7e-b9ef-4fa4310b2b80@1b65.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ix-jornada-de-derecho-aduanero-a-sesenta-anos-de-la-competencia-aduanera-del-tribunal-fiscal-de-la-nacion
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/justicia-hidrica-territorial-y-ambiental
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/primeras-jornadas-sobre-ecocidio-y-derecho-penal-ambiental
 DURATION:PT2H
-DTSTART:20230911T200000Z
-SUMMARY:Justicia hídrica\, territorial y ambiental
-UID:122833e1-053a-44c0-a4c9-99e1bddf6fd4@1228.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/justicia-hidrica-territorial-y-ambiental
+DTSTART:20230913T203000Z
+SUMMARY:Primeras jornadas sobre Ecocidio y Derecho Penal Ambiental
+UID:295513e4-c348-4683-8b79-08a8678ab94d@2955.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/primeras-jornadas-sobre-ecocidio-y-derecho-penal-ambiental
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/biopics-un-thriller-legal-cuestiones-en-torno-a-la-gestion-de-derechos-en-peliculas-y-series-biograficas
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/sistema-previsional-reformas-latinoamericanas
 DURATION:PT2H
-DTSTART:20230919T200000Z
-SUMMARY:Biopics: ¿Un thriller legal? Cuestiones en torno a la gestión de derechos en películas y series biográficas
-UID:4aa817d2-3b2b-406a-834d-92ec11314350@4aa8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/biopics-un-thriller-legal-cuestiones-en-torno-a-la-gestion-de-derechos-en-peliculas-y-series-biograficas
+DTSTART:20230921T210000Z
+SUMMARY:Sistema previsional. Reformas latinoamericanas
+UID:929b0327-5140-4cac-8fd3-8bd61e645e44@929b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/sistema-previsional-reformas-latinoamericanas
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/xv-congreso-latinoamericano-de-ninez-adolescencia-y-familia
+DURATION:PT2H
+DTSTART:20230926T130000Z
+SUMMARY:XV Congreso Latinoamericano de Niñez Adolescencia y Familia
+UID:70d360e6-2e6b-4be6-8db0-36d5f8a6720a@70d3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/xv-congreso-latinoamericano-de-ninez-adolescencia-y-familia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-en-conmemoracion-de-los-aa7-anos-de-la-constitucion-nacional
+DURATION:PT2H
+DTSTART:20230911T210000Z
+SUMMARY:Jornada en conmemoración de los 170 años de la Constitución Nacional
+UID:6fde3779-0bf4-4d99-b574-a756011e7fb4@6fde.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-en-conmemoracion-de-los-aa7-anos-de-la-constitucion-nacional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/xxix-jornada-de-derecho-de-la-integracion-elecciones-parlasur-2-23-legitimidad-democratica-y-mercosur
+DURATION:PT2H
+DTSTART:20230913T213000Z
+SUMMARY:XXIX Jornada de Derecho de la Integración. Elecciones PARLASUR 2023. Legitimidad democrática y MERCOSUR
+UID:09fb575d-2978-4ecf-959e-47078969956a@09fb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/xxix-jornada-de-derecho-de-la-integracion-elecciones-parlasur-2-23-legitimidad-democratica-y-mercosur
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-sobre-delitos-contra-la-propiedad-perpetrados-mediante-el-empleo-de-la-fuerza-violencia-engano-abuso-de-confianza-o-modernas-tecnologias
+DURATION:PT2H
+DTSTART:20230920T190000Z
+SUMMARY:Seminario sobre Delitos contra la propiedad perpetrados mediante el empleo de la fuerza\, violencia\, engaño\, abuso de confianza o modernas tecnologías
+UID:6956a43c-24a0-431b-82d8-e74ee5ce5d4b@6956.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-sobre-delitos-contra-la-propiedad-perpetrados-mediante-el-empleo-de-la-fuerza-violencia-engano-abuso-de-confianza-o-modernas-tecnologias
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-sobre-tareas-de-cuidado
+DURATION:PT2H
+DTSTART:20230912T220000Z
+SUMMARY:Conversatorio sobre "Tareas de cuidado"
+UID:87f99d5c-7eb2-44cd-94eb-c337980f9ea5@87f9.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-sobre-tareas-de-cuidado
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/la-noche-de-los-museos-2023
+DURATION:PT2H
+DTSTART:20230923T220000Z
+SUMMARY:La Noche de los Museos 2023
+UID:ab598f5c-357d-4241-89f2-98d13e538d1e@ab59.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/la-noche-de-los-museos-2023
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/reinauguracion-de-la-sede-social-de-la-asociacion-de-docentes-de-la-facultad-de-derecho
+DURATION:PT2H
+DTSTART:20231003T210000Z
+SUMMARY:Reinauguración de la sede social de la Asociación de Docentes de la Facultad de Derecho
+UID:7e49486b-dca1-4007-b799-d400b21af14b@7e49.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/reinauguracion-de-la-sede-social-de-la-asociacion-de-docentes-de-la-facultad-de-derecho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencia-internacional-plain-2-23-conectar-culturas-comunicacion-clara-para-construir-puentes
+DURATION:PT2H
+DTSTART:20230927T030000Z
+SUMMARY:Conferencia internacional PLAIN 2023. Conectar culturas: comunicación clara para construir puentes
+UID:ea1d5936-4f36-4090-8232-7e69e31ca818@ea1d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencia-internacional-plain-2-23-conectar-culturas-comunicacion-clara-para-construir-puentes
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-derecho-procesal-constitucional-e-interamericano-i-del-dr-pablo-luis-manili
+DURATION:PT2H
+DTSTART:20231017T210000Z
+SUMMARY:Presentación del libro Derecho procesal constitucional e interamericano del Dr. Pablo Luis Manili
+UID:f21f3848-a63a-4689-aa0a-a1c9298e26be@f21f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-derecho-procesal-constitucional-e-interamericano-i-del-dr-pablo-luis-manili
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/genero-y-consumo-experiencias-nacionales-e-internacionales
+DURATION:PT2H
+DTSTART:20230919T190000Z
+SUMMARY:Género y Consumo. Experiencias nacionales e internacionales
+UID:d8e29738-b668-4ebb-9915-7dd8d2ef4d1c@d8e2.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/genero-y-consumo-experiencias-nacionales-e-internacionales
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/decomiso-de-activos-virtuales
 DURATION:PT2H
 DTSTART:20231116T213000Z
 SUMMARY:Decomiso de activos virtuales
-UID:230d58fe-7dee-4e22-875d-76efd07b2a22@230d.org
+UID:a0b86a1a-fd84-4ab3-abc9-10d8907b349d@a0b8.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/decomiso-de-activos-virtuales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/concurso-de-ponencias-xi-congreso-de-derecho-de-ejecucion-penal
+DURATION:PT2H
+DTSTART:20230901T130000Z
+SUMMARY:Concurso de ponencias - XI Congreso de derecho de Ejecución penal
+UID:389aa6ee-82de-4b78-92e6-58518da9e278@389a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/concurso-de-ponencias-xi-congreso-de-derecho-de-ejecucion-penal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
+DURATION:PT2H
+DTSTART:20230915T183000Z
+SUMMARY:Programa "Difusión de cultura tributaria"
+UID:f60d9dd8-ea4e-471b-8be2-4aba25a71126@f60d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/congreso-argentino-sobre-defensa-tecnica-de-la-ninez
+DURATION:PT2H
+DTSTART:20231117T120000Z
+SUMMARY:Congreso argentino sobre defensa técnica de la niñez
+UID:15aff797-2413-4e85-9b04-2a42dca6bb5d@15af.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/congreso-argentino-sobre-defensa-tecnica-de-la-ninez
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/creatividad-un-nuevo-enfoque-para-investigar-traduccion-y-tecnologia
+DURATION:PT2H
+DTSTART:20230928T133000Z
+SUMMARY:Creatividad: un nuevo enfoque para investigar traducción y tecnología
+UID:000aa90b-7e36-46a8-9a1a-a0820f1fb728@000a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/creatividad-un-nuevo-enfoque-para-investigar-traduccion-y-tecnologia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/las-profesiones-juridicas-frente-a-la-tecnologia-de-produccion-calculo-y-vigilancia-digital
+DURATION:PT2H
+DTSTART:20230919T210000Z
+SUMMARY:Las profesiones jurídicas frente a la tecnología de producción\, cálculo y vigilancia digital
+UID:a06d43d6-4026-4c23-9d8b-5d0c1dc00254@a06d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/las-profesiones-juridicas-frente-a-la-tecnologia-de-produccion-calculo-y-vigilancia-digital
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencias-armin-englaender-profesor-de-la-universidad-de-munich-lmu
+DURATION:PT2H
+DTSTART:20231002T210000Z
+SUMMARY:Conferencias Armin Engländer (profesor de la Universidad de Múnich (LMU)
+UID:aa8cece1-b54a-4505-869f-fb856211c9fa@aa8c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conferencias-armin-englaender-profesor-de-la-universidad-de-munich-lmu
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-moralitaet-en-hegel
+DURATION:PT2H
+DTSTART:20230921T220000Z
+SUMMARY:Seminario - Moralität en Hegel 
+UID:cefb3557-85d1-4744-bd0d-4cd8ebaa1d64@cefb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-moralitaet-en-hegel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-charlas-2-23-del-centro-de-transparencia-y-lucha-contra-la-corrupcion
+DURATION:PT2H
+DTSTART:20230919T200000Z
+SUMMARY:Ciclo de Charlas 2023 del Centro de Transparencia y Lucha contra la Corrupción
+UID:6d48e2c4-d2ad-4cf6-bb33-1eb4e5bdc77b@6d48.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-charlas-2-23-del-centro-de-transparencia-y-lucha-contra-la-corrupcion
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-internacional-de-presentacion-y-debate-sobre-ley-de-buen-trato-crianza-positiva-y-proteccion-integral-contra-la-violencia-hacia-ninas-ninos-y-adolescentes
+DURATION:PT2H
+DTSTART:20230918T200000Z
+SUMMARY:Jornada internacional de presentación y debate sobre: "Ley de buen trato\, crianza positiva y protección integral\, contra la violencia hacia niñas\, niños y adolescentes"
+UID:e51cf40f-d688-4090-80ad-e8abb1c0ec30@e51c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-internacional-de-presentacion-y-debate-sobre-ley-de-buen-trato-crianza-positiva-y-proteccion-integral-contra-la-violencia-hacia-ninas-ninos-y-adolescentes
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/proceso-penal-como-foro-de-la-verdad-modelos-de-juicio-abreviado-y-su-control-judicial
+DURATION:PT2H
+DTSTART:20230928T170000Z
+SUMMARY:¿Proceso penal como foro de la verdad? Modelos de juicio abreviado y su control judicial
+UID:edf0b517-8b1c-47d0-9f98-280753e6911a@edf0.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/proceso-penal-como-foro-de-la-verdad-modelos-de-juicio-abreviado-y-su-control-judicial
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-investigaciones-y-debates-actuales-en-la-historia-del-derecho
+DURATION:PT2H
+DTSTART:20231030T210000Z
+SUMMARY:Nuevas investigaciones y debates actuales en la historia del derecho
+UID:f7db2675-35ad-4b59-83aa-d8e7e03c391a@f7db.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-investigaciones-y-debates-actuales-en-la-historia-del-derecho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-juicio-a-las-juntas-a-4-anos-del-retorno-de-la-democracia
+DURATION:PT2H
+DTSTART:20231106T203000Z
+SUMMARY:Conversatorio "Juicio a las juntas: a 40 años del retorno de la democracia"
+UID:f1ee1b08-79be-4bac-9f6a-450c7068eea9@f1ee.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-juicio-a-las-juntas-a-4-anos-del-retorno-de-la-democracia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/por-un-ejercicio-del-derecho-a-informar-libre-de-difamacion-presentacion-del-libro-i-el-caso-pedro-salinas-i-del-prof-dr-percy-garcia-cavero-universidad-de-piura-republica-del-peru
+DURATION:PT2H
+DTSTART:20231025T220000Z
+SUMMARY:Por un ejercicio del derecho a informar libre de difamación. Presentación del libro El caso Pedro Salinas\, del Prof. Dr. Percy García Cavero (Universidad de Piura - República del Perú)
+UID:af91c39b-db79-4e10-8012-729be80f5d14@af91.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/por-un-ejercicio-del-derecho-a-informar-libre-de-difamacion-presentacion-del-libro-i-el-caso-pedro-salinas-i-del-prof-dr-percy-garcia-cavero-universidad-de-piura-republica-del-peru
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-conferencias-en-xenotrasplantes-y-derecho
+DURATION:PT2H
+DTSTART:20231005T213000Z
+SUMMARY:Ciclo de conferencias en Xenotrasplantes y Derecho
+UID:852b07cc-f13f-4ad6-882a-aa08fd57d973@852b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-conferencias-en-xenotrasplantes-y-derecho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-y-taller-de-debate-y-argumentacion-juridica
+DURATION:PT2H
+DTSTART:20230913T200000Z
+SUMMARY:Programa y Taller de Debate y Argumentación Jurídica
+UID:9e9ee038-8bb2-4dd1-8320-12bf014b58a8@9e9e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-y-taller-de-debate-y-argumentacion-juridica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-internacional-de-politicas-publicas-trabajo-salud-y-derechos-humanos
+DURATION:PT2H
+DTSTART:20231011T130000Z
+SUMMARY:Seminario internacional de políticas públicas\, trabajo\, salud y derechos humanos
+UID:e760bde3-b979-4685-9ce0-5ec3cdd4c17e@e760.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-internacional-de-politicas-publicas-trabajo-salud-y-derechos-humanos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/acto-de-investidura-como-doctor-i-honoris-causa-i-de-la-uba-a-antonio-garcia-amado
+DURATION:PT2H
+DTSTART:20230928T213000Z
+SUMMARY:Acto de investidura como Doctor Honoris Causa de la UBA a Antonio García Amado 
+UID:03664b93-632f-4bfe-8791-ab76cf7c11e2@0366.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/acto-de-investidura-como-doctor-i-honoris-causa-i-de-la-uba-a-antonio-garcia-amado
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-conferencias-a-cargo-del-profesor-hernan-orozco
+DURATION:PT2H
+DTSTART:20231026T200000Z
+SUMMARY:Ciclo de conferencias a cargo del profesor Hernán Orozco
+UID:1c0266c3-3bf8-43f1-8f93-c5fbf035605d@1c02.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-conferencias-a-cargo-del-profesor-hernan-orozco
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/novedades-jurisprudenciales-en-el-impuesto-a-las-ganancias-ciclo-de-disertaciones-sobre-tributacion-nacional
+DURATION:PT2H
+DTSTART:20230918T210000Z
+SUMMARY:Novedades jurisprudenciales en el Impuesto a las Ganancias. Ciclo de Disertaciones sobre Tributación Nacional
+UID:56f462e7-b6a6-4e9d-83b3-003d632ec668@56f4.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/novedades-jurisprudenciales-en-el-impuesto-a-las-ganancias-ciclo-de-disertaciones-sobre-tributacion-nacional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ix-interescuelas-de-filosofia-del-derecho
+DURATION:PT2H
+DTSTART:20231108T130000Z
+SUMMARY:IX Interescuelas de Filosofía del Derecho
+UID:b860e200-b33b-4fb3-8bbb-c15b6cfdad24@b860.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ix-interescuelas-de-filosofia-del-derecho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-positivismo-o-postpositivismo
+DURATION:PT2H
+DTSTART:20230927T213000Z
+SUMMARY:Conversatorio: ¿Positivismo o postpositivismo? 
+UID:9de4a633-2b25-4efa-b70a-c86e9b8a16b9@9de4.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-positivismo-o-postpositivismo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-la-otra-ventanilla-judicializacion-de-conflictos-sociales-en-argentina-i
+DURATION:PT2H
+DTSTART:20230912T210000Z
+SUMMARY:Presentación del libro La otra ventanilla. Judicialización de conflictos sociales en Argentina
+UID:7cc8c2b9-876a-49b1-9a84-c3b1334b140e@7cc8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-la-otra-ventanilla-judicializacion-de-conflictos-sociales-en-argentina-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/encuentro-sobre-derecho-de-las-familias-y-sucesiones
+DURATION:PT2H
+DTSTART:20230922T190000Z
+SUMMARY:Encuentro sobre Derecho de las Familias y Sucesiones
+UID:797c69df-4b2f-4f22-b371-d6cdd5861f97@797c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/encuentro-sobre-derecho-de-las-familias-y-sucesiones
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/vulnerabilidad-y-derecho-penal
+DURATION:PT2H
+DTSTART:20230926T210000Z
+SUMMARY:Vulnerabilidad y derecho penal
+UID:7dd1c189-4d16-42a8-b436-83e24e888c96@7dd1.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/vulnerabilidad-y-derecho-penal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/el-beneficiario-final-y-la-planificacion-fiscal-internacional
+DURATION:PT2H
+DTSTART:20230913T160000Z
+SUMMARY:El beneficiario final y la planificación fiscal internacional
+UID:c9bcb572-43b9-4a6f-b6cd-c8605f67bf3a@c9bc.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/el-beneficiario-final-y-la-planificacion-fiscal-internacional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/jornadas-de-capacitacion-ambiental-1
+DURATION:PT2H
+DTSTART:20230914T210000Z
+SUMMARY:Jornadas de Capacitación Ambiental 
+UID:0072dbc0-336d-4dc2-b9f8-5558c8aa46f9@0072.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/jornadas-de-capacitacion-ambiental-1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-exposiciones-del-prof-dr-luca-marafioti
+DURATION:PT2H
+DTSTART:20230914T210000Z
+SUMMARY:Ciclo de exposiciones del Prof. Dr. Luca Marafioti
+UID:0e4be9f3-e186-4c38-a4b6-f02b0c87ff75@0e4b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/ciclo-de-exposiciones-del-prof-dr-luca-marafioti
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/estafa-informatica-y-los-problemas-de-imputacion
+DURATION:PT2H
+DTSTART:20230919T200000Z
+SUMMARY:Estafa informática y los problemas de imputación
+UID:fd0606b8-d4b2-474d-80a4-cc65958e4f4b@fd06.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/estafa-informatica-y-los-problemas-de-imputacion
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-salud-mental-y-derecho-civil-cuestiones-actuales
+DURATION:PT2H
+DTSTART:20230925T200000Z
+SUMMARY:Jornada "Salud mental y derecho civil: cuestiones actuales"
+UID:71c50eb2-d35d-4f16-8c50-0f006ad48be9@71c5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/jornada-salud-mental-y-derecho-civil-cuestiones-actuales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/propuesta-para-incorporar-el-ecocidio-al-codigo-penal-de-la-nacion
+DURATION:PT2H
+DTSTART:20230911T190000Z
+SUMMARY:Propuesta para incorporar el Ecocidio al Código Penal de la Nación
+UID:9b6ce461-ac6e-4dc6-8e3a-c4da5a06b14b@9b6c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/propuesta-para-incorporar-el-ecocidio-al-codigo-penal-de-la-nacion
 END:VEVENT
 END:VCALENDAR
