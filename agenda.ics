@@ -2,51 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
+DURATION:PT2H
+DTSTART:20231215T183000Z
+SUMMARY:Programa "Difusión de cultura tributaria"
+UID:4cacbf4b-d95f-46a3-8568-018197cc4c37@4cac.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/violencia-de-genero-digital-el-caso-de-la-ley-olimpia
+DURATION:PT2H
+DTSTART:20231207T210000Z
+SUMMARY:Violencia de género digital: el caso de la Ley Olimpia
+UID:0a9cddbc-2f6b-44ff-aa29-4490b4383280@0a9c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/violencia-de-genero-digital-el-caso-de-la-ley-olimpia
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/webinarios-de-derecho-constitucional-universidad-de-oviedo-universidad-de-buenos-aires
 DURATION:PT2H
 DTSTART:20231213T180000Z
 SUMMARY:Webinarios de Derecho Constitucional - Universidad de Oviedo-Universidad de Buenos Aires
-UID:f9b9e3da-9243-49b2-bbb1-62b256422f5c@f9b9.org
+UID:37272986-bde6-4b82-b91a-4d2e6fbba779@3727.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/webinarios-de-derecho-constitucional-universidad-de-oviedo-universidad-de-buenos-aires
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-alfonsin-y-los-derechos-humanos-i-de-alejandro-carrio
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/la-proteccion-jurisdiccional-del-derecho-constitucional-al-medio-ambiente-en-espana
 DURATION:PT2H
-DTSTART:20231206T210000Z
-SUMMARY:Presentación del libro Alfonsín y los Derechos Humanos\, de Alejandro Carrió
-UID:df79fbe5-77d8-4f7b-a814-cbf469d9fe46@df79.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-alfonsin-y-los-derechos-humanos-i-de-alejandro-carrio
+DTSTART:20231213T204500Z
+SUMMARY:La protección jurisdiccional del derecho constitucional al medio ambiente en España
+UID:44f9e486-703d-4e2e-8f71-4323be8f6b42@44f9.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/la-proteccion-jurisdiccional-del-derecho-constitucional-al-medio-ambiente-en-espana
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/el-derecho-penal-del-ciudadano-frente-a-las-inequidades-una-critica
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-de-la-catedra-a-cargo-del-prof-dr-fernando-j-cordoba
 DURATION:PT2H
-DTSTART:20231206T200000Z
-SUMMARY:El derecho penal del ciudadano frente a las inequidades. Una crítica
-UID:9db7a630-7bb6-460e-96a9-e23c388d05e1@9db7.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/el-derecho-penal-del-ciudadano-frente-a-las-inequidades-una-critica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
-DURATION:PT2H
-DTSTART:20240410T200000Z
-SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
-UID:5272c6a0-f304-4a2c-b8a7-2a4422e3d205@5272.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
+DTSTART:20231213T210000Z
+SUMMARY:Seminario de la Cátedra a cargo del Prof. Dr. Fernando J. Córdoba
+UID:a5fc3c19-49bd-4e58-ad3c-8329f6c066b9@a5fc.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-de-la-catedra-a-cargo-del-prof-dr-fernando-j-cordoba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-sobre-metodos-de-ensenanza-en-ciencias-juridicas-tradicion-e-innovacion-en-el-siglo-xxi
 DURATION:PT2H
 DTSTART:20231214T213000Z
 SUMMARY:Conversatorio sobre métodos de enseñanza en ciencias jurídicas. Tradición e Innovación en el siglo XXI
-UID:7df462f2-7e52-472b-9af0-ddf476f69bbc@7df4.org
+UID:8ac8e740-a920-4a73-b47f-455bf40bb3e5@8ac8.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-sobre-metodos-de-ensenanza-en-ciencias-juridicas-tradicion-e-innovacion-en-el-siglo-xxi
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
+DURATION:PT2H
+DTSTART:20240410T200000Z
+SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
+UID:56a9617c-b579-4d68-998d-d500ca65dcbb@56a9.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/critica-al-derecho-penal-climatico
 DURATION:PT2H
 DTSTART:20231207T170000Z
 SUMMARY:Crítica al Derecho Penal Climático
-UID:34225ec1-c45b-4472-aa8d-d9667dadb5cb@3422.org
+UID:b2c64a32-c929-4db5-8da1-9808e7642d0c@b2c6.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/critica-al-derecho-penal-climatico
 END:VEVENT
 BEGIN:VEVENT
@@ -54,79 +70,15 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-
 DURATION:PT2H
 DTSTART:20231211T200000Z
 SUMMARY:Presentación del libro Cooperación jurídica internacional en materia penal. Herramientas y estrategias en la lucha contra la delincuencia organizada transnacional
-UID:43266cc1-b5ea-4ea0-b6cb-9f2bd76621c4@4326.org
+UID:9057a1f5-23df-47b9-ae17-9cfc456d2614@9057.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/presentacion-del-libro-i-cooperacion-juridica-internacional-en-materia-penal-herramientas-y-estrategias-en-la-lucha-contra-la-delincuencia-organizada-transnacional-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/violencia-de-genero-digital-el-caso-de-la-ley-olimpia
-DURATION:PT2H
-DTSTART:20231207T210000Z
-SUMMARY:Violencia de género digital: el caso de la Ley Olimpia
-UID:99ada12e-eccd-42d2-90c4-73c10e9c53ad@99ad.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/violencia-de-genero-digital-el-caso-de-la-ley-olimpia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/transparencia-en-prisiones-miradas-comparadas-entre-argentina-y-canada
-DURATION:PT2H
-DTSTART:20231206T220000Z
-SUMMARY:Transparencia en prisiones. Miradas comparadas entre Argentina y Canadá
-UID:71d3bf97-a959-4bb4-a08d-5328c2a89862@71d3.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/transparencia-en-prisiones-miradas-comparadas-entre-argentina-y-canada
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/facilitacion-de-inversiones-para-el-desarrollo-desafios-del-nuevo-acuerdo-de-la-omc-y-potencial-para-america-latina
-DURATION:PT2H
-DTSTART:20231206T120000Z
-SUMMARY:Facilitación de inversiones para el desarrollo: desafíos del nuevo acuerdo de la OMC y potencial para América Latina
-UID:4c065669-3586-47ac-9b8f-a2dbccaad671@4c06.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/facilitacion-de-inversiones-para-el-desarrollo-desafios-del-nuevo-acuerdo-de-la-omc-y-potencial-para-america-latina
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
-DURATION:PT2H
-DTSTART:20231215T183000Z
-SUMMARY:Programa "Difusión de cultura tributaria"
-UID:9b905cbb-6d09-4c3b-beb6-ab1a2a1490ea@9b90.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-de-actualizacion-en-derecho-internacional-humanitario
-DURATION:PT2H
-DTSTART:20231206T220000Z
-SUMMARY:Seminario de actualización en Derecho Internacional Humanitario
-UID:bb2141c5-b3d8-4e66-9770-8d6c8396465e@bb21.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-de-actualizacion-en-derecho-internacional-humanitario
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-de-la-catedra-a-cargo-del-prof-dr-fernando-j-cordoba
-DURATION:PT2H
-DTSTART:20231213T210000Z
-SUMMARY:Seminario de la Cátedra a cargo del Prof. Dr. Fernando J. Córdoba
-UID:e82ccc66-e32f-42ba-b946-c767898235db@e82c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-de-la-catedra-a-cargo-del-prof-dr-fernando-j-cordoba
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-intercatedras-de-derecho-penal-y-filosofia-autonomia-paternalismo-y-derecho-penal
-DURATION:PT2H
-DTSTART:20231206T180000Z
-SUMMARY:Seminario intercátedras de Derecho Penal y Filosofía "Autonomía\, paternalismo y derecho penal"
-UID:ac1eedef-9750-4328-9920-506578e7fd49@ac1e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-intercatedras-de-derecho-penal-y-filosofia-autonomia-paternalismo-y-derecho-penal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/la-proteccion-jurisdiccional-del-derecho-constitucional-al-medio-ambiente-en-espana
-DURATION:PT2H
-DTSTART:20231213T204500Z
-SUMMARY:La protección jurisdiccional del derecho constitucional al medio ambiente en España
-UID:9cb4d660-dd30-4c5e-87fe-f6487baa4f7d@9cb4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/la-proteccion-jurisdiccional-del-derecho-constitucional-al-medio-ambiente-en-espana
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/fortalecimiento-de-clubes
 DURATION:PT2H
 DTSTART:20231210T130000Z
 SUMMARY:Fortalecimiento de clubes
-UID:28560880-0fe6-4288-96a4-bc4e471d619f@2856.org
+UID:e0fb8e6a-4934-45a7-ba42-7c78059c16d4@e0fb.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/fortalecimiento-de-clubes
 END:VEVENT
 END:VCALENDAR
