@@ -2,75 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/webinarios-de-derecho-constitucional-universidad-de-oviedo-universidad-de-buenos-aires
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-sobre-metodos-de-ensenanza-en-ciencias-juridicas-tradicion-e-innovacion-en-el-siglo-xxi
 DURATION:PT2H
-DTSTART:20231213T180000Z
-SUMMARY:Webinarios de Derecho Constitucional - Universidad de Oviedo-Universidad de Buenos Aires
-UID:fc961d3d-8058-4404-b84b-43fcea1999b7@fc96.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/webinarios-de-derecho-constitucional-universidad-de-oviedo-universidad-de-buenos-aires
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia
-DURATION:PT2H
-DTSTART:20231220T190000Z
-SUMMARY:Nuevas perspectivas sobre derecho penal\, proceso penal y criminología
-UID:09bd7707-8e48-4bd0-a4a7-68ba2d03fc0f@09bd.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-de-la-catedra-a-cargo-del-prof-dr-fernando-j-cordoba
-DURATION:PT2H
-DTSTART:20231213T210000Z
-SUMMARY:Seminario de la Cátedra a cargo del Prof. Dr. Fernando J. Córdoba
-UID:52187587-1e82-47f6-8fb4-ecfe4a89d3e4@5218.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/seminario-de-la-catedra-a-cargo-del-prof-dr-fernando-j-cordoba
+DTSTART:20231214T213000Z
+SUMMARY:Conversatorio sobre métodos de enseñanza en ciencias jurídicas. Tradición e Innovación en el siglo XXI
+UID:fbb888c9-3d58-46c2-b1d0-661e27b5683c@fbb8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-sobre-metodos-de-ensenanza-en-ciencias-juridicas-tradicion-e-innovacion-en-el-siglo-xxi
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/critica-al-derecho-penal-climatico
 DURATION:PT2H
 DTSTART:20231218T170000Z
 SUMMARY:Crítica al Derecho Penal Climático
-UID:2fc9d632-aeac-444e-b709-4cfebd25263b@2fc9.org
+UID:2f589156-738d-4595-8ddf-6c5042d99267@2f58.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/critica-al-derecho-penal-climatico
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-y-presentacion-de-la-obra-obligaciones-en-pesos-y-en-dolares
+DURATION:PT2H
+DTSTART:20231220T210000Z
+SUMMARY:Conversatorio y presentación de la obra: Obligaciones en pesos y en dólares
+UID:b896514d-f0de-40e9-9e61-bb8352cc54be@b896.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-y-presentacion-de-la-obra-obligaciones-en-pesos-y-en-dolares
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
 DURATION:PT2H
 DTSTART:20240410T200000Z
 SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
-UID:cef5d028-3901-4ccc-aa16-99a05a315743@cef5.org
+UID:39e60804-b0bd-4389-ae90-d836716b8c1e@39e6.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-sobre-metodos-de-ensenanza-en-ciencias-juridicas-tradicion-e-innovacion-en-el-siglo-xxi
-DURATION:PT2H
-DTSTART:20231214T213000Z
-SUMMARY:Conversatorio sobre métodos de enseñanza en ciencias jurídicas. Tradición e Innovación en el siglo XXI
-UID:1396cd4e-bc34-4f3c-a309-a33818ab65e2@1396.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-sobre-metodos-de-ensenanza-en-ciencias-juridicas-tradicion-e-innovacion-en-el-siglo-xxi
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
-DURATION:PT2H
-DTSTART:20231215T183000Z
-SUMMARY:Programa "Difusión de cultura tributaria"
-UID:65fbd954-6882-4e64-98c4-56a360c2568e@65fb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/la-proteccion-jurisdiccional-del-derecho-constitucional-al-medio-ambiente-en-espana
-DURATION:PT2H
-DTSTART:20231213T204500Z
-SUMMARY:La protección jurisdiccional del derecho constitucional al medio ambiente en España
-UID:e38ff3d1-e253-4aa4-9aea-c103b783421f@e38f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/la-proteccion-jurisdiccional-del-derecho-constitucional-al-medio-ambiente-en-espana
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
 DURATION:PT2H
 DTSTART:20240614T130000Z
 SUMMARY:Encuentro sobre los xenotrasplantes (EXT)
-UID:695597d7-44d0-4697-ae5d-a9bebaef9b07@6955.org
+UID:d43b981b-d426-42a9-b42c-cc573e226d7b@d43b.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
+DURATION:PT2H
+DTSTART:20231215T183000Z
+SUMMARY:Programa "Difusión de cultura tributaria"
+UID:4c29c864-041a-4030-82f0-1eae7c27d461@4c29.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/programa-difusion-de-cultura-tributaria
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia
+DURATION:PT2H
+DTSTART:20231220T190000Z
+SUMMARY:Nuevas perspectivas sobre derecho penal\, proceso penal y criminología
+UID:6226f113-474e-474c-b6f0-362bd9f84fa2@6226.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia
 END:VEVENT
 END:VCALENDAR
