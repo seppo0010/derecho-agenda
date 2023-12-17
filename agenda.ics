@@ -2,35 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/critica-al-derecho-penal-climatico
-DURATION:PT2H
-DTSTART:20231218T170000Z
-SUMMARY:Crítica al Derecho Penal Climático
-UID:e37beca7-5d64-4e6a-b188-3ae1ab44eaf4@e37b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/critica-al-derecho-penal-climatico
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia
 DURATION:PT2H
 DTSTART:20231220T190000Z
 SUMMARY:Nuevas perspectivas sobre derecho penal\, proceso penal y criminología
-UID:3093f1c5-404f-4e4e-9167-8794fca7bd1a@3093.org
+UID:5f48cf9e-77e6-424f-b98c-cb7ea2856ff6@5f48.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/problemas-y-enfoques-de-los-conceptos-juridicos
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
 DURATION:PT2H
-DTSTART:20231219T210000Z
-SUMMARY:Problemas y enfoques de los conceptos jurídicos
-UID:769837e1-9a84-43c5-9e19-8e601e30e0f4@7698.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/problemas-y-enfoques-de-los-conceptos-juridicos
+DTSTART:20240410T200000Z
+SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
+UID:a0c00932-f1d2-4a35-bfbf-f8bee099855b@a0c0.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-y-presentacion-de-la-obra-obligaciones-en-pesos-y-en-dolares
 DURATION:PT2H
 DTSTART:20231220T210000Z
 SUMMARY:Conversatorio y presentación de la obra: Obligaciones en pesos y en dólares
-UID:5f41bb73-786e-4a44-83d4-b826a6e0bb16@5f41.org
+UID:0c08e582-ba2a-4fee-8c31-9d60fdb84429@0c08.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-y-presentacion-de-la-obra-obligaciones-en-pesos-y-en-dolares
 END:VEVENT
 BEGIN:VEVENT
@@ -38,15 +30,23 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sob
 DURATION:PT2H
 DTSTART:20240614T130000Z
 SUMMARY:Encuentro sobre los xenotrasplantes (EXT)
-UID:fab62346-ecc0-4f02-b035-71d9c627044a@fab6.org
+UID:374d34a4-26dc-46e1-89a7-c5e59f1beaa8@374d.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/critica-al-derecho-penal-climatico
 DURATION:PT2H
-DTSTART:20240410T200000Z
-SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
-UID:94951f19-3405-4c9e-9c80-542cddb963ca@9495.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
+DTSTART:20231218T170000Z
+SUMMARY:Crítica al Derecho Penal Climático
+UID:f7ffa51c-67b5-4863-b345-8d8ef4df827a@f7ff.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/critica-al-derecho-penal-climatico
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/problemas-y-enfoques-de-los-conceptos-juridicos
+DURATION:PT2H
+DTSTART:20231219T210000Z
+SUMMARY:Problemas y enfoques de los conceptos jurídicos
+UID:6463d115-213e-4b0b-94a3-bfac50e74232@6463.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/problemas-y-enfoques-de-los-conceptos-juridicos
 END:VEVENT
 END:VCALENDAR
