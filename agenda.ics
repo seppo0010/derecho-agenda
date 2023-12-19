@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia
+DURATION:PT2H
+DTSTART:20231220T190000Z
+SUMMARY:Nuevas perspectivas sobre derecho penal\, proceso penal y criminología
+UID:f3ec8a00-910b-4b26-a8de-5e35c3b8b84b@f3ec.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-y-presentacion-de-la-obra-obligaciones-en-pesos-y-en-dolares
 DURATION:PT2H
 DTSTART:20231220T210000Z
 SUMMARY:Conversatorio y presentación de la obra: Obligaciones en pesos y en dólares
-UID:202fdbdf-8ec5-4eed-b830-27eee0d6ad0e@202f.org
+UID:2597245d-4314-4297-afde-b18aee44ad36@2597.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/conversatorio-y-presentacion-de-la-obra-obligaciones-en-pesos-y-en-dolares
 END:VEVENT
 BEGIN:VEVENT
@@ -14,7 +22,7 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sob
 DURATION:PT2H
 DTSTART:20240614T130000Z
 SUMMARY:Encuentro sobre los xenotrasplantes (EXT)
-UID:faf095d4-ff95-4999-b460-e8f72b76606a@faf0.org
+UID:6543bb56-404b-4fe6-b778-484e67e47926@6543.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
 END:VEVENT
 BEGIN:VEVENT
@@ -22,31 +30,15 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-
 DURATION:PT2H
 DTSTART:20240410T200000Z
 SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
-UID:914a08cd-4a2c-466f-9093-639ac3f89223@914a.org
+UID:e6196ec6-ff84-4694-9119-213a10f947d5@e619.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia
-DURATION:PT2H
-DTSTART:20231220T190000Z
-SUMMARY:Nuevas perspectivas sobre derecho penal\, proceso penal y criminología
-UID:d1d504ae-68f1-4268-b6d6-20a8ec9db977@d1d5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/problemas-y-enfoques-de-los-conceptos-juridicos
 DURATION:PT2H
 DTSTART:20231219T210000Z
 SUMMARY:Problemas y enfoques de los conceptos jurídicos
-UID:58267004-5e46-494a-976b-fab36c7aea2b@5826.org
+UID:4f43de31-2044-4759-8a83-99e0c86205bd@4f43.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2023/problemas-y-enfoques-de-los-conceptos-juridicos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/critica-al-derecho-penal-climatico
-DURATION:PT2H
-DTSTART:20231218T170000Z
-SUMMARY:Crítica al Derecho Penal Climático
-UID:a23a162b-ff0d-4520-9adc-f515b12edf0b@a23a.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/critica-al-derecho-penal-climatico
 END:VEVENT
 END:VCALENDAR
