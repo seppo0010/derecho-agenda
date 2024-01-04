@@ -2,27 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
-DURATION:PT2H
-DTSTART:20231031T210000Z
-SUMMARY:Coloquio regional: (In)seguridad internacional: reflexiones en torno de los desafíos nucleares actuales
-UID:ce9f312f-fcf0-47fa-a9ef-83c9dbfa8b56@ce9f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2023/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/phishing-e-inteligencia-artificial
 DURATION:PT2H
 DTSTART:20240228T150000Z
 SUMMARY:Phishing e inteligencia artificial
-UID:03bba9df-e928-461e-8be9-b49be3ee7cd1@03bb.org
+UID:f1a74cca-f8f4-4d9e-a7d1-f975c26d8068@f1a7.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/phishing-e-inteligencia-artificial
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-inaugural-catedra-garibaldi
+DURATION:PT2H
+DTSTART:20240320T213000Z
+SUMMARY:Clase inaugural Cátedra Garibaldi
+UID:40f608c5-96ca-4f0d-93b5-7f1a74c4cc13@40f6.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-inaugural-catedra-garibaldi
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2023/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
+DURATION:PT2H
+DTSTART:20231031T210000Z
+SUMMARY:Coloquio regional: (In)seguridad internacional: reflexiones en torno de los desafíos nucleares actuales
+UID:c4bbf793-025b-457d-8e0b-08bf7f3b070f@c4bb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2023/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-pedagogica
+DURATION:PT2H
+DTSTART:20240410T213000Z
+SUMMARY:Jornada pedagógica
+UID:2b027d5f-00c9-4cbe-af18-8f0b9c9b38f3@2b02.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-pedagogica
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-de-laboratorio
 DURATION:PT2H
 DTSTART:20240508T213000Z
 SUMMARY:Charla de laboratorio
-UID:55ac74ab-7ef0-4d5c-a7b8-6932f431efde@55ac.org
+UID:8e652862-c02a-4fd3-a062-58d8f332b24a@8e65.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-de-laboratorio
 END:VEVENT
 BEGIN:VEVENT
@@ -30,39 +46,23 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-
 DURATION:PT2H
 DTSTART:20240410T200000Z
 SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
-UID:853411e4-3f95-4f9c-a058-9a43cae3d217@8534.org
+UID:801b2e25-6377-4169-b35a-eca33e8047d5@801b.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-inaugural-catedra-garibaldi
-DURATION:PT2H
-DTSTART:20240320T213000Z
-SUMMARY:Clase inaugural Cátedra Garibaldi
-UID:28644466-5231-49b4-9720-0a9dd85a53cb@2864.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-inaugural-catedra-garibaldi
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
-DURATION:PT2H
-DTSTART:20240614T130000Z
-SUMMARY:Encuentro sobre los xenotrasplantes (EXT)
-UID:748989da-0085-4196-ae22-dd3d6a7ba0e6@7489.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-pedagogica
-DURATION:PT2H
-DTSTART:20240410T213000Z
-SUMMARY:Jornada pedagógica
-UID:7f6f816e-b634-4784-b9f6-3bbcdeb9d8be@7f6f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-pedagogica
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/la-guerra-palestino-israeli-a-la-luz-del-derecho-internacional
 DURATION:PT2H
 DTSTART:20240313T180000Z
 SUMMARY:La guerra palestino-israelí a la luz del derecho internacional
-UID:bc7879e8-770b-4283-a334-8f202b3b107b@bc78.org
+UID:5435ed05-9ea3-4c55-8ac8-21d1dcdfb83b@5435.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/la-guerra-palestino-israeli-a-la-luz-del-derecho-internacional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
+DURATION:PT2H
+DTSTART:20240614T130000Z
+SUMMARY:Encuentro sobre los xenotrasplantes (EXT)
+UID:b39b0032-276e-4c35-9eb1-8212410d6cd8@b39b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
 END:VEVENT
 END:VCALENDAR
