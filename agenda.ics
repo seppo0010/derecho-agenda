@@ -2,19 +2,99 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-capacitacion-ley-micaela-para-profesorado-de-ciencias-juridicas-de-la-facultad-de-derecho-uba
+DURATION:PT2H
+DTSTART:20240411T200000Z
+SUMMARY:Ciclo de capacitación Ley Micaela para Profesorado de Ciencias Jurídicas de la Facultad de Derecho (UBA)  
+UID:31a4fdbb-498a-42b0-89d7-92b38471f973@31a4.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-capacitacion-ley-micaela-para-profesorado-de-ciencias-juridicas-de-la-facultad-de-derecho-uba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/crimenes-ambientales-posible-juzgamiento-ante-la-cpi
+DURATION:PT2H
+DTSTART:20240429T210000Z
+SUMMARY:Crímenes ambientales: posible juzgamiento ante la CPI
+UID:8ec9fe4c-71e5-4a8b-8152-04cca503e272@8ec9.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/crimenes-ambientales-posible-juzgamiento-ante-la-cpi
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/reunion-de-catedra-proactiva-presente-y-futuro
+DURATION:PT2H
+DTSTART:20240304T203000Z
+SUMMARY:Reunión de cátedra Proactiva. Presente y futuro
+UID:c8ea5d66-d824-45f3-b254-0c0f52ef9b1a@c8ea.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/reunion-de-catedra-proactiva-presente-y-futuro
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
+DURATION:PT2H
+DTSTART:20240404T130000Z
+SUMMARY:Coloquio regional: (In)seguridad internacional: reflexiones en torno de los desafíos nucleares actuales
+UID:d7103e09-f699-4ba1-a4e5-eb4b1906ab08@d710.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
+DURATION:PT2H
+DTSTART:20240410T200000Z
+SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
+UID:7571653f-ef57-4abf-8f9a-80ad4d5cb6eb@7571.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/xi-encuentro-de-derecho-de-las-familias-y-derechos-humanos-la-multiparentalidad-impacto-en-las-relaciones-familiares
 DURATION:PT2H
 DTSTART:20240515T180000Z
 SUMMARY:XI Encuentro de Derecho de las Familias y Derechos Humanos. La multiparentalidad. Impacto en las relaciones familiares
-UID:70dc4e81-f4bf-400d-96e4-b5cce9a81fc7@70dc.org
+UID:533fe1d4-aa1d-4c9f-933e-463dd481acb6@533f.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/xi-encuentro-de-derecho-de-las-familias-y-derechos-humanos-la-multiparentalidad-impacto-en-las-relaciones-familiares
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencias-del-prof-helmut-satzger
+DURATION:PT2H
+DTSTART:20240311T210000Z
+SUMMARY:Conferencias del Prof. Helmut Satzger
+UID:6b5dec5d-17b3-4640-b0b6-40b5bef122ff@6b5d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencias-del-prof-helmut-satzger
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/derecho-internacional-privado-entre-la-academia-y-la-practica
+DURATION:PT2H
+DTSTART:20240228T220000Z
+SUMMARY:Derecho internacional privado: entre la Academia y la práctica
+UID:9e4f4ac9-cf03-4145-8f3f-48badc0e0243@9e4f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/derecho-internacional-privado-entre-la-academia-y-la-practica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/la-guerra-palestino-israeli-a-la-luz-del-derecho-internacional
+DURATION:PT2H
+DTSTART:20240313T180000Z
+SUMMARY:La guerra palestino-israelí a la luz del derecho internacional
+UID:1a673764-07a1-4edf-9831-28edd61f4771@1a67.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/la-guerra-palestino-israeli-a-la-luz-del-derecho-internacional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/sesion-abierta-del-equipo-que-representara-a-la-facultad-en-la-willem-c-vis-sobre-arbitraje-comercial-internacional-y-compraventa-internacional-de-mercaderias
+DURATION:PT2H
+DTSTART:20240306T210000Z
+SUMMARY:Sesión abierta del equipo que representará a la Facultad en la Willem C. Vis sobre Arbitraje Comercial Internacional y Compraventa Internacional de Mercaderías
+UID:110e3067-8b61-41c3-883b-aaa47255a8e7@110e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/sesion-abierta-del-equipo-que-representara-a-la-facultad-en-la-willem-c-vis-sobre-arbitraje-comercial-internacional-y-compraventa-internacional-de-mercaderias
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/sesion-abierta-del-equipo-de-la-facultad-en-la-xi-competencia-de-arbitraje-internacional-de-inversion
+DURATION:PT2H
+DTSTART:20240305T213000Z
+SUMMARY:Sesión Abierta del Equipo de la Facultad en la XI Competencia de Arbitraje Internacional de Inversión 
+UID:8eb5e774-55cf-4dc9-ab50-674d4ec51454@8eb5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/sesion-abierta-del-equipo-de-la-facultad-en-la-xi-competencia-de-arbitraje-internacional-de-inversion
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
 DURATION:PT2H
 DTSTART:20240614T130000Z
 SUMMARY:Encuentro sobre los xenotrasplantes (EXT)
-UID:e5d1e1ee-50a6-4b37-8876-dbdd71a2eeb0@e5d1.org
+UID:346042f8-88c0-4954-8e1e-c6d1dbacc54e@3460.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
 END:VEVENT
 BEGIN:VEVENT
@@ -22,111 +102,31 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-virtu
 DURATION:PT2H
 DTSTART:20240312T210000Z
 SUMMARY:Jornada virtual: "Seguridad social. Es social y es justicia" 
-UID:08d7e4dc-49c9-4387-a949-725dca684747@08d7.org
+UID:3142156b-7001-45ae-81dd-2fa8cdc7f945@3142.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-virtual-seguridad-social-es-social-y-es-justicia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/la-guerra-palestino-israeli-a-la-luz-del-derecho-internacional
-DURATION:PT2H
-DTSTART:20240313T180000Z
-SUMMARY:La guerra palestino-israelí a la luz del derecho internacional
-UID:cc7cec5a-f59f-4484-b8b2-044ef1d44906@cc7c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/la-guerra-palestino-israeli-a-la-luz-del-derecho-internacional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/sesion-abierta-del-equipo-de-la-facultad-en-la-xi-competencia-de-arbitraje-internacional-de-inversion
-DURATION:PT2H
-DTSTART:20240305T213000Z
-SUMMARY:Sesión Abierta del Equipo de la Facultad en la XI Competencia de Arbitraje Internacional de Inversión 
-UID:c74e49de-34d7-45a6-b48e-77408f2247a6@c74e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/sesion-abierta-del-equipo-de-la-facultad-en-la-xi-competencia-de-arbitraje-internacional-de-inversion
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
-DURATION:PT2H
-DTSTART:20240404T130000Z
-SUMMARY:Coloquio regional: (In)seguridad internacional: reflexiones en torno de los desafíos nucleares actuales
-UID:4fe85986-7377-433a-b788-96de57afac35@4fe8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/crimenes-ambientales-posible-juzgamiento-ante-la-cpi
-DURATION:PT2H
-DTSTART:20240429T210000Z
-SUMMARY:Crímenes ambientales: posible juzgamiento ante la CPI
-UID:c23f33c6-f830-4741-b46b-31b91f86d909@c23f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/crimenes-ambientales-posible-juzgamiento-ante-la-cpi
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-inaugural-catedra-garibaldi
-DURATION:PT2H
-DTSTART:20240320T213000Z
-SUMMARY:Clase inaugural Cátedra Garibaldi
-UID:79ad0dee-33a6-44be-8a36-1b023761836a@79ad.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-inaugural-catedra-garibaldi
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/derecho-internacional-privado-entre-la-academia-y-la-practica
-DURATION:PT2H
-DTSTART:20240228T220000Z
-SUMMARY:Derecho internacional privado: entre la Academia y la práctica
-UID:7579406e-9776-44e6-a930-dfc4485e6401@7579.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/derecho-internacional-privado-entre-la-academia-y-la-practica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/sesion-abierta-del-equipo-que-representara-a-la-facultad-en-la-willem-c-vis-sobre-arbitraje-comercial-internacional-y-compraventa-internacional-de-mercaderias
-DURATION:PT2H
-DTSTART:20240306T210000Z
-SUMMARY:Sesión abierta del equipo que representará a la Facultad en la Willem C. Vis sobre Arbitraje Comercial Internacional y Compraventa Internacional de Mercaderías
-UID:4afd3bde-504c-4d8a-aef9-678e7629f4d2@4afd.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/sesion-abierta-del-equipo-que-representara-a-la-facultad-en-la-willem-c-vis-sobre-arbitraje-comercial-internacional-y-compraventa-internacional-de-mercaderias
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencias-del-prof-helmut-satzger
-DURATION:PT2H
-DTSTART:20240311T210000Z
-SUMMARY:Conferencias del Prof. Helmut Satzger
-UID:237583ac-4a8a-44c3-8f50-a4b01bb1828b@2375.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencias-del-prof-helmut-satzger
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
-DURATION:PT2H
-DTSTART:20240410T200000Z
-SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
-UID:0e6dfb34-fde3-4205-b65e-26931cd8be6f@0e6d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-capacitacion-ley-micaela-para-profesorado-de-ciencias-juridicas-de-la-facultad-de-derecho-uba
-DURATION:PT2H
-DTSTART:20240411T200000Z
-SUMMARY:Ciclo de capacitación Ley Micaela para Profesorado de Ciencias Jurídicas de la Facultad de Derecho (UBA)  
-UID:acc46f6c-e060-4742-84df-582547e6936b@acc4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-capacitacion-ley-micaela-para-profesorado-de-ciencias-juridicas-de-la-facultad-de-derecho-uba
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-de-laboratorio
-DURATION:PT2H
-DTSTART:20240508T213000Z
-SUMMARY:Charla de laboratorio
-UID:e2611ce2-f6b5-4cbf-9aa1-adb710970195@e261.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-de-laboratorio
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-pedagogica
 DURATION:PT2H
 DTSTART:20240410T213000Z
 SUMMARY:Jornada pedagógica
-UID:a68c0197-fc1a-4085-98e9-e07646ec3271@a68c.org
+UID:e4ff16ff-b838-4a1e-bc74-80a6ee34c8f4@e4ff.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-pedagogica
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/reunion-de-catedra-proactiva-presente-y-futuro
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-de-laboratorio
 DURATION:PT2H
-DTSTART:20240304T203000Z
-SUMMARY:Reunión de cátedra Proactiva. Presente y futuro
-UID:ba5cd881-6ab9-48e7-bfcb-2c94596b3e68@ba5c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/reunion-de-catedra-proactiva-presente-y-futuro
+DTSTART:20240508T213000Z
+SUMMARY:Charla de laboratorio
+UID:d2f07b80-933d-4a71-81f6-c00f6a1b6ad6@d2f0.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-de-laboratorio
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-inaugural-catedra-garibaldi
+DURATION:PT2H
+DTSTART:20240320T213000Z
+SUMMARY:Clase inaugural Cátedra Garibaldi
+UID:21e31310-3c4e-4f6b-a19e-6f9b47758d06@21e3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-inaugural-catedra-garibaldi
 END:VEVENT
 END:VCALENDAR
