@@ -2,51 +2,83 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-delito-de-evasion-tributaria-como-delito-penal-especial-la-regularizacion-tributaria-y-los-extraneus-una-buena-excusa-para-la-presentacion-del-libro-equivalentes-funcionales-de-la-pena-retributiva-de-federico-montero
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-de-laboratorio
 DURATION:PT2H
-DTSTART:20240403T210000Z
-SUMMARY:El delito de evasión tributaria como delito penal especial\, la regularización tributaria y los extraneus. Una (buena) excusa para la presentación del libro "Equivalentes funcionales de la pena retributiva" de Federico Montero.
-UID:69a71e56-50ed-4d73-ac53-bdb019c8763f@69a7.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-delito-de-evasion-tributaria-como-delito-penal-especial-la-regularizacion-tributaria-y-los-extraneus-una-buena-excusa-para-la-presentacion-del-libro-equivalentes-funcionales-de-la-pena-retributiva-de-federico-montero
+DTSTART:20240508T213000Z
+SUMMARY:Charla de laboratorio
+UID:935f5cdd-d5e4-4e4c-aba2-1016ec96f8e4@935f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-de-laboratorio
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-conferencias-de-eric-hilgendorf
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/curso-de-genero-para-estudiantes-docentes-y-nodocentes-de-la-uba
 DURATION:PT2H
-DTSTART:20240403T210000Z
-SUMMARY:Ciclo de conferencias de Eric Hilgendorf
-UID:e7b0cbbb-9070-4d23-a406-f60ca8be1133@e7b0.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-conferencias-de-eric-hilgendorf
+DTSTART:20240304T030000Z
+SUMMARY:Curso de género para estudiantes\, docentes y nodocentes de la UBA
+UID:1953c347-a567-43c4-a28d-d8b10e5407c4@1953.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/curso-de-genero-para-estudiantes-docentes-y-nodocentes-de-la-uba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/programa-de-capacitacion-sobre-voluntariado-legal-abogados-por-los-pibes-derechos-de-ninos-ninas-y-adolescentes-abordajes-practicos-2-24
+DURATION:PT2H
+DTSTART:20240327T200000Z
+SUMMARY:Programa de capacitación sobre voluntariado legal. "Abogados por los Pibes". Derechos de niños\, niñas y adolescentes: Abordajes prácticos - 2024
+UID:b1e250c4-b19b-45e2-a247-065bd41c2f85@b1e2.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/programa-de-capacitacion-sobre-voluntariado-legal-abogados-por-los-pibes-derechos-de-ninos-ninas-y-adolescentes-abordajes-practicos-2-24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-fronteras-del-sistema-interamericano-de-derechos-humanos-i-de-jorge-a-amaya
+DURATION:PT2H
+DTSTART:20240416T200000Z
+SUMMARY:Presentación del libro Fronteras del Sistema Interamericano de Derechos Humanos\, de Jorge A. Amaya
+UID:f6bf2073-4c20-4f22-a65b-cf11974e0de2@f6bf.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-fronteras-del-sistema-interamericano-de-derechos-humanos-i-de-jorge-a-amaya
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/estrategias-para-la-expresion-oral-y-escrita-en-la-universidad
+DURATION:PT2H
+DTSTART:20240403T200000Z
+SUMMARY:Estrategias para la expresión oral y escrita en la Universidad
+UID:f3da9066-0389-4a6f-9819-1841e90220f5@f3da.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/estrategias-para-la-expresion-oral-y-escrita-en-la-universidad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/inteligencia-artificial-y-responsabilidad-penal
+DURATION:PT2H
+DTSTART:20240327T213000Z
+SUMMARY:Inteligencia artificial y responsabilidad penal
+UID:3ff86abb-fc8f-4424-848f-5cf5148f83af@3ff8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/inteligencia-artificial-y-responsabilidad-penal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
+DURATION:PT2H
+DTSTART:20240404T130000Z
+SUMMARY:Coloquio regional: (In)seguridad internacional: reflexiones en torno de los desafíos nucleares actuales
+UID:f743b2ff-4d2e-4877-a747-214d5c0f15ae@f743.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
 DURATION:PT2H
 DTSTART:20240614T130000Z
 SUMMARY:Encuentro sobre los xenotrasplantes (EXT)
-UID:800ad4dc-390b-4690-a450-2fa29b4f0776@800a.org
+UID:5d6c53c8-825f-4b61-b06c-821daf7eb774@5d6c.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-sobre-los-xenotrasplantes-ext
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-capacitacion-ley-micaela-para-profesorado-de-ciencias-juridicas-de-la-facultad-de-derecho-uba
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-euroamericano-dos-disciplinas-centenarias-historia-del-derecho-y-derecho-romano-desafios-y-perspectivas-futuras
 DURATION:PT2H
-DTSTART:20240411T200000Z
-SUMMARY:Ciclo de capacitación Ley Micaela para Profesorado de Ciencias Jurídicas de la Facultad de Derecho (UBA)  
-UID:631d89db-4997-458c-9b97-9ec3e94a6149@631d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-capacitacion-ley-micaela-para-profesorado-de-ciencias-juridicas-de-la-facultad-de-derecho-uba
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-abierta-sobre-los-derechos-humanos-en-el-mar
-DURATION:PT2H
-DTSTART:20240325T230000Z
-SUMMARY:Clase Abierta sobre los Derechos Humanos en el Mar
-UID:cfc8a642-f2b2-4c72-b40e-5c81293ae45b@cfc8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-abierta-sobre-los-derechos-humanos-en-el-mar
+DTSTART:20240412T210000Z
+SUMMARY:Encuentro euroamericano "Dos disciplinas centenarias: historia del derecho y derecho romano. Desafíos y perspectivas futuras"
+UID:9633cbe1-6c1f-4d85-904e-56ea88960607@9633.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-euroamericano-dos-disciplinas-centenarias-historia-del-derecho-y-derecho-romano-desafios-y-perspectivas-futuras
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/webinarios-la-fuerza-normativa-de-la-constitucion-y-la-sociedad-abierta
 DURATION:PT2H
 DTSTART:20240403T193000Z
 SUMMARY:Webinarios - La fuerza normativa de la Constitución y la sociedad abierta
-UID:09f69afd-2801-4ce2-9e8f-90ffa0b30484@09f6.org
+UID:becdf409-26df-4bb4-96b8-18b9a7e8eff7@becd.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/webinarios-la-fuerza-normativa-de-la-constitucion-y-la-sociedad-abierta
 END:VEVENT
 BEGIN:VEVENT
@@ -54,191 +86,135 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-
 DURATION:PT2H
 DTSTART:20240827T200000Z
 SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
-UID:65a517fb-88a7-459d-bdf4-b5c4d6799064@65a5.org
+UID:7bd1c1d7-1a0d-4808-aa4b-19ac95f264ad@7bd1.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/agenda-2030-objetivos-de-desarrollo-sostenible
-DURATION:PT2H
-DTSTART:20240409T210000Z
-SUMMARY:Agenda 2030 - Objetivos de Desarrollo Sostenible
-UID:fdb83599-34fb-417c-9cbf-0b4ab9de3d95@fdb8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/agenda-2030-objetivos-de-desarrollo-sostenible
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ix-encuentro-de-jovenes-penalistas-el-derecho-penal-en-democracia
 DURATION:PT2H
 DTSTART:20240530T120000Z
 SUMMARY:IX° Encuentro de Jóvenes Penalistas. "El Derecho Penal en Democracia"
-UID:3d6f9c51-37ae-4427-b09f-a445d2d814c0@3d6f.org
+UID:4f8b1eae-167e-4bf5-ab4f-40ccf4e3f184@4f8b.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ix-encuentro-de-jovenes-penalistas-el-derecho-penal-en-democracia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-los-problemas-juridicos-de-la-receta-digital
-DURATION:PT2H
-DTSTART:20240410T200000Z
-SUMMARY:Jornada: los problemas jurídicos de la receta digital
-UID:b28026f3-b416-41b1-adfd-ee4ea484a0a6@b280.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-los-problemas-juridicos-de-la-receta-digital
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/crimenes-ambientales-posible-juzgamiento-ante-la-cpi
-DURATION:PT2H
-DTSTART:20240429T210000Z
-SUMMARY:Crímenes ambientales: posible juzgamiento ante la CPI
-UID:009b6d8d-c9dd-41ea-babd-dc18c68edb99@009b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/crimenes-ambientales-posible-juzgamiento-ante-la-cpi
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/iii-congreso-federal-internacional-e-interdisciplinario-derechos-humanos-para-la-ninez-y-la-adolescencia-teorias-y-practicas-para-el-abordaje-de-los-conflictos-transversales-a-la-ninez
-DURATION:PT2H
-DTSTART:20240530T130000Z
-SUMMARY:III Congreso Federal Internacional e Interdisciplinario. Derechos Humanos para la niñez y la adolescencia. "Teorías y prácticas para el abordaje de los conflictos transversales a la niñez"
-UID:d8714fe2-a31c-4996-b362-2d21979f10a5@d871.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/iii-congreso-federal-internacional-e-interdisciplinario-derechos-humanos-para-la-ninez-y-la-adolescencia-teorias-y-practicas-para-el-abordaje-de-los-conflictos-transversales-a-la-ninez
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencia-regional-sudamericana-de-la-international-society-of-family-law-isf-familias-en-condiciones-precarias-precariedad-de-los-vinculos-familiares
-DURATION:PT2H
-DTSTART:20240411T113000Z
-SUMMARY:Conferencia Regional Sudamericana de la International Society of Family Law (ISF) . Familias en condiciones precarias: ¿precariedad de los vínculos familiares?
-UID:8b783497-7285-40a4-8b90-738add4a4b1c@8b78.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencia-regional-sudamericana-de-la-international-society-of-family-law-isf-familias-en-condiciones-precarias-precariedad-de-los-vinculos-familiares
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-fronteras-del-sistema-interamericano-de-derechos-humanos-i-de-jorge-a-amaya
-DURATION:PT2H
-DTSTART:20240416T200000Z
-SUMMARY:Presentación del libro Fronteras del Sistema Interamericano de Derechos Humanos\, de Jorge A. Amaya
-UID:dc624eff-f510-4d67-b2a6-9de3caee674a@dc62.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-fronteras-del-sistema-interamericano-de-derechos-humanos-i-de-jorge-a-amaya
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/curso-de-genero-para-estudiantes-docentes-y-nodocentes-de-la-uba
-DURATION:PT2H
-DTSTART:20240304T030000Z
-SUMMARY:Curso de género para estudiantes\, docentes y nodocentes de la UBA
-UID:243d62b0-1b35-4ff0-b878-2afa2c554a7e@243d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/curso-de-genero-para-estudiantes-docentes-y-nodocentes-de-la-uba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/las-adultas-mayores-como-personas-de-especial-proteccion
 DURATION:PT2H
 DTSTART:20240326T170000Z
 SUMMARY:Las adultas mayores como personas de especial protección
-UID:8aa5fe88-8ed1-4373-a2d2-32e192fcbcd6@8aa5.org
+UID:be736f5e-dbce-46d2-a634-43389c0f15c8@be73.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/las-adultas-mayores-como-personas-de-especial-proteccion
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-libro-i-economia-politica-argentina-i
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-los-problemas-juridicos-de-la-receta-digital
 DURATION:PT2H
-DTSTART:20240326T210000Z
-SUMMARY:Presentación de libro Economía Política Argentina
-UID:7b33bb00-0e73-48d2-bd1b-a8a14195151c@7b33.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-libro-i-economia-politica-argentina-i
+DTSTART:20240410T200000Z
+SUMMARY:Jornada: los problemas jurídicos de la receta digital
+UID:93b84011-257b-42bd-a05b-1ba7fecb6e4b@93b8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-los-problemas-juridicos-de-la-receta-digital
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/los-y-las-estudiantes-vamos-a-los-juicios
-DURATION:PT2H
-DTSTART:20240422T200000Z
-SUMMARY:Los y las estudiantes vamos a los juicios
-UID:246b4b03-17bf-4cbe-9082-8d30de790751@246b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/los-y-las-estudiantes-vamos-a-los-juicios
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/estrategias-para-la-expresion-oral-y-escrita-en-la-universidad
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/homenaje-al-dr-alberto-david-leiva-en-el-2-aniversario-de-su-fallecimiento-presentacion-del-numero-xii-de-la-revista-i-cruz-del-sur-i
 DURATION:PT2H
 DTSTART:20240403T200000Z
-SUMMARY:Estrategias para la expresión oral y escrita en la Universidad
-UID:9ec63ca2-250e-4ed4-b6a8-33758524f3fa@9ec6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/estrategias-para-la-expresion-oral-y-escrita-en-la-universidad
+SUMMARY:Homenaje al Dr. Alberto David Leiva en el 2º aniversario de su fallecimiento. Presentación del número XII de la Revista Cruz del Sur
+UID:4787f8e7-0c5f-4687-8e84-e17944f61685@4787.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/homenaje-al-dr-alberto-david-leiva-en-el-2-aniversario-de-su-fallecimiento-presentacion-del-numero-xii-de-la-revista-i-cruz-del-sur-i
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/reunion-extraordinaria-de-homenaje-al-prof-dr-hector-raul-sandler
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencia-regional-sudamericana-de-la-international-society-of-family-law-isf-familias-en-condiciones-precarias-precariedad-de-los-vinculos-familiares
 DURATION:PT2H
-DTSTART:20240405T200000Z
-SUMMARY:Reunión extraordinaria de homenaje al Prof. Dr. Héctor Raúl Sandler
-UID:aa426835-5542-4646-909e-6c170beac65e@aa42.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/reunion-extraordinaria-de-homenaje-al-prof-dr-hector-raul-sandler
+DTSTART:20240411T113000Z
+SUMMARY:Conferencia Regional Sudamericana de la International Society of Family Law (ISF) . Familias en condiciones precarias: ¿precariedad de los vínculos familiares?
+UID:c6e7681d-aa7e-444f-81f2-34b4ae9836d1@c6e7.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencia-regional-sudamericana-de-la-international-society-of-family-law-isf-familias-en-condiciones-precarias-precariedad-de-los-vinculos-familiares
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-analisis-critico-de-las-recientes-reformas-en-materia-de-lavado-de-activos-su-vinculacion-con-el-delito-fiscal-el-rol-de-los-y-las-abogados-y-contadores
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-capacitacion-ley-micaela-para-profesorado-de-ciencias-juridicas-de-la-facultad-de-derecho-uba
 DURATION:PT2H
-DTSTART:20240508T210000Z
-SUMMARY:Jornada: Análisis crítico de las recientes reformas en materia de lavado de activos. Su vinculación con el delito fiscal. El rol de los y las abogados y contadores
-UID:a89eea69-2f69-476b-8f6f-b970b559107f@a89e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-analisis-critico-de-las-recientes-reformas-en-materia-de-lavado-de-activos-su-vinculacion-con-el-delito-fiscal-el-rol-de-los-y-las-abogados-y-contadores
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/inteligencia-artificial-y-responsabilidad-penal
-DURATION:PT2H
-DTSTART:20240327T213000Z
-SUMMARY:Inteligencia artificial y responsabilidad penal
-UID:28982e53-2ecc-48d0-a185-67884d22fb2b@2898.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/inteligencia-artificial-y-responsabilidad-penal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-de-laboratorio
-DURATION:PT2H
-DTSTART:20240508T213000Z
-SUMMARY:Charla de laboratorio
-UID:7e63a594-ea8b-46d9-8868-3a1bcd263ef5@7e63.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-de-laboratorio
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-euroamericano-dos-disciplinas-centenarias-historia-del-derecho-y-derecho-romano-desafios-y-perspectivas-futuras
-DURATION:PT2H
-DTSTART:20240412T210000Z
-SUMMARY:Encuentro euroamericano "Dos disciplinas centenarias: historia del derecho y derecho romano. Desafíos y perspectivas futuras"
-UID:62eb8cb0-e0db-4fb7-824c-ba96cad1f6ed@62eb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-euroamericano-dos-disciplinas-centenarias-historia-del-derecho-y-derecho-romano-desafios-y-perspectivas-futuras
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
-DURATION:PT2H
-DTSTART:20240404T130000Z
-SUMMARY:Coloquio regional: (In)seguridad internacional: reflexiones en torno de los desafíos nucleares actuales
-UID:0a411926-b77f-4416-954b-63544cee77d6@0a41.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/coloquio-regional-in-seguridad-internacional-reflexiones-en-torno-de-los-desafios-nucleares-actuales
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-pedagogica
-DURATION:PT2H
-DTSTART:20240410T213000Z
-SUMMARY:Jornada pedagógica
-UID:e5b4a766-6fa8-4324-b8c0-a8619b547127@e5b4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-pedagogica
+DTSTART:20240411T200000Z
+SUMMARY:Ciclo de capacitación Ley Micaela para Profesorado de Ciencias Jurídicas de la Facultad de Derecho (UBA)  
+UID:f176dd07-8a9c-45de-9698-e370bad3780d@f176.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-capacitacion-ley-micaela-para-profesorado-de-ciencias-juridicas-de-la-facultad-de-derecho-uba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/v-jornadas-internacionales-de-derecho-empresarial-empresa-tecnologia-y-desarrollo-humano
 DURATION:PT2H
 DTSTART:20240306T170000Z
 SUMMARY:V Jornadas Internacionales de Derecho Empresarial: Empresa\, tecnología y desarrollo humano 
-UID:3747ce43-94a4-47f8-a26a-effa35a1a188@3747.org
+UID:797f1f9b-d8c1-450a-a343-c813d40d3c58@797f.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/v-jornadas-internacionales-de-derecho-empresarial-empresa-tecnologia-y-desarrollo-humano
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-abierta-sobre-los-derechos-humanos-en-el-mar
+DURATION:PT2H
+DTSTART:20240325T230000Z
+SUMMARY:Clase Abierta sobre los Derechos Humanos en el Mar
+UID:931a486d-ace6-4b3d-b5a1-a56865dce7be@931a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-abierta-sobre-los-derechos-humanos-en-el-mar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-conferencias-de-eric-hilgendorf
+DURATION:PT2H
+DTSTART:20240403T210000Z
+SUMMARY:Ciclo de conferencias de Eric Hilgendorf
+UID:b54f21a0-43b4-412e-b5d1-3244d06586ae@b54f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-conferencias-de-eric-hilgendorf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/reparative-democracy
 DURATION:PT2H
 DTSTART:20240409T180000Z
 SUMMARY:Reparative Democracy
-UID:66d74dab-06f6-4141-be6e-3ef17918c5bd@66d7.org
+UID:03c366fc-6503-40f4-a228-e8f05fc5fcc4@03c3.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/reparative-democracy
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/programa-de-capacitacion-sobre-voluntariado-legal-abogados-por-los-pibes-derechos-de-ninos-ninas-y-adolescentes-abordajes-practicos-2-24
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/iii-congreso-federal-internacional-e-interdisciplinario-derechos-humanos-para-la-ninez-y-la-adolescencia-teorias-y-practicas-para-el-abordaje-de-los-conflictos-transversales-a-la-ninez
 DURATION:PT2H
-DTSTART:20240327T200000Z
-SUMMARY:Programa de capacitación sobre voluntariado legal. "Abogados por los Pibes". Derechos de niños\, niñas y adolescentes: Abordajes prácticos - 2024
-UID:35c1d2c5-f87f-4bee-b7bc-8581d8004639@35c1.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/programa-de-capacitacion-sobre-voluntariado-legal-abogados-por-los-pibes-derechos-de-ninos-ninas-y-adolescentes-abordajes-practicos-2-24
+DTSTART:20240530T130000Z
+SUMMARY:III Congreso Federal Internacional e Interdisciplinario. Derechos Humanos para la niñez y la adolescencia. "Teorías y prácticas para el abordaje de los conflictos transversales a la niñez"
+UID:91048fb7-bfb1-4b9f-8ab3-4332a38437a8@9104.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/iii-congreso-federal-internacional-e-interdisciplinario-derechos-humanos-para-la-ninez-y-la-adolescencia-teorias-y-practicas-para-el-abordaje-de-los-conflictos-transversales-a-la-ninez
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-analisis-critico-de-las-recientes-reformas-en-materia-de-lavado-de-activos-su-vinculacion-con-el-delito-fiscal-el-rol-de-los-y-las-abogados-y-contadores
+DURATION:PT2H
+DTSTART:20240508T210000Z
+SUMMARY:Jornada: Análisis crítico de las recientes reformas en materia de lavado de activos. Su vinculación con el delito fiscal. El rol de los y las abogados y contadores
+UID:0f16c558-ae9a-47b7-b9ed-a900d11db4f5@0f16.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-analisis-critico-de-las-recientes-reformas-en-materia-de-lavado-de-activos-su-vinculacion-con-el-delito-fiscal-el-rol-de-los-y-las-abogados-y-contadores
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-delito-de-evasion-tributaria-como-delito-penal-especial-la-regularizacion-tributaria-y-los-extraneus-una-buena-excusa-para-la-presentacion-del-libro-equivalentes-funcionales-de-la-pena-retributiva-de-federico-montero
+DURATION:PT2H
+DTSTART:20240403T210000Z
+SUMMARY:El delito de evasión tributaria como delito penal especial\, la regularización tributaria y los extraneus. Una (buena) excusa para la presentación del libro "Equivalentes funcionales de la pena retributiva" de Federico Montero.
+UID:6cf2f544-a609-4002-a602-8e17e97c23ef@6cf2.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-delito-de-evasion-tributaria-como-delito-penal-especial-la-regularizacion-tributaria-y-los-extraneus-una-buena-excusa-para-la-presentacion-del-libro-equivalentes-funcionales-de-la-pena-retributiva-de-federico-montero
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-pedagogica
+DURATION:PT2H
+DTSTART:20240410T213000Z
+SUMMARY:Jornada pedagógica
+UID:2763da39-0541-46e5-87d7-d450091157f6@2763.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-pedagogica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/reunion-extraordinaria-de-homenaje-al-prof-dr-hector-raul-sandler
+DURATION:PT2H
+DTSTART:20240405T200000Z
+SUMMARY:Reunión extraordinaria de homenaje al Prof. Dr. Héctor Raúl Sandler
+UID:e7f9aa7b-f492-45bf-9037-09a234dc798b@e7f9.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/reunion-extraordinaria-de-homenaje-al-prof-dr-hector-raul-sandler
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/xi-encuentro-de-derecho-de-las-familias-y-derechos-humanos-la-multiparentalidad-impacto-en-las-relaciones-familiares
 DURATION:PT2H
 DTSTART:20240515T180000Z
 SUMMARY:XI Encuentro de Derecho de las Familias y Derechos Humanos. La multiparentalidad. Impacto en las relaciones familiares
-UID:8a44c79e-0feb-434c-8f20-972e2a91428b@8a44.org
+UID:10b07752-3249-4c26-a17f-ad3f416ea23f@10b0.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/xi-encuentro-de-derecho-de-las-familias-y-derechos-humanos-la-multiparentalidad-impacto-en-las-relaciones-familiares
 END:VEVENT
 BEGIN:VEVENT
@@ -246,15 +222,39 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/programa-y-ta
 DURATION:PT2H
 DTSTART:20240403T200000Z
 SUMMARY:Programa y Taller de Debate y Argumentación Jurídica
-UID:dc0fc7e4-dba6-445f-a58d-450db6d88dc6@dc0f.org
+UID:01a29977-cc6d-4c74-b9f3-bc26a14952be@01a2.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/programa-y-taller-de-debate-y-argumentacion-juridica
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/homenaje-al-dr-alberto-david-leiva-en-el-2-aniversario-de-su-fallecimiento-presentacion-del-numero-xii-de-la-revista-i-cruz-del-sur-i
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/los-y-las-estudiantes-vamos-a-los-juicios
 DURATION:PT2H
-DTSTART:20240403T200000Z
-SUMMARY:Homenaje al Dr. Alberto David Leiva en el 2º aniversario de su fallecimiento. Presentación del número XII de la Revista Cruz del Sur
-UID:7a1593b1-4c4e-40f3-9350-964b3b99be6b@7a15.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/homenaje-al-dr-alberto-david-leiva-en-el-2-aniversario-de-su-fallecimiento-presentacion-del-numero-xii-de-la-revista-i-cruz-del-sur-i
+DTSTART:20240422T200000Z
+SUMMARY:Los y las estudiantes vamos a los juicios
+UID:0999d1e0-2df4-44a1-88dd-8509b5f7effd@0999.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/los-y-las-estudiantes-vamos-a-los-juicios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/agenda-2030-objetivos-de-desarrollo-sostenible
+DURATION:PT2H
+DTSTART:20240409T210000Z
+SUMMARY:Agenda 2030 - Objetivos de Desarrollo Sostenible
+UID:43ba8f28-af8b-42c7-88e6-b417ee4ae911@43ba.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/agenda-2030-objetivos-de-desarrollo-sostenible
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-libro-i-economia-politica-argentina-i
+DURATION:PT2H
+DTSTART:20240326T210000Z
+SUMMARY:Presentación de libro Economía Política Argentina
+UID:53119bdb-2540-4767-bd14-05021335eebb@5311.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-libro-i-economia-politica-argentina-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/crimenes-ambientales-posible-juzgamiento-ante-la-cpi
+DURATION:PT2H
+DTSTART:20240429T210000Z
+SUMMARY:Crímenes ambientales: posible juzgamiento ante la CPI
+UID:48bb380d-f90d-487f-9b10-b55954745e68@48bb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/crimenes-ambientales-posible-juzgamiento-ante-la-cpi
 END:VEVENT
 END:VCALENDAR
