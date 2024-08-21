@@ -2,411 +2,75 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/i-seminario-de-la-red-internacional-de-investigacion-academica-de-la-facultad-de-derecho-uba-y-del-instituto-brasileiro-de-ensino-desenvolvimento-e-pesquisa-idp
-DURATION:PT2H
-DTSTART:20240828T213000Z
-SUMMARY:I Seminario de la Red Internacional de investigación académica de la Facultad de Derecho (UBA) y del Instituto Brasileiro de Ensino\, Desenvolvimento e Pesquisa (IDP)
-UID:a0c697a8-ac4b-4246-bfca-47a41762d08e@a0c6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/i-seminario-de-la-red-internacional-de-investigacion-academica-de-la-facultad-de-derecho-uba-y-del-instituto-brasileiro-de-ensino-desenvolvimento-e-pesquisa-idp
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/la-moda-sin-crueldad-animal
-DURATION:PT2H
-DTSTART:20241014T210000Z
-SUMMARY:La moda sin crueldad animal
-UID:90fc1ebb-80fb-4c1c-b29f-24ff1db76ff6@90fc.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/la-moda-sin-crueldad-animal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
-DURATION:PT2H
-DTSTART:20240828T200000Z
-SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
-UID:b7148e2a-4c84-4181-b517-a88e80035d37@b714.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-informativa-concurso-jean-pictet-sobre-alegatos-y-simulacion-en-derecho-internacional-humanitario
-DURATION:PT2H
-DTSTART:20240820T230000Z
-SUMMARY:Charla Informativa - Concurso "Jean Pictet" sobre Alegatos y Simulación en Derecho Internacional Humanitario
-UID:846ff408-c544-4e28-b57c-991ebbdf025e@846f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-informativa-concurso-jean-pictet-sobre-alegatos-y-simulacion-en-derecho-internacional-humanitario
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/entrega-del-doctorado-i-honoris-causa-i-de-la-universidad-de-buenos-aires-a-gilmar-ferreira-mendes
-DURATION:PT2H
-DTSTART:20240830T200000Z
-SUMMARY:Entrega del Doctorado Honoris Causa de la Universidad de Buenos Aires a Gilmar Ferreira Mendes
-UID:15e09e37-f983-40ea-9db8-a9f4b0464166@15e0.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/entrega-del-doctorado-i-honoris-causa-i-de-la-universidad-de-buenos-aires-a-gilmar-ferreira-mendes
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/i-jornadas-intercatedras-de-derecho-internacional-privado
-DURATION:PT2H
-DTSTART:20240909T180000Z
-SUMMARY:I Jornadas Intercátedras de Derecho Internacional Privado
-UID:bab4b87d-0ae3-477c-862f-fd0e6eccf1da@bab4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/i-jornadas-intercatedras-de-derecho-internacional-privado
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
-DURATION:PT2H
-DTSTART:20240924T150000Z
-SUMMARY:Igualdad y no discriminación en tiempos de odios
-UID:953e46b4-f33b-4206-b254-da158bf1549b@953e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/reformas-legales-a-los-regimenes-de-derecho-administrativo
-DURATION:PT2H
-DTSTART:20240822T180000Z
-SUMMARY:Reformas legales a los regímenes de derecho administrativo 
-UID:2512bf32-7aee-4fa5-96c6-38d79e402ee5@2512.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/reformas-legales-a-los-regimenes-de-derecho-administrativo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-taller-aproximaciones-a-la-historia-argentina-desde-la-educacion-universitaria-derecho-uba-dialogos-entre-proyectos-de-investigacion-2-24
-DURATION:PT2H
-DTSTART:20241007T200000Z
-SUMMARY:Seminario Taller: Aproximaciones a la historia argentina desde la educación universitaria (DERECHO-UBA). Diálogos entre proyectos de investigación 2024
-UID:8cc5a991-b112-4efa-8d6b-a0859a681287@8cc5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-taller-aproximaciones-a-la-historia-argentina-desde-la-educacion-universitaria-derecho-uba-dialogos-entre-proyectos-de-investigacion-2-24
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-la-reforma-laboral-en-la-ley-de-bases
-DURATION:PT2H
-DTSTART:20240821T210000Z
-SUMMARY:Seminario: La Reforma Laboral en la "Ley de Bases"
-UID:5f4f758f-a164-45fb-b7e4-5d2c3aca0346@5f4f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-la-reforma-laboral-en-la-ley-de-bases
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-i-libro-constitucional-de-lectura-y-de-la-vida-latinoamericano-i-de-peter-haeberle
-DURATION:PT2H
-DTSTART:20240829T200000Z
-SUMMARY:Presentación de la obra Libro constitucional\, de lectura y de la vida latinoamericano\, de Peter Häberle
-UID:62a1f0b7-17ef-41ca-a14d-38f3ea26a454@62a1.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-i-libro-constitucional-de-lectura-y-de-la-vida-latinoamericano-i-de-peter-haeberle
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/cuestiones-controvertidas-en-relacion-con-el-paralelismo-de-vias-administrativa-y-su-revision-judicial-y-penal-tributaria-jurisprudencia
 DURATION:PT2H
 DTSTART:20240904T210000Z
 SUMMARY:Cuestiones controvertidas en relación con el paralelismo de vías\, administrativa -y su revisión judicial- y penal tributaria. Jurisprudencia
-UID:35ca853d-4a95-46cb-b039-5d290de4202c@35ca.org
+UID:79c229c2-2c16-4bda-872c-73c5aee4cb29@79c2.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/cuestiones-controvertidas-en-relacion-con-el-paralelismo-de-vias-administrativa-y-su-revision-judicial-y-penal-tributaria-jurisprudencia
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-casos-constitucionales-complejos-ensayos-para-una-fundamentacion-sobre-el-sentido-del-derecho-i
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/i-seminario-de-la-red-internacional-de-investigacion-academica-de-la-facultad-de-derecho-uba-y-del-instituto-brasileiro-de-ensino-desenvolvimento-e-pesquisa-idp
 DURATION:PT2H
-DTSTART:20240827T213000Z
-SUMMARY:Presentación del libro Casos Constitucionales Complejos. Ensayos para una fundamentación sobre el sentido del derecho
-UID:18585990-da11-444b-bca2-f63ddcf36252@1858.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-casos-constitucionales-complejos-ensayos-para-una-fundamentacion-sobre-el-sentido-del-derecho-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/incentivos-y-desincentivos-para-la-cooperacion-fiscal-internacional-en-america-latina
-DURATION:PT2H
-DTSTART:20240821T210000Z
-SUMMARY:Incentivos y desincentivos para la Cooperación Fiscal Internacional en América Latina
-UID:fac578fa-f62c-483b-89e8-123968fdfe06@fac5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/incentivos-y-desincentivos-para-la-cooperacion-fiscal-internacional-en-america-latina
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ii-seminario-internacional-las-mujeres-piensan-a-las-ciencias-juridicas
-DURATION:PT2H
-DTSTART:20240822T130000Z
-SUMMARY:II Seminario internacional: Las mujeres piensan a las Ciencias jurídicas
-UID:e6a0eaee-ea37-4f05-b5b9-c2a1235927a2@e6a0.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ii-seminario-internacional-las-mujeres-piensan-a-las-ciencias-juridicas
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-sistema-informatico-del-poder-judicial-de-la-nacion-lex-aa
-DURATION:PT2H
-DTSTART:20240826T210000Z
-SUMMARY:Charla "Sistema informático del Poder Judicial de la Nación. Lex 100"
-UID:cec82dfa-60f9-4970-abe9-b5afdc37af31@cec8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-sistema-informatico-del-poder-judicial-de-la-nacion-lex-aa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/primer-encuentro-de-las-catedras-de-finanzas-publicas-y-derecho-tributario-schafrik-corti-control-externo-de-la-actividad-estatal
-DURATION:PT2H
-DTSTART:20240910T200000Z
-SUMMARY:Primer Encuentro de las Cátedras de Finanzas Públicas y Derecho Tributario. Schafrik-Corti: Control Externo de la Actividad Estatal
-UID:f7923e62-a46c-4045-b583-eaa38268a242@f792.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/primer-encuentro-de-las-catedras-de-finanzas-publicas-y-derecho-tributario-schafrik-corti-control-externo-de-la-actividad-estatal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-derecho-de-la-integracion-i
-DURATION:PT2H
-DTSTART:20240822T210000Z
-SUMMARY:Presentación del libro Derecho de la Integración
-UID:fe6e5778-d9ac-4c6d-bcdd-9659a2d2cd51@fe6e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-derecho-de-la-integracion-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-homenaje-al-prof-dr-agustin-gordillo
-DURATION:PT2H
-DTSTART:20240905T120000Z
-SUMMARY:Jornada homenaje al Prof. Dr. Agustín Gordillo
-UID:aae49239-f0a2-4369-b2db-39c8333df427@aae4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-homenaje-al-prof-dr-agustin-gordillo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-introductoria-sobre-el-ejercicio-docente-para-ayudantes-alumnos
-DURATION:PT2H
-DTSTART:20240822T200000Z
-SUMMARY:Charla introductoria sobre el ejercicio docente para ayudantes alumnos
-UID:9546b871-c4a4-4bc0-8e8b-68e3a7e43f37@9546.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-introductoria-sobre-el-ejercicio-docente-para-ayudantes-alumnos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-en-conmemoracion-de-los-3-anos-de-la-reforma-de-aa994
-DURATION:PT2H
-DTSTART:20240827T180000Z
-SUMMARY:Jornada en conmemoración de los 30 años de la reforma de 1994
-UID:a108cd2e-c57c-4da9-8545-a260b615812d@a108.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-en-conmemoracion-de-los-3-anos-de-la-reforma-de-aa994
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/poesia-y-derecho-xviii-homenaje-a-blanca-varela
-DURATION:PT2H
-DTSTART:20240829T210000Z
-SUMMARY:Poesía y Derecho XVIII: Homenaje a Blanca Varela 
-UID:8c47e002-4c73-4318-8da6-e95ad8ab5a1b@8c47.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/poesia-y-derecho-xviii-homenaje-a-blanca-varela
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/problematica-del-derecho-del-trabajo-cuestiones-actuales-cuestiones-modernas
-DURATION:PT2H
-DTSTART:20241114T174000Z
-SUMMARY:Problemática del Derecho del Trabajo: cuestiones actuales\, cuestiones modernas
-UID:212fc394-6a07-462c-b99e-38f4d170e55f@212f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/problematica-del-derecho-del-trabajo-cuestiones-actuales-cuestiones-modernas
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/derecho-y-tecnologia-para-futuros-abogados-hoy-es-manana
-DURATION:PT2H
-DTSTART:20240822T220000Z
-SUMMARY:Derecho y tecnología para futuros abogados. Hoy es mañana
-UID:9d4270fc-9908-4310-a3ec-8c19e1c6f25d@9d42.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/derecho-y-tecnologia-para-futuros-abogados-hoy-es-manana
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/los-otros-juicios-de-nuremberg
-DURATION:PT2H
-DTSTART:20240822T200000Z
-SUMMARY:Los otros juicios de Núremberg
-UID:524954ac-d6bd-4dbc-ab7e-6a16578a55e2@5249.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/los-otros-juicios-de-nuremberg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
-DURATION:PT2H
-DTSTART:20240827T200000Z
-SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
-UID:b1d4ebb5-5354-4258-a3e5-4e5944cd55d8@b1d4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/sustancias-y-drogas-una-guerra-sin-limites-que-es-lo-prohibido
-DURATION:PT2H
-DTSTART:20240820T213000Z
-SUMMARY:Sustancias y drogas: una guerra sin límites ¿Qué es lo prohibido?
-UID:c041fe33-ec18-493b-a940-e1b21b29b03d@c041.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/sustancias-y-drogas-una-guerra-sin-limites-que-es-lo-prohibido
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-bases-para-la-libertad-en-el-procedimiento-administrativo-argentino
-DURATION:PT2H
-DTSTART:20240826T130000Z
-SUMMARY:Seminario "Bases para la Libertad en el Procedimiento Administrativo Argentino"
-UID:9b1d49e6-edf9-4e2c-ba88-39431be74d95@9b1d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-bases-para-la-libertad-en-el-procedimiento-administrativo-argentino
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-libro-i-que-es-el-estado-y-otros-escritos-anarquistas-i
-DURATION:PT2H
-DTSTART:20240910T210000Z
-SUMMARY:Presentación de libro ¿Qué es el estado? Y otros escritos anarquistas
-UID:d2f25c03-b6a4-4826-9a57-d0297a8b74ac@d2f2.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-libro-i-que-es-el-estado-y-otros-escritos-anarquistas-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/reformas-laborales-limites-y-horizontes-que-discusiones-para-el-trabajo-de-hoy
-DURATION:PT2H
-DTSTART:20240902T200000Z
-SUMMARY:Reformas laborales. Límites y horizontes ¿Qué discusiones para el trabajo de hoy?
-UID:f5367d72-3453-4323-b95b-b00f1bfc0278@f536.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/reformas-laborales-limites-y-horizontes-que-discusiones-para-el-trabajo-de-hoy
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/campana-de-donacion-voluntaria-de-sangre
-DURATION:PT2H
-DTSTART:20240827T123000Z
-SUMMARY:Campaña de Donación Voluntaria de Sangre
-UID:3534717f-a934-4760-b1ae-207162163fa0@3534.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/campana-de-donacion-voluntaria-de-sangre
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
-DURATION:PT2H
-DTSTART:20241128T030000Z
-SUMMARY:IV Concurso Regional de Alegatos y Simulación en Derecho Internacional Humanitario
-UID:2f0ec700-bcf0-42d7-a235-6b4451e014a9@2f0e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/responsabilidad-de-los-directorios-corporativos-en-materia-de-ciberseguridad
-DURATION:PT2H
-DTSTART:20240821T213000Z
-SUMMARY:Responsabilidad de los directorios corporativos en materia de ciberseguridad
-UID:da02dba5-1a49-4257-94c8-8cfa2263a79d@da02.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/responsabilidad-de-los-directorios-corporativos-en-materia-de-ciberseguridad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-consumidores-en-entornos-digitales
-DURATION:PT2H
-DTSTART:20240905T210000Z
-SUMMARY:Jornada "Consumidores en entornos Digitales"
-UID:327e8bff-a3dd-4786-a389-c3ae3337b9c6@327e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-consumidores-en-entornos-digitales
+DTSTART:20240828T213000Z
+SUMMARY:I Seminario de la Red Internacional de investigación académica de la Facultad de Derecho (UBA) y del Instituto Brasileiro de Ensino\, Desenvolvimento e Pesquisa (IDP)
+UID:cbdac148-cae9-42ce-9fd0-e3e90d121796@cbda.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/i-seminario-de-la-red-internacional-de-investigacion-academica-de-la-facultad-de-derecho-uba-y-del-instituto-brasileiro-de-ensino-desenvolvimento-e-pesquisa-idp
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/lavado-de-activos-nuevos-desafios-1
 DURATION:PT2H
 DTSTART:20240822T213000Z
 SUMMARY:Lavado de activos: nuevos desafíos 
-UID:70b26c53-4194-4bd9-82fa-15e95887375f@70b2.org
+UID:5beb4bd9-22f9-4782-974e-1924dfa49106@5beb.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/lavado-de-activos-nuevos-desafios-1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conflictologia-y-calidad-institucional-la-corrupcion-institucional
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/problematica-del-derecho-del-trabajo-cuestiones-actuales-cuestiones-modernas
 DURATION:PT2H
-DTSTART:20240906T200000Z
-SUMMARY:Conflictología y calidad institucional. La corrupción institucional
-UID:539d22c7-76bc-4bca-998b-e3eddd9c4e61@539d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conflictologia-y-calidad-institucional-la-corrupcion-institucional
+DTSTART:20241114T174000Z
+SUMMARY:Problemática del Derecho del Trabajo: cuestiones actuales\, cuestiones modernas
+UID:ed8293e0-aa3c-41d9-92fa-32f039e3c93a@ed82.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/problematica-del-derecho-del-trabajo-cuestiones-actuales-cuestiones-modernas
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/xii-congreso-argentino-de-derecho-concursal-y-x-congreso-iberoamericano-sobre-insolvencia
-DURATION:PT2H
-DTSTART:20241016T030000Z
-SUMMARY:XII Congreso Argentino de Derecho Concursal y X Congreso Iberoamericano sobre Insolvencia
-UID:67fa8c9c-0809-4cd0-9047-ee445d6f06c4@67fa.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/xii-congreso-argentino-de-derecho-concursal-y-x-congreso-iberoamericano-sobre-insolvencia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/x-interescuelas-de-filosofia-del-derecho
-DURATION:PT2H
-DTSTART:20241113T113000Z
-SUMMARY:X Interescuelas de Filosofía del Derecho
-UID:501f39c2-183c-44f1-919b-1b27b7960774@501f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/x-interescuelas-de-filosofia-del-derecho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-de-derechos-humanos-con-marisa-herrera
-DURATION:PT2H
-DTSTART:20240827T210000Z
-SUMMARY:Encuentro de Derechos Humanos con Marisa Herrera
-UID:22db26c4-ee72-4620-aee1-9ce40c423965@22db.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-de-derechos-humanos-con-marisa-herrera
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/la-ensenanza-de-los-derechos-humanos-avances-de-investigacion
-DURATION:PT2H
-DTSTART:20240830T213000Z
-SUMMARY:La enseñanza de los Derechos Humanos. Avances de investigación
-UID:fc9ad7b5-b633-4094-b14e-0c2af973fe6f@fc9a.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/la-ensenanza-de-los-derechos-humanos-avances-de-investigacion
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/taller-de-reanimacion-cardio-pulmonar-y-primeros-auxilios
-DURATION:PT2H
-DTSTART:20240821T180000Z
-SUMMARY:Taller de Reanimación Cardio Pulmonar y Primeros Auxilios 
-UID:044540a4-3adb-4aed-bab2-5958dac8f6da@0445.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/taller-de-reanimacion-cardio-pulmonar-y-primeros-auxilios
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/congreso-mundial-sobre-apoyos-y-cuidados-de-personas-adultas-y-mayores-de-la-curatela-a-la-autonomia-personal
-DURATION:PT2H
-DTSTART:20240827T130000Z
-SUMMARY:Congreso Mundial sobre Apoyos y Cuidados de Personas Adultas y Mayores. De la curatela a la autonomía personal
-UID:9a040a7d-c0c0-4ab6-8e47-56b42e1821e8@9a04.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/congreso-mundial-sobre-apoyos-y-cuidados-de-personas-adultas-y-mayores-de-la-curatela-a-la-autonomia-personal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-acceso-a-la-justicia-de-los-adultos-mayores-en-colombia
-DURATION:PT2H
-DTSTART:20240828T160000Z
-SUMMARY:El acceso a la justicia de los adultos mayores en Colombia
-UID:f9fc5c17-8f61-4a56-b1b4-433de4eb87cf@f9fc.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-acceso-a-la-justicia-de-los-adultos-mayores-en-colombia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornadas-de-la-maestria-en-derecho-privado
-DURATION:PT2H
-DTSTART:20241031T173000Z
-SUMMARY:Jornadas de la Maestría en Derecho Privado
-UID:1bc1e57c-bb40-48be-88e7-35d1bb372bcb@1bc1.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornadas-de-la-maestria-en-derecho-privado
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-cuando-no-estemos-historias-de-vida-de-familiares-de-personas-con-discapacidad-intelectual-i
-DURATION:PT2H
-DTSTART:20240822T200000Z
-SUMMARY:Presentación del libro Cuando no estemos. Historias de vida de familiares de personas con discapacidad intelectual
-UID:48bb65e6-fa4d-48f7-ab8a-6bc22e38e85a@48bb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-cuando-no-estemos-historias-de-vida-de-familiares-de-personas-con-discapacidad-intelectual-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-el-caso-carmen-guillot-de-livingston-buenos-aires-aa9aa4-los-informes-medico-legales-y-la-responsabilidad-penal-femenina-en-el-positivismo-criminologico-i
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-en-conmemoracion-de-los-3-anos-de-la-reforma-de-aa994
 DURATION:PT2H
 DTSTART:20240827T180000Z
-SUMMARY:Presentación del libro El Caso Carmen Guillot de Livingston (Buenos Aires 1914). Los informes médico-legales y la responsabilidad penal femenina en el positivismo criminológico
-UID:884bcc71-4597-4a70-953a-c1a970731de6@884b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-el-caso-carmen-guillot-de-livingston-buenos-aires-aa9aa4-los-informes-medico-legales-y-la-responsabilidad-penal-femenina-en-el-positivismo-criminologico-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-punto-verde-movil-de-la-universidad-visita-nuestro-edificio
-DURATION:PT2H
-DTSTART:20240829T130000Z
-SUMMARY:El PUNTO VERDE MÓVIL de la Universidad visita nuestro edificio
-UID:af838799-7622-4e72-bd54-7616e5b5ef90@af83.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-punto-verde-movil-de-la-universidad-visita-nuestro-edificio
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-teoria-del-delito-parte-especial-y-criminologia-latinoamericana-y-feminista-i
-DURATION:PT2H
-DTSTART:20240920T203000Z
-SUMMARY:Presentación del libro Teoría del delito\, parte especial y criminología latinoamericana y feminista
-UID:00c96c9e-3dce-4c73-a132-f840031a3f41@00c9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-teoria-del-delito-parte-especial-y-criminologia-latinoamericana-y-feminista-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/mesa-de-investigacion-las-mujeres-y-las-ciencias-juridicas-ii-mujeres-y-adolescencias-abordajes-desde-la-violencia-economica-y-las-decisiones-bioeticas-desde-las-perspectivas-de-derechos-de-las-familias
-DURATION:PT2H
-DTSTART:20240905T200000Z
-SUMMARY:Mesa de investigación: Las mujeres y las Ciencias Jurídicas II: Mujeres y adolescencias: abordajes desde la violencia económica y las decisiones bioéticas desde las perspectivas de derechos de las familias
-UID:39537d79-3858-4620-a3f0-bfde7a9d4b39@3953.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/mesa-de-investigacion-las-mujeres-y-las-ciencias-juridicas-ii-mujeres-y-adolescencias-abordajes-desde-la-violencia-economica-y-las-decisiones-bioeticas-desde-las-perspectivas-de-derechos-de-las-familias
+SUMMARY:Jornada en conmemoración de los 30 años de la reforma de 1994
+UID:9ea8e7a2-918b-4246-b238-a5da959707ff@9ea8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-en-conmemoracion-de-los-3-anos-de-la-reforma-de-aa994
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/clases-magistrales-a-cargo-de-prof-titulares-asociados-y-emeritos-departamento-de-derecho-penal-y-criminologia
 DURATION:PT2H
 DTSTART:20240904T200000Z
 SUMMARY:Clases magistrales a cargo de Prof. Titulares\, Asociados y Eméritos. Departamento de Derecho Penal y Criminología
-UID:8054f159-789f-487e-b1a2-e2e543807bdf@8054.org
+UID:a787b548-95ef-4d1e-a9a6-e9f4132eb0e6@a787.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/clases-magistrales-a-cargo-de-prof-titulares-asociados-y-emeritos-departamento-de-derecho-penal-y-criminologia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ii-seminario-internacional-las-mujeres-piensan-a-las-ciencias-juridicas
+DURATION:PT2H
+DTSTART:20240822T130000Z
+SUMMARY:II Seminario internacional: Las mujeres piensan a las Ciencias jurídicas
+UID:130d5830-e2a1-453d-a1a8-53503f695f17@130d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ii-seminario-internacional-las-mujeres-piensan-a-las-ciencias-juridicas
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/derecho-y-tecnologia-para-futuros-abogados-hoy-es-manana
+DURATION:PT2H
+DTSTART:20240822T220000Z
+SUMMARY:Derecho y tecnología para futuros abogados. Hoy es mañana
+UID:f9181889-ccb2-4a54-bd55-42945357e89b@f918.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/derecho-y-tecnologia-para-futuros-abogados-hoy-es-manana
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/a-3-anos-de-la-reforma-constitucional-conversatorio-con-protagonistas
 DURATION:PT2H
 DTSTART:20240822T213000Z
 SUMMARY:A 30 años de la Reforma Constitucional. Conversatorio con protagonistas
-UID:3ac01bbb-2bde-4e22-8aee-449bb43ce091@3ac0.org
+UID:411d1ec8-048a-481c-ab49-e7927164af21@411d.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/a-3-anos-de-la-reforma-constitucional-conversatorio-con-protagonistas
 END:VEVENT
 BEGIN:VEVENT
@@ -414,15 +78,335 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/negociaciones
 DURATION:PT2H
 DTSTART:20240831T123000Z
 SUMMARY:Negociaciones difíciles. Valor agregado del ejercicio de la abogacía en la gestión del conflicto
-UID:ba4c2cc3-ee36-4441-aa51-8c24b90ca82b@ba4c.org
+UID:f4d389d4-95a7-40d8-907b-ccb6da602b79@f4d3.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/negociaciones-dificiles-valor-agregado-del-ejercicio-de-la-abogacia-en-la-gestion-del-conflicto
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/i-jornadas-intercatedras-de-derecho-internacional-privado
+DURATION:PT2H
+DTSTART:20240909T180000Z
+SUMMARY:I Jornadas Intercátedras de Derecho Internacional Privado
+UID:041dff04-ee33-4d7a-987d-5929805e6898@041d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/i-jornadas-intercatedras-de-derecho-internacional-privado
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-la-reforma-laboral-en-la-ley-de-bases
+DURATION:PT2H
+DTSTART:20240821T210000Z
+SUMMARY:Seminario: La Reforma Laboral en la "Ley de Bases"
+UID:6ddac302-b81b-4fb9-8bf3-2f6f910e124b@6dda.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-la-reforma-laboral-en-la-ley-de-bases
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/reformas-laborales-limites-y-horizontes-que-discusiones-para-el-trabajo-de-hoy
+DURATION:PT2H
+DTSTART:20240902T200000Z
+SUMMARY:Reformas laborales. Límites y horizontes ¿Qué discusiones para el trabajo de hoy?
+UID:7cc20e6b-898a-4146-ac44-d66f020f1702@7cc2.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/reformas-laborales-limites-y-horizontes-que-discusiones-para-el-trabajo-de-hoy
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/reflexiones-feministas-sobre-la-reforma-constitucional-un-encuentro-con-maria-del-carmen-feijoo-convencional-constituyente-de-aa994
 DURATION:PT2H
 DTSTART:20240826T203000Z
 SUMMARY:Reflexiones feministas sobre la reforma constitucional: un encuentro con María del Carmen Feijoo\, Convencional Constituyente de 1994
-UID:e067c047-be29-4b3e-a5b6-d15122f4b4dc@e067.org
+UID:f9867f66-aed7-4761-96ab-b18ee97435e2@f986.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/reflexiones-feministas-sobre-la-reforma-constitucional-un-encuentro-con-maria-del-carmen-feijoo-convencional-constituyente-de-aa994
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-bases-para-la-libertad-en-el-procedimiento-administrativo-argentino
+DURATION:PT2H
+DTSTART:20240826T130000Z
+SUMMARY:Seminario "Bases para la Libertad en el Procedimiento Administrativo Argentino"
+UID:3a148a52-c6ba-4210-af54-3370db6a0e30@3a14.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-bases-para-la-libertad-en-el-procedimiento-administrativo-argentino
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/x-interescuelas-de-filosofia-del-derecho
+DURATION:PT2H
+DTSTART:20241113T113000Z
+SUMMARY:X Interescuelas de Filosofía del Derecho
+UID:91a5552e-e0d9-49c9-8fa9-9489a3cb2ad9@91a5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/x-interescuelas-de-filosofia-del-derecho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornadas-de-la-maestria-en-derecho-privado
+DURATION:PT2H
+DTSTART:20241031T173000Z
+SUMMARY:Jornadas de la Maestría en Derecho Privado
+UID:b0e5b1cd-06c6-4dc9-9a6f-7307bb67cf73@b0e5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornadas-de-la-maestria-en-derecho-privado
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
+DURATION:PT2H
+DTSTART:20240924T150000Z
+SUMMARY:Igualdad y no discriminación en tiempos de odios
+UID:00250e56-e7a9-4a09-850b-9e45cde4511a@0025.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conflictologia-y-calidad-institucional-la-corrupcion-institucional
+DURATION:PT2H
+DTSTART:20240906T200000Z
+SUMMARY:Conflictología y calidad institucional. La corrupción institucional
+UID:9c5c8495-2a44-4e03-8394-92d617c1f7d6@9c5c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conflictologia-y-calidad-institucional-la-corrupcion-institucional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-cuando-no-estemos-historias-de-vida-de-familiares-de-personas-con-discapacidad-intelectual-i
+DURATION:PT2H
+DTSTART:20240822T200000Z
+SUMMARY:Presentación del libro Cuando no estemos. Historias de vida de familiares de personas con discapacidad intelectual
+UID:202509de-15bd-4c52-bd8c-ab595e77f41d@2025.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-cuando-no-estemos-historias-de-vida-de-familiares-de-personas-con-discapacidad-intelectual-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/la-ensenanza-de-los-derechos-humanos-avances-de-investigacion
+DURATION:PT2H
+DTSTART:20240830T213000Z
+SUMMARY:La enseñanza de los Derechos Humanos. Avances de investigación
+UID:32aec9ba-aa60-4291-bf02-04a6932f5af4@32ae.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/la-ensenanza-de-los-derechos-humanos-avances-de-investigacion
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/primer-encuentro-de-las-catedras-de-finanzas-publicas-y-derecho-tributario-schafrik-corti-control-externo-de-la-actividad-estatal
+DURATION:PT2H
+DTSTART:20240910T200000Z
+SUMMARY:Primer Encuentro de las Cátedras de Finanzas Públicas y Derecho Tributario. Schafrik-Corti: Control Externo de la Actividad Estatal
+UID:6503a80a-0def-4f04-9a78-98189321532e@6503.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/primer-encuentro-de-las-catedras-de-finanzas-publicas-y-derecho-tributario-schafrik-corti-control-externo-de-la-actividad-estatal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/la-moda-sin-crueldad-animal
+DURATION:PT2H
+DTSTART:20241014T210000Z
+SUMMARY:La moda sin crueldad animal
+UID:c9ae0dd3-906a-4569-beb6-06231bc68e41@c9ae.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/la-moda-sin-crueldad-animal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
+DURATION:PT2H
+DTSTART:20240827T200000Z
+SUMMARY:Presentación de la obra "El Principialismo y las fuentes de la Constitución Nacional" y la "Constitución federal de la República Argentina"
+UID:b9da9245-ab25-47f5-94ae-618db2de9756@b9da.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-el-principialismo-y-las-fuentes-de-la-constitucion-nacional-y-la-constitucion-federal-de-la-republica-argentina-1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-i-libro-constitucional-de-lectura-y-de-la-vida-latinoamericano-i-de-peter-haeberle
+DURATION:PT2H
+DTSTART:20240829T200000Z
+SUMMARY:Presentación de la obra Libro constitucional\, de lectura y de la vida latinoamericano\, de Peter Häberle
+UID:3365e4ce-6e30-4310-bf06-775015fcdb5c@3365.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-la-obra-i-libro-constitucional-de-lectura-y-de-la-vida-latinoamericano-i-de-peter-haeberle
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/campana-de-donacion-voluntaria-de-sangre
+DURATION:PT2H
+DTSTART:20240827T123000Z
+SUMMARY:Campaña de Donación Voluntaria de Sangre
+UID:d22beefc-80f2-4e61-af7e-19a50c4bbc9d@d22b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/campana-de-donacion-voluntaria-de-sangre
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/mesa-de-investigacion-las-mujeres-y-las-ciencias-juridicas-ii-mujeres-y-adolescencias-abordajes-desde-la-violencia-economica-y-las-decisiones-bioeticas-desde-las-perspectivas-de-derechos-de-las-familias
+DURATION:PT2H
+DTSTART:20240905T200000Z
+SUMMARY:Mesa de investigación: Las mujeres y las Ciencias Jurídicas II: Mujeres y adolescencias: abordajes desde la violencia económica y las decisiones bioéticas desde las perspectivas de derechos de las familias
+UID:96554059-7ee6-4b7a-a295-2c7d8c2ef6a1@9655.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/mesa-de-investigacion-las-mujeres-y-las-ciencias-juridicas-ii-mujeres-y-adolescencias-abordajes-desde-la-violencia-economica-y-las-decisiones-bioeticas-desde-las-perspectivas-de-derechos-de-las-familias
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-consumidores-en-entornos-digitales
+DURATION:PT2H
+DTSTART:20240905T210000Z
+SUMMARY:Jornada "Consumidores en entornos Digitales"
+UID:8dddff0d-9d4b-457c-88a8-a22e2ac5e691@8ddd.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-consumidores-en-entornos-digitales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DURATION:PT2H
+DTSTART:20240828T200000Z
+SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
+UID:39480686-a074-4149-8121-ec7960ad0a4c@3948.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-acceso-a-la-justicia-de-los-adultos-mayores-en-colombia
+DURATION:PT2H
+DTSTART:20240828T160000Z
+SUMMARY:El acceso a la justicia de los adultos mayores en Colombia
+UID:eba52cc2-7d26-4228-a855-82c82f2663f8@eba5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-acceso-a-la-justicia-de-los-adultos-mayores-en-colombia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/congreso-mundial-sobre-apoyos-y-cuidados-de-personas-adultas-y-mayores-de-la-curatela-a-la-autonomia-personal
+DURATION:PT2H
+DTSTART:20240827T130000Z
+SUMMARY:Congreso Mundial sobre Apoyos y Cuidados de Personas Adultas y Mayores. De la curatela a la autonomía personal
+UID:fd30e086-94e8-44f5-8d24-efda054576e4@fd30.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/congreso-mundial-sobre-apoyos-y-cuidados-de-personas-adultas-y-mayores-de-la-curatela-a-la-autonomia-personal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/poesia-y-derecho-xviii-homenaje-a-blanca-varela
+DURATION:PT2H
+DTSTART:20240829T210000Z
+SUMMARY:Poesía y Derecho XVIII: Homenaje a Blanca Varela 
+UID:9b95bf20-f034-437b-8a6d-8e162bee50fa@9b95.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/poesia-y-derecho-xviii-homenaje-a-blanca-varela
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-homenaje-al-prof-dr-agustin-gordillo
+DURATION:PT2H
+DTSTART:20240905T120000Z
+SUMMARY:Jornada homenaje al Prof. Dr. Agustín Gordillo
+UID:6cb41b77-8cf1-49aa-9bcc-4e76f6e46a0b@6cb4.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-homenaje-al-prof-dr-agustin-gordillo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-de-derechos-humanos-con-marisa-herrera
+DURATION:PT2H
+DTSTART:20240827T210000Z
+SUMMARY:Encuentro de Derechos Humanos con Marisa Herrera
+UID:512d47bd-09d3-4518-9a8c-ed1985815bee@512d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/encuentro-de-derechos-humanos-con-marisa-herrera
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/los-otros-juicios-de-nuremberg
+DURATION:PT2H
+DTSTART:20240822T200000Z
+SUMMARY:Los otros juicios de Núremberg
+UID:ff3e5195-0511-4872-9322-e3d9ec3e350d@ff3e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/los-otros-juicios-de-nuremberg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/incentivos-y-desincentivos-para-la-cooperacion-fiscal-internacional-en-america-latina
+DURATION:PT2H
+DTSTART:20240821T210000Z
+SUMMARY:Incentivos y desincentivos para la Cooperación Fiscal Internacional en América Latina
+UID:9864935c-cd90-4bfe-92ad-511572a5c20b@9864.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/incentivos-y-desincentivos-para-la-cooperacion-fiscal-internacional-en-america-latina
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-punto-verde-movil-de-la-universidad-visita-nuestro-edificio
+DURATION:PT2H
+DTSTART:20240829T130000Z
+SUMMARY:El PUNTO VERDE MÓVIL de la Universidad visita nuestro edificio
+UID:deee81bc-7ea7-4310-b8ff-04b1c37eadcc@deee.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-punto-verde-movil-de-la-universidad-visita-nuestro-edificio
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-teoria-del-delito-parte-especial-y-criminologia-latinoamericana-y-feminista-i
+DURATION:PT2H
+DTSTART:20240920T203000Z
+SUMMARY:Presentación del libro Teoría del delito\, parte especial y criminología latinoamericana y feminista
+UID:242de889-0309-4927-aa7b-5e794ce5b568@242d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-teoria-del-delito-parte-especial-y-criminologia-latinoamericana-y-feminista-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/responsabilidad-de-los-directorios-corporativos-en-materia-de-ciberseguridad
+DURATION:PT2H
+DTSTART:20240821T213000Z
+SUMMARY:Responsabilidad de los directorios corporativos en materia de ciberseguridad
+UID:2c1f2fd7-4892-4b99-8c50-602f02afbcd3@2c1f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/responsabilidad-de-los-directorios-corporativos-en-materia-de-ciberseguridad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-derecho-de-la-integracion-i
+DURATION:PT2H
+DTSTART:20240822T210000Z
+SUMMARY:Presentación del libro Derecho de la Integración
+UID:3f736514-ec1d-42e2-92f8-063219c0f51c@3f73.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-derecho-de-la-integracion-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-sistema-informatico-del-poder-judicial-de-la-nacion-lex-aa
+DURATION:PT2H
+DTSTART:20240826T210000Z
+SUMMARY:Charla "Sistema informático del Poder Judicial de la Nación. Lex 100"
+UID:42fad293-f63f-4cc9-8c65-b69d22aefeec@42fa.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-sistema-informatico-del-poder-judicial-de-la-nacion-lex-aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-libro-i-que-es-el-estado-y-otros-escritos-anarquistas-i
+DURATION:PT2H
+DTSTART:20240910T210000Z
+SUMMARY:Presentación de libro ¿Qué es el estado? Y otros escritos anarquistas
+UID:5d5b3f42-289d-41d5-bf79-411450898b01@5d5b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-de-libro-i-que-es-el-estado-y-otros-escritos-anarquistas-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-introductoria-sobre-el-ejercicio-docente-para-ayudantes-alumnos
+DURATION:PT2H
+DTSTART:20240822T200000Z
+SUMMARY:Charla introductoria sobre el ejercicio docente para ayudantes alumnos
+UID:c6474753-2f49-4ebf-a963-c365f121d602@c647.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/charla-introductoria-sobre-el-ejercicio-docente-para-ayudantes-alumnos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-el-caso-carmen-guillot-de-livingston-buenos-aires-aa9aa4-los-informes-medico-legales-y-la-responsabilidad-penal-femenina-en-el-positivismo-criminologico-i
+DURATION:PT2H
+DTSTART:20240827T180000Z
+SUMMARY:Presentación del libro El Caso Carmen Guillot de Livingston (Buenos Aires 1914). Los informes médico-legales y la responsabilidad penal femenina en el positivismo criminológico
+UID:60dd9045-998b-4e8e-8c74-d4b33e184acf@60dd.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-el-caso-carmen-guillot-de-livingston-buenos-aires-aa9aa4-los-informes-medico-legales-y-la-responsabilidad-penal-femenina-en-el-positivismo-criminologico-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
+DURATION:PT2H
+DTSTART:20241128T030000Z
+SUMMARY:IV Concurso Regional de Alegatos y Simulación en Derecho Internacional Humanitario
+UID:c95a837d-f589-488f-8c17-4639fb4e4b60@c95a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/xii-congreso-argentino-de-derecho-concursal-y-x-congreso-iberoamericano-sobre-insolvencia
+DURATION:PT2H
+DTSTART:20241016T030000Z
+SUMMARY:XII Congreso Argentino de Derecho Concursal y X Congreso Iberoamericano sobre Insolvencia
+UID:cf64d797-5ec3-48c9-98a0-b62887168886@cf64.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/xii-congreso-argentino-de-derecho-concursal-y-x-congreso-iberoamericano-sobre-insolvencia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/reformas-legales-a-los-regimenes-de-derecho-administrativo
+DURATION:PT2H
+DTSTART:20240822T180000Z
+SUMMARY:Reformas legales a los regímenes de derecho administrativo 
+UID:85b6a26d-3181-4833-bd42-054107e2723f@85b6.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/reformas-legales-a-los-regimenes-de-derecho-administrativo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/entrega-del-doctorado-i-honoris-causa-i-de-la-universidad-de-buenos-aires-a-gilmar-ferreira-mendes
+DURATION:PT2H
+DTSTART:20240830T200000Z
+SUMMARY:Entrega del Doctorado Honoris Causa de la Universidad de Buenos Aires a Gilmar Ferreira Mendes
+UID:993bcb54-8e04-4ff6-977e-85c5fad6e8fb@993b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/entrega-del-doctorado-i-honoris-causa-i-de-la-universidad-de-buenos-aires-a-gilmar-ferreira-mendes
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/taller-de-reanimacion-cardio-pulmonar-y-primeros-auxilios
+DURATION:PT2H
+DTSTART:20240821T180000Z
+SUMMARY:Taller de Reanimación Cardio Pulmonar y Primeros Auxilios 
+UID:2a9fbe0d-f50d-4165-80c5-58917cca6281@2a9f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/taller-de-reanimacion-cardio-pulmonar-y-primeros-auxilios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-taller-aproximaciones-a-la-historia-argentina-desde-la-educacion-universitaria-derecho-uba-dialogos-entre-proyectos-de-investigacion-2-24
+DURATION:PT2H
+DTSTART:20241007T200000Z
+SUMMARY:Seminario Taller: Aproximaciones a la historia argentina desde la educación universitaria (DERECHO-UBA). Diálogos entre proyectos de investigación 2024
+UID:3634fbcb-779f-457b-a4bb-df78d1fb9d75@3634.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-taller-aproximaciones-a-la-historia-argentina-desde-la-educacion-universitaria-derecho-uba-dialogos-entre-proyectos-de-investigacion-2-24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-casos-constitucionales-complejos-ensayos-para-una-fundamentacion-sobre-el-sentido-del-derecho-i
+DURATION:PT2H
+DTSTART:20240827T213000Z
+SUMMARY:Presentación del libro Casos Constitucionales Complejos. Ensayos para una fundamentación sobre el sentido del derecho
+UID:e74e4c16-41a8-40d6-bcb9-77bdc96aa1f0@e74e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-casos-constitucionales-complejos-ensayos-para-una-fundamentacion-sobre-el-sentido-del-derecho-i
 END:VEVENT
 END:VCALENDAR
