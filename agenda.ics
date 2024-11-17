@@ -2,11 +2,83 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-disertaciones-sobre-tributacion-nacional-nuevas-perspectivas-y-beneficios-en-materia-fiscal
+DURATION:PT2H
+DTSTART:20241119T210000Z
+SUMMARY:Ciclo de disertaciones sobre Tributación Nacional. "Nuevas Perspectivas y Beneficios en Materia Fiscal"
+UID:9bea72f3-5635-401b-86d8-9974d436189c@9bea.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-disertaciones-sobre-tributacion-nacional-nuevas-perspectivas-y-beneficios-en-materia-fiscal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/v-congreso-nacional-de-la-asociacion-argentina-de-derecho-procesal-constitucional-i-encuentro-de-jovenes-de-derecho-procesal-constitucional
+DURATION:PT2H
+DTSTART:20241119T120000Z
+SUMMARY:V Congreso Nacional de la Asociación Argentina de Derecho Procesal Constitucional - I Encuentro de Jóvenes de Derecho Procesal Constitucional
+UID:57765af5-89d6-415d-90c1-861522f12936@5776.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/v-congreso-nacional-de-la-asociacion-argentina-de-derecho-procesal-constitucional-i-encuentro-de-jovenes-de-derecho-procesal-constitucional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/proyeccion-de-pelicula-i-potestad-i-de-eduardo-pavlovsky
+DURATION:PT2H
+DTSTART:20241213T200000Z
+SUMMARY:Proyección de película POTESTAD\, de Eduardo Pavlovsky
+UID:f166ec8e-674f-4329-8a7b-d18de55d640a@f166.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/proyeccion-de-pelicula-i-potestad-i-de-eduardo-pavlovsky
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/inauguracion-del-centro-de-estudios-hans-kelsen-presentacion-del-libro-i-kelsen-y-los-fundamentos-del-derecho-i
+DURATION:PT2H
+DTSTART:20241119T210000Z
+SUMMARY:Inauguración del Centro de Estudios Hans Kelsen. Presentación del libro Kelsen y los Fundamentos del Derecho
+UID:520a87c0-736b-4cec-9ba3-97e602685ab5@520a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/inauguracion-del-centro-de-estudios-hans-kelsen-presentacion-del-libro-i-kelsen-y-los-fundamentos-del-derecho-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
+DURATION:PT2H
+DTSTART:20241126T150000Z
+SUMMARY:Igualdad y no discriminación en tiempos de odios
+UID:8274dd2d-a101-4a72-b101-dd998fe1507d@8274.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-magistral-conflictologia-y-crisis-familiares-el-proceso-de-disgregacion-familiar-y-su-abordaje-apuntes-reflexiones-y-experiencia-desde-una-practica-extensa
+DURATION:PT2H
+DTSTART:20241119T143000Z
+SUMMARY:Clase magistral. Conflictología y crisis familiares. El proceso de disgregación familiar y su abordaje: apuntes\, reflexiones y experiencia desde una práctica extensa
+UID:990fa98d-cc13-4322-a99b-6e87bc56ac2b@990f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-magistral-conflictologia-y-crisis-familiares-el-proceso-de-disgregacion-familiar-y-su-abordaje-apuntes-reflexiones-y-experiencia-desde-una-practica-extensa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conclusiones-del-decyt-la-politica-exterior-argentina-en-derechos-humanos
+DURATION:PT2H
+DTSTART:20241125T210000Z
+SUMMARY:Conclusiones del DECyT "La Política Exterior argentina en Derechos Humanos"
+UID:17f87872-04a1-4d9f-b215-ef35460ed0a9@17f8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conclusiones-del-decyt-la-politica-exterior-argentina-en-derechos-humanos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-internacional-de-conferencias-de-derecho-informatico-proteccion-de-datos-inteligencia-artificial-y-responsabilidad-civil
+DURATION:PT2H
+DTSTART:20241127T213000Z
+SUMMARY:Ciclo internacional de conferencias de Derecho Informático. Protección de datos\, inteligencia artificial y responsabilidad civil
+UID:77aec9ce-4d6d-4987-bb8e-f6a6131e8339@77ae.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-internacional-de-conferencias-de-derecho-informatico-proteccion-de-datos-inteligencia-artificial-y-responsabilidad-civil
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-clasicos-del-derecho-del-trabajo
+DURATION:PT2H
+DTSTART:20241121T200000Z
+SUMMARY:Seminario "Clásicos del derecho del trabajo"
+UID:b35c6202-cea8-4b48-9d6a-c9964464c759@b35c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-clasicos-del-derecho-del-trabajo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/revista-del-departamento-de-derecho-del-trabajo-y-de-la-seguridad-social-presentacion-de-la-nueva-revista-departamental-con-sistema-de-referato
 DURATION:PT2H
 DTSTART:20241128T210000Z
 SUMMARY:Revista del Departamento de Derecho del Trabajo y de la Seguridad Social. Presentación de la nueva revista departamental con sistema de referato
-UID:b2c25be7-03da-4d1f-8a9e-b69052a3b23d@b2c2.org
+UID:4eb57228-811f-4bd0-9bbf-b5348bb66bbe@4eb5.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/revista-del-departamento-de-derecho-del-trabajo-y-de-la-seguridad-social-presentacion-de-la-nueva-revista-departamental-con-sistema-de-referato
 END:VEVENT
 BEGIN:VEVENT
@@ -14,191 +86,119 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-en-ho
 DURATION:PT2H
 DTSTART:20241120T203000Z
 SUMMARY:Jornada en homenaje al prof. José María Sferco.  Los particularismos del derecho penal tributario. Una revisión desde el derecho tributario
-UID:774bbfc5-af6b-450a-8cb2-27ffe46067f1@774b.org
+UID:da9c2298-4f7f-42cc-9239-c6230eade7bb@da9c.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-en-homenaje-al-prof-jose-maria-sferco-los-particularismos-del-derecho-penal-tributario-una-revision-desde-el-derecho-tributario
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
-DURATION:PT2H
-DTSTART:20241126T150000Z
-SUMMARY:Igualdad y no discriminación en tiempos de odios
-UID:b5a2da2d-d6f2-4ead-88dd-5b95e1bf9494@b5a2.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obras-sociales-evolucion-y-sistema-actual
-DURATION:PT2H
-DTSTART:20241128T210000Z
-SUMMARY:Obras sociales. Evolución y sistema actual
-UID:4385a1d5-4057-47f0-bc4c-7e94743afb59@4385.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obras-sociales-evolucion-y-sistema-actual
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
-DURATION:PT2H
-DTSTART:20241120T030000Z
-SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
-UID:2ceb517e-88d7-49f7-bc7f-92be5c51774c@2ceb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
-DURATION:PT2H
-DTSTART:20241128T030000Z
-SUMMARY:IV Concurso Regional de Alegatos y Simulación en Derecho Internacional Humanitario
-UID:c1925af5-9f65-4066-9e8a-bb60d25bd127@c192.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/x-congreso-argentino-de-derecho-ambiental
-DURATION:PT2H
-DTSTART:20241121T130000Z
-SUMMARY:X Congreso argentino de Derecho Ambiental
-UID:fcab6c63-8b26-4d07-937f-f7cdaaf4606f@fcab.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/x-congreso-argentino-de-derecho-ambiental
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-internacional-de-conferencias-de-derecho-informatico-proteccion-de-datos-inteligencia-artificial-y-responsabilidad-civil
-DURATION:PT2H
-DTSTART:20241127T213000Z
-SUMMARY:Ciclo internacional de conferencias de Derecho Informático. Protección de datos\, inteligencia artificial y responsabilidad civil
-UID:d7b40f05-dffb-4f82-99a8-3696ab51936d@d7b4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-internacional-de-conferencias-de-derecho-informatico-proteccion-de-datos-inteligencia-artificial-y-responsabilidad-civil
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-disertaciones-sobre-tributacion-nacional-nuevas-perspectivas-y-beneficios-en-materia-fiscal
-DURATION:PT2H
-DTSTART:20241119T210000Z
-SUMMARY:Ciclo de disertaciones sobre Tributación Nacional. "Nuevas Perspectivas y Beneficios en Materia Fiscal"
-UID:9d1e05fa-f939-42bb-8b25-fcee497894a7@9d1e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-de-disertaciones-sobre-tributacion-nacional-nuevas-perspectivas-y-beneficios-en-materia-fiscal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/inauguracion-del-centro-de-estudios-hans-kelsen-presentacion-del-libro-i-kelsen-y-los-fundamentos-del-derecho-i
-DURATION:PT2H
-DTSTART:20241119T210000Z
-SUMMARY:Inauguración del Centro de Estudios Hans Kelsen. Presentación del libro Kelsen y los Fundamentos del Derecho
-UID:aab74dd9-17c6-4890-b03e-d7a6e6763ae6@aab7.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/inauguracion-del-centro-de-estudios-hans-kelsen-presentacion-del-libro-i-kelsen-y-los-fundamentos-del-derecho-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-DURATION:PT2H
-DTSTART:20250723T130000Z
-SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:f2e02945-2755-4e02-a5a8-2c976a20ee69@f2e0.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/derechos-reales-posesion-propiedad-y-servidumbre-en-el-derecho-romano
-DURATION:PT2H
-DTSTART:20241122T123000Z
-SUMMARY:Derechos reales: posesión\, propiedad y servidumbre en el derecho romano
-UID:e0fc5a45-3369-48ff-9a6d-988b84b11a0f@e0fc.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/derechos-reales-posesion-propiedad-y-servidumbre-en-el-derecho-romano
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-nordic-perspectives-on-human-rights-i
-DURATION:PT2H
-DTSTART:20241126T210000Z
-SUMMARY:Presentación del libro Nordic Perspectives on Human Rights
-UID:4989ab39-b828-4862-bf1d-a854d6bf4e64@4989.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-nordic-perspectives-on-human-rights-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/imposicion-justa-fair-share-planificacion-fiscal-internacional-y-el-rol-de-los-asesores-en-un-contexto-global-post-beps
-DURATION:PT2H
-DTSTART:20241120T160000Z
-SUMMARY:Imposición justa (fair share)\, planificación fiscal internacional y el rol de los asesores  en un contexto global (Post BEPS)
-UID:75f6fba3-6558-48a4-80e7-dec76eba4239@75f6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/imposicion-justa-fair-share-planificacion-fiscal-internacional-y-el-rol-de-los-asesores-en-un-contexto-global-post-beps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-argentino-brasilena-de-derecho-penal-economico-un-enfoque-transnacional-del-delito-de-lavado-de-dinero
-DURATION:PT2H
-DTSTART:20241121T200000Z
-SUMMARY:Jornada argentino-brasileña de Derecho Penal Económico: "Un enfoque transnacional del delito de lavado de dinero"
-UID:30f59b24-0c12-480f-9fd9-2c7a9df402b0@30f5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-argentino-brasilena-de-derecho-penal-economico-un-enfoque-transnacional-del-delito-de-lavado-de-dinero
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/v-congreso-nacional-de-la-asociacion-argentina-de-derecho-procesal-constitucional-i-encuentro-de-jovenes-de-derecho-procesal-constitucional
-DURATION:PT2H
-DTSTART:20241119T120000Z
-SUMMARY:V Congreso Nacional de la Asociación Argentina de Derecho Procesal Constitucional - I Encuentro de Jóvenes de Derecho Procesal Constitucional
-UID:11536822-a4f5-4712-b07e-adf10201c639@1153.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/v-congreso-nacional-de-la-asociacion-argentina-de-derecho-procesal-constitucional-i-encuentro-de-jovenes-de-derecho-procesal-constitucional
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/la-accion-publica-frente-a-la-revolucion-digital-riesgos-desafios-y-oportunidades
 DURATION:PT2H
 DTSTART:20241126T203000Z
 SUMMARY:La acción pública frente a la revolución digital: riesgos\, desafíos y oportunidades
-UID:b0c88410-91ec-4e79-bd6f-2e5ca030a95e@b0c8.org
+UID:bc77883b-1fbb-423a-87fd-616dc326eaee@bc77.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/la-accion-publica-frente-a-la-revolucion-digital-riesgos-desafios-y-oportunidades
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-nordic-perspectives-on-human-rights-i
 DURATION:PT2H
-DTSTART:20241210T203000Z
-SUMMARY:El mecanismo laboral de respuesta rápida contenido en el tratado comercial México-EE.UU.-Canadá: efectos en el trabajo y el empleo
-UID:cda439b5-a3c1-4a15-b7da-3384a489d81d@cda4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-intercatedras-derecho-penal-y-derecho-tributario
-DURATION:PT2H
-DTSTART:20241125T170000Z
-SUMMARY:Seminario Intercátedras Derecho Penal y Derecho Tributario
-UID:e3425d81-0286-49a7-b048-b002a3d7c05d@e342.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-intercatedras-derecho-penal-y-derecho-tributario
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conclusiones-del-decyt-la-politica-exterior-argentina-en-derechos-humanos
-DURATION:PT2H
-DTSTART:20241125T210000Z
-SUMMARY:Conclusiones del DECyT "La Política Exterior argentina en Derechos Humanos"
-UID:46ee70c9-888e-4578-b2b2-a28639e7ee26@46ee.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conclusiones-del-decyt-la-politica-exterior-argentina-en-derechos-humanos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-magistral-conflictologia-y-crisis-familiares-el-proceso-de-disgregacion-familiar-y-su-abordaje-apuntes-reflexiones-y-experiencia-desde-una-practica-extensa
-DURATION:PT2H
-DTSTART:20241119T143000Z
-SUMMARY:Clase magistral. Conflictología y crisis familiares. El proceso de disgregación familiar y su abordaje: apuntes\, reflexiones y experiencia desde una práctica extensa
-UID:4f6093a5-4b8d-4d8a-8df5-986f7c2b055a@4f60.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/clase-magistral-conflictologia-y-crisis-familiares-el-proceso-de-disgregacion-familiar-y-su-abordaje-apuntes-reflexiones-y-experiencia-desde-una-practica-extensa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-clasicos-del-derecho-del-trabajo
-DURATION:PT2H
-DTSTART:20241121T200000Z
-SUMMARY:Seminario "Clásicos del derecho del trabajo"
-UID:40d79a42-12f0-4e78-8b9c-e9f0a0dabf77@40d7.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-clasicos-del-derecho-del-trabajo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-gestacion-por-subrogacion-doctrina-de-la-corte-suprema-de-justicia
-DURATION:PT2H
-DTSTART:20241128T210000Z
-SUMMARY:Jornada "Gestación por subrogacion. Doctrina de la Corte Suprema de Justicia"
-UID:489a1ecd-cbe9-407f-ab4c-8a36d9230dc6@489a.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-gestacion-por-subrogacion-doctrina-de-la-corte-suprema-de-justicia
+DTSTART:20241126T210000Z
+SUMMARY:Presentación del libro Nordic Perspectives on Human Rights
+UID:6d2a249a-e867-4e9d-83e0-257c989ed818@6d2a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-nordic-perspectives-on-human-rights-i
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
 DURATION:PT2H
 DTSTART:20241202T210000Z
 SUMMARY:Economía circular
-UID:8dc9db3d-e602-48f0-acf5-fe6911a778bf@8dc9.org
+UID:5c5cb4df-3c1c-4da2-a2d3-29baba53d814@5c5c.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/proyeccion-de-pelicula-i-potestad-i-de-eduardo-pavlovsky
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 DURATION:PT2H
-DTSTART:20241213T200000Z
-SUMMARY:Proyección de película POTESTAD\, de Eduardo Pavlovsky
-UID:88d9040a-3c0b-4b53-8e59-098951e5b181@88d9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/proyeccion-de-pelicula-i-potestad-i-de-eduardo-pavlovsky
+DTSTART:20250723T130000Z
+SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
+UID:8749d11b-5525-4168-b5fc-924e438f3ec0@8749.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-gestacion-por-subrogacion-doctrina-de-la-corte-suprema-de-justicia
+DURATION:PT2H
+DTSTART:20241128T210000Z
+SUMMARY:Jornada "Gestación por subrogacion. Doctrina de la Corte Suprema de Justicia"
+UID:34e8599a-7be0-467a-acf9-ebee46a0b2dd@34e8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-gestacion-por-subrogacion-doctrina-de-la-corte-suprema-de-justicia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obras-sociales-evolucion-y-sistema-actual
+DURATION:PT2H
+DTSTART:20241128T210000Z
+SUMMARY:Obras sociales. Evolución y sistema actual
+UID:a4b3cc8a-4bc5-4c4a-b1e2-58aae8b4bdfc@a4b3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obras-sociales-evolucion-y-sistema-actual
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/imposicion-justa-fair-share-planificacion-fiscal-internacional-y-el-rol-de-los-asesores-en-un-contexto-global-post-beps
+DURATION:PT2H
+DTSTART:20241120T160000Z
+SUMMARY:Imposición justa (fair share)\, planificación fiscal internacional y el rol de los asesores  en un contexto global (Post BEPS)
+UID:238bb10f-324d-4839-b841-8dc28bf179a9@238b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/imposicion-justa-fair-share-planificacion-fiscal-internacional-y-el-rol-de-los-asesores-en-un-contexto-global-post-beps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
+DURATION:PT2H
+DTSTART:20241128T030000Z
+SUMMARY:IV Concurso Regional de Alegatos y Simulación en Derecho Internacional Humanitario
+UID:97f8aa33-4b8b-49d7-bfc5-527e66ecfe2c@97f8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/derechos-reales-posesion-propiedad-y-servidumbre-en-el-derecho-romano
+DURATION:PT2H
+DTSTART:20241122T123000Z
+SUMMARY:Derechos reales: posesión\, propiedad y servidumbre en el derecho romano
+UID:2893dced-36fb-406a-900b-358abb623fd4@2893.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/derechos-reales-posesion-propiedad-y-servidumbre-en-el-derecho-romano
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-intercatedras-derecho-penal-y-derecho-tributario
+DURATION:PT2H
+DTSTART:20241125T170000Z
+SUMMARY:Seminario Intercátedras Derecho Penal y Derecho Tributario
+UID:71760e1c-008b-4524-9085-fd760a7b7bc7@7176.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-intercatedras-derecho-penal-y-derecho-tributario
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-argentino-brasilena-de-derecho-penal-economico-un-enfoque-transnacional-del-delito-de-lavado-de-dinero
+DURATION:PT2H
+DTSTART:20241121T200000Z
+SUMMARY:Jornada argentino-brasileña de Derecho Penal Económico: "Un enfoque transnacional del delito de lavado de dinero"
+UID:da6468d8-8d2b-4ea8-8ff7-4c2dedb14e31@da64.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-argentino-brasilena-de-derecho-penal-economico-un-enfoque-transnacional-del-delito-de-lavado-de-dinero
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/x-congreso-argentino-de-derecho-ambiental
+DURATION:PT2H
+DTSTART:20241121T130000Z
+SUMMARY:X Congreso argentino de Derecho Ambiental
+UID:5989fe77-1f41-4bb8-9571-c52ec4b6b2e6@5989.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/x-congreso-argentino-de-derecho-ambiental
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DURATION:PT2H
+DTSTART:20241120T030000Z
+SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
+UID:3eac1d00-55ea-4856-a7be-a45980d3f11d@3eac.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
+DURATION:PT2H
+DTSTART:20241210T203000Z
+SUMMARY:El mecanismo laboral de respuesta rápida contenido en el tratado comercial México-EE.UU.-Canadá: efectos en el trabajo y el empleo
+UID:0f7fe3aa-fb52-414d-a6b8-7cbd96fab7e9@0f7f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
 END:VEVENT
 END:VCALENDAR
