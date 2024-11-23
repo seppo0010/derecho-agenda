@@ -2,171 +2,179 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obras-sociales-evolucion-y-sistema-actual
-DURATION:PT2H
-DTSTART:20241128T210000Z
-SUMMARY:Obras sociales. Evolución y sistema actual
-UID:201c08aa-9b8d-4ccc-8413-c16700ac77de@201c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obras-sociales-evolucion-y-sistema-actual
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
-DURATION:PT2H
-DTSTART:20241204T030000Z
-SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
-UID:4750f18c-7bd1-4913-a349-445c3cf71ec9@4750.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
-DURATION:PT2H
-DTSTART:20241126T150000Z
-SUMMARY:Igualdad y no discriminación en tiempos de odios
-UID:8e722753-ebfa-4c5e-a3ab-53257fa3008e@8e72.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-temas-juridicos-contemporaneos-una-vision-intergeneracional-del-doctorado-en-derecho-del-instituto-de-investigaciones-juridicas-de-la-universidad-veracruzana-i
-DURATION:PT2H
-DTSTART:20241128T200000Z
-SUMMARY:Presentación del libro Temas jurídicos contemporáneos. Una visión intergeneracional del Doctorado en Derecho del Instituto de Investigaciones Jurídicas de la Universidad Veracruzana
-UID:95cbcd65-80ec-42c8-a31e-46e672e1a69f@95cb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-temas-juridicos-contemporaneos-una-vision-intergeneracional-del-doctorado-en-derecho-del-instituto-de-investigaciones-juridicas-de-la-universidad-veracruzana-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
-DURATION:PT2H
-DTSTART:20250204T120000Z
-SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
-UID:0002cae9-aee1-41a1-ae0c-9dfb3492ad75@0002.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-nordic-perspectives-on-human-rights-i
 DURATION:PT2H
 DTSTART:20241126T210000Z
 SUMMARY:Presentación del libro Nordic Perspectives on Human Rights
-UID:2fcbae02-aa37-44a0-aeb4-c8a390509408@2fcb.org
+UID:7329eaf3-f1e4-4e8e-a10d-ad817e5f1ad7@7329.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-nordic-perspectives-on-human-rights-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/revista-del-departamento-de-derecho-del-trabajo-y-de-la-seguridad-social-presentacion-de-la-nueva-revista-departamental-con-sistema-de-referato
-DURATION:PT2H
-DTSTART:20241128T210000Z
-SUMMARY:Revista del Departamento de Derecho del Trabajo y de la Seguridad Social. Presentación de la nueva revista departamental con sistema de referato
-UID:31a89d56-54f9-49d0-9f05-be2ad92bcb07@31a8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/revista-del-departamento-de-derecho-del-trabajo-y-de-la-seguridad-social-presentacion-de-la-nueva-revista-departamental-con-sistema-de-referato
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conclusiones-del-decyt-la-politica-exterior-argentina-en-derechos-humanos
-DURATION:PT2H
-DTSTART:20241125T210000Z
-SUMMARY:Conclusiones del DECyT "La Política Exterior argentina en Derechos Humanos"
-UID:9e877e21-cb2e-4c6f-9891-e8532a109bcb@9e87.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conclusiones-del-decyt-la-politica-exterior-argentina-en-derechos-humanos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-DURATION:PT2H
-DTSTART:20250723T130000Z
-SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:66e44b41-3f99-4f0c-9ad5-b5f65c1ad856@66e4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/la-accion-publica-frente-a-la-revolucion-digital-riesgos-desafios-y-oportunidades
-DURATION:PT2H
-DTSTART:20241126T203000Z
-SUMMARY:La acción pública frente a la revolución digital: riesgos\, desafíos y oportunidades
-UID:d3e8d82d-5ea3-4c35-a6d4-14190fc37033@d3e8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/la-accion-publica-frente-a-la-revolucion-digital-riesgos-desafios-y-oportunidades
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/derechos-reales-posesion-propiedad-y-servidumbre-en-el-derecho-romano
-DURATION:PT2H
-DTSTART:20241122T123000Z
-SUMMARY:Derechos reales: posesión\, propiedad y servidumbre en el derecho romano
-UID:7ebbf962-9837-49c3-9c2c-33a0488b3d69@7ebb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/derechos-reales-posesion-propiedad-y-servidumbre-en-el-derecho-romano
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-gestacion-por-subrogacion-doctrina-de-la-corte-suprema-de-justicia
-DURATION:PT2H
-DTSTART:20241128T210000Z
-SUMMARY:Jornada "Gestación por subrogacion. Doctrina de la Corte Suprema de Justicia"
-UID:649bfe06-1e03-46e3-9de8-65757f7a88b2@649b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-gestacion-por-subrogacion-doctrina-de-la-corte-suprema-de-justicia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
-DURATION:PT2H
-DTSTART:20241202T210000Z
-SUMMARY:Economía circular
-UID:bf2eb0d5-6405-468f-8b0d-4626d2cc0d97@bf2e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
-DURATION:PT2H
-DTSTART:20241213T200000Z
-SUMMARY:Obra de teatro POTESTAD\, de Eduardo Pavlovsky
-UID:321047f3-32cc-498a-82d5-ae4efb825de7@3210.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
-DURATION:PT2H
-DTSTART:20241205T200000Z
-SUMMARY:Acercamientos al debate didáctico contemporáneo
-UID:1490ea9b-b431-4cdf-acb4-b4ee6733bf9c@1490.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
 DURATION:PT2H
 DTSTART:20241210T203000Z
 SUMMARY:El mecanismo laboral de respuesta rápida contenido en el tratado comercial México-EE.UU.-Canadá: efectos en el trabajo y el empleo
-UID:4f0244a1-13ef-45db-881d-045b67ad2635@4f02.org
+UID:0abbbb96-7aa9-4ae6-89d7-f0cd546e7c8b@0abb.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/x-congreso-argentino-de-derecho-ambiental
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conclusiones-del-decyt-la-politica-exterior-argentina-en-derechos-humanos
 DURATION:PT2H
-DTSTART:20241121T130000Z
-SUMMARY:X Congreso argentino de Derecho Ambiental
-UID:70cbebf2-4ab6-461c-a944-5847f206f20d@70cb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/x-congreso-argentino-de-derecho-ambiental
+DTSTART:20241125T210000Z
+SUMMARY:Conclusiones del DECyT "La Política Exterior argentina en Derechos Humanos"
+UID:21816860-37d0-42ae-8eed-ee2c22eb7e86@2181.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conclusiones-del-decyt-la-politica-exterior-argentina-en-derechos-humanos
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-internacional-de-conferencias-de-derecho-informatico-proteccion-de-datos-inteligencia-artificial-y-responsabilidad-civil
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-temas-juridicos-contemporaneos-una-vision-intergeneracional-del-doctorado-en-derecho-del-instituto-de-investigaciones-juridicas-de-la-universidad-veracruzana-i
 DURATION:PT2H
-DTSTART:20241127T213000Z
-SUMMARY:Ciclo internacional de conferencias de Derecho Informático. Protección de datos\, inteligencia artificial y responsabilidad civil
-UID:07cc3fb4-2f3a-43b4-b2ea-8a512cef3a68@07cc.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-internacional-de-conferencias-de-derecho-informatico-proteccion-de-datos-inteligencia-artificial-y-responsabilidad-civil
+DTSTART:20241128T200000Z
+SUMMARY:Presentación del libro Temas jurídicos contemporáneos. Una visión intergeneracional del Doctorado en Derecho del Instituto de Investigaciones Jurídicas de la Universidad Veracruzana
+UID:f9062649-06ed-4367-9661-fb30b92afc8d@f906.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-temas-juridicos-contemporaneos-una-vision-intergeneracional-del-doctorado-en-derecho-del-instituto-de-investigaciones-juridicas-de-la-universidad-veracruzana-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
+DURATION:PT2H
+DTSTART:20241213T200000Z
+SUMMARY:Obra de teatro POTESTAD\, de Eduardo Pavlovsky
+UID:f80f41b1-2077-4263-b05d-4602af540029@f80f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-intercatedras-derecho-penal-y-derecho-tributario
 DURATION:PT2H
 DTSTART:20241125T170000Z
 SUMMARY:Seminario Intercátedras Derecho Penal y Derecho Tributario
-UID:11031fb8-0965-4073-90d5-f5a844c8287d@1103.org
+UID:ce4be927-745f-489f-aa16-98c2eab4b013@ce4b.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-intercatedras-derecho-penal-y-derecho-tributario
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-proteccion-procesal-de-personas-y-sectores-vulnerables-i
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
 DURATION:PT2H
-DTSTART:20241125T210000Z
-SUMMARY:Presentación del libro Protección procesal de personas y sectores vulnerables
-UID:44183c9e-a112-452b-af85-203c6b446420@4418.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-proteccion-procesal-de-personas-y-sectores-vulnerables-i
+DTSTART:20241204T030000Z
+SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
+UID:1c852488-2c53-468a-b879-25425f6744bf@1c85.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/la-accion-publica-frente-a-la-revolucion-digital-riesgos-desafios-y-oportunidades
+DURATION:PT2H
+DTSTART:20241126T203000Z
+SUMMARY:La acción pública frente a la revolución digital: riesgos\, desafíos y oportunidades
+UID:e335cc65-f3f4-4427-899c-2a0b57404469@e335.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/la-accion-publica-frente-a-la-revolucion-digital-riesgos-desafios-y-oportunidades
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
 DURATION:PT2H
 DTSTART:20241128T030000Z
 SUMMARY:IV Concurso Regional de Alegatos y Simulación en Derecho Internacional Humanitario
-UID:a78f37bb-7a02-4d3b-80dc-03d4ecc459ca@a78f.org
+UID:172d9e87-2c0a-4b00-8e00-a2c6a6893393@172d.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+DURATION:PT2H
+DTSTART:20250723T130000Z
+SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
+UID:9f78490d-6ac4-4df5-8519-9ce47eb2ba36@9f78.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-gestacion-por-subrogacion-doctrina-de-la-corte-suprema-de-justicia
+DURATION:PT2H
+DTSTART:20241128T210000Z
+SUMMARY:Jornada "Gestación por subrogacion. Doctrina de la Corte Suprema de Justicia"
+UID:d168c56d-281b-4503-bba4-28c9dbb660ad@d168.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-gestacion-por-subrogacion-doctrina-de-la-corte-suprema-de-justicia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-proteccion-procesal-de-personas-y-sectores-vulnerables-i
+DURATION:PT2H
+DTSTART:20241125T210000Z
+SUMMARY:Presentación del libro Protección procesal de personas y sectores vulnerables
+UID:62978e3e-15b2-4fa5-b979-33fd2115eba8@6297.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-proteccion-procesal-de-personas-y-sectores-vulnerables-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/xiii-jornada-de-derecho-tributario-y-financiero-derecho-presupuestario
+DURATION:PT2H
+DTSTART:20241129T180000Z
+SUMMARY:XIII Jornada de Derecho Tributario y Financiero. Derecho presupuestario
+UID:7dac89e4-dbcf-4157-8d7f-dcec5efc5067@7dac.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/xiii-jornada-de-derecho-tributario-y-financiero-derecho-presupuestario
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-superando-desafios-un-abordaje-integral-sobre-la-mujer-en-clave-de-derechos-humanos-i-dirigido-por-ursula-basset
+DURATION:PT2H
+DTSTART:20241127T200000Z
+SUMMARY:Presentación del libro Superando desafíos: un abordaje integral sobre la mujer en clave de derechos humanos"\, dirigido por Úrsula Basset
+UID:ad9b04a8-1584-41d6-990b-b3146260e15e@ad9b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-superando-desafios-un-abordaje-integral-sobre-la-mujer-en-clave-de-derechos-humanos-i-dirigido-por-ursula-basset
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
+DURATION:PT2H
+DTSTART:20250204T120000Z
+SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
+UID:ba72cc39-78d1-4201-8f03-da7a998c7182@ba72.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obras-sociales-evolucion-y-sistema-actual
+DURATION:PT2H
+DTSTART:20241128T210000Z
+SUMMARY:Obras sociales. Evolución y sistema actual
+UID:3e335f5e-eb8c-43af-a16d-63d7a51a4f03@3e33.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obras-sociales-evolucion-y-sistema-actual
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
+DURATION:PT2H
+DTSTART:20241205T200000Z
+SUMMARY:Acercamientos al debate didáctico contemporáneo
+UID:c89adf62-a24a-4768-893b-ae4a01e538cb@c89a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/revista-del-departamento-de-derecho-del-trabajo-y-de-la-seguridad-social-presentacion-de-la-nueva-revista-departamental-con-sistema-de-referato
+DURATION:PT2H
+DTSTART:20241128T210000Z
+SUMMARY:Revista del Departamento de Derecho del Trabajo y de la Seguridad Social. Presentación de la nueva revista departamental con sistema de referato
+UID:546c265c-cf3e-405d-aa14-347b6987a479@546c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/revista-del-departamento-de-derecho-del-trabajo-y-de-la-seguridad-social-presentacion-de-la-nueva-revista-departamental-con-sistema-de-referato
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/la-uba-y-los-desafios-ambientales-en-la-argentina-contemporanea-dialogos-interdisciplinarios
+DURATION:PT2H
+DTSTART:20241125T180000Z
+SUMMARY:La UBA y los desafíos ambientales en la Argentina contemporánea. Diálogos Interdisciplinarios
+UID:67238561-726b-4854-af8e-8ed2ea574b9e@6723.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/la-uba-y-los-desafios-ambientales-en-la-argentina-contemporanea-dialogos-interdisciplinarios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
+DURATION:PT2H
+DTSTART:20241126T150000Z
+SUMMARY:Igualdad y no discriminación en tiempos de odios
+UID:7bde024e-575c-4d8b-85a3-dd8ffa1d9896@7bde.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/igualdad-y-no-discriminacion-en-tiempos-de-odios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
+DURATION:PT2H
+DTSTART:20241202T210000Z
+SUMMARY:Economía circular
+UID:e296a50c-5c8e-472c-abec-d4b72b605c08@e296.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-internacional-de-conferencias-de-derecho-informatico-proteccion-de-datos-inteligencia-artificial-y-responsabilidad-civil
+DURATION:PT2H
+DTSTART:20241127T213000Z
+SUMMARY:Ciclo internacional de conferencias de Derecho Informático. Protección de datos\, inteligencia artificial y responsabilidad civil
+UID:b184c844-4f04-4742-bdc7-048260621aab@b184.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ciclo-internacional-de-conferencias-de-derecho-informatico-proteccion-de-datos-inteligencia-artificial-y-responsabilidad-civil
 END:VEVENT
 END:VCALENDAR
