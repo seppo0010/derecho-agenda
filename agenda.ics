@@ -2,83 +2,75 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
 DURATION:PT2H
-DTSTART:20241129T030000Z
-SUMMARY:IV Concurso Regional de Alegatos y Simulación en Derecho Internacional Humanitario
-UID:cfab8d9d-e804-409c-b795-3a2105031ac2@cfab.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
+DTSTART:20241204T030000Z
+SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
+UID:47b747cd-e256-40cb-9352-f8c1cffe24e1@47b7.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/actualidad-y-tensiones-para-la-democracia-constitucional
 DURATION:PT2H
 DTSTART:20241202T143000Z
 SUMMARY:Actualidad y tensiones para la Democracia Constitucional
-UID:0f8cc20e-6840-4b28-88a1-e849b90a3c06@0f8c.org
+UID:32ff2533-f2e7-49c9-a5e8-ab4d6042be0b@32ff.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/actualidad-y-tensiones-para-la-democracia-constitucional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
-DURATION:PT2H
-DTSTART:20241205T200000Z
-SUMMARY:Acercamientos al debate didáctico contemporáneo
-UID:b79452bc-b743-4907-bcb9-0f9d595ccdad@b794.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
-DURATION:PT2H
-DTSTART:20241202T210000Z
-SUMMARY:Economía circular
-UID:214bb74d-044b-44cd-9c1a-1080b222069d@214b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/xiii-jornada-de-derecho-tributario-y-financiero-derecho-presupuestario
-DURATION:PT2H
-DTSTART:20241129T180000Z
-SUMMARY:XIII Jornada de Derecho Tributario y Financiero. Derecho presupuestario
-UID:9ae83954-38af-4137-95af-05316d247353@9ae8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/xiii-jornada-de-derecho-tributario-y-financiero-derecho-presupuestario
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
-DURATION:PT2H
-DTSTART:20250204T120000Z
-SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
-UID:e2bd5cd0-f2bf-45af-981d-a6d5ab498253@e2bd.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
-DURATION:PT2H
-DTSTART:20241210T203000Z
-SUMMARY:El mecanismo laboral de respuesta rápida contenido en el tratado comercial México-EE.UU.-Canadá: efectos en el trabajo y el empleo
-UID:4b4b550f-b69c-467f-a4b3-1dc0a1a0e918@4b4b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
-DURATION:PT2H
-DTSTART:20241204T030000Z
-SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
-UID:6c2122d4-f990-46d1-9d25-559433053455@6c21.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
 DURATION:PT2H
 DTSTART:20241213T200000Z
 SUMMARY:Obra de teatro POTESTAD\, de Eduardo Pavlovsky
-UID:c921d80c-8029-4126-bc45-7856593f3cec@c921.org
+UID:66bbacde-1243-4fd0-a622-851e1a2bfc4e@66bb.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
+DURATION:PT2H
+DTSTART:20250204T120000Z
+SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
+UID:43fed4d5-60e6-48d3-9cf4-e21c4ce29bf4@43fe.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
+DURATION:PT2H
+DTSTART:20241130T030000Z
+SUMMARY:IV Concurso Regional de Alegatos y Simulación en Derecho Internacional Humanitario
+UID:c27f3f41-ddc0-47a7-832d-35f3a9c21532@c27f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/iv-concurso-regional-de-alegatos-y-simulacion-en-derecho-internacional-humanitario
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
+DURATION:PT2H
+DTSTART:20241210T203000Z
+SUMMARY:El mecanismo laboral de respuesta rápida contenido en el tratado comercial México-EE.UU.-Canadá: efectos en el trabajo y el empleo
+UID:5e53c8ed-a748-4f40-8bab-f97f79a70156@5e53.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 DURATION:PT2H
 DTSTART:20250723T130000Z
 SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:ca75252d-2803-4a86-9d08-877adccd6622@ca75.org
+UID:e14c85f1-f29c-4bee-85d5-53dbefc7734b@e14c.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
+DURATION:PT2H
+DTSTART:20241202T210000Z
+SUMMARY:Economía circular
+UID:90db9383-b0da-4e78-9e46-4e9ecf32e031@90db.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
+DURATION:PT2H
+DTSTART:20241205T200000Z
+SUMMARY:Acercamientos al debate didáctico contemporáneo
+UID:ff077b9f-85c5-4016-ba13-757813e71d98@ff07.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
 END:VEVENT
 END:VCALENDAR
