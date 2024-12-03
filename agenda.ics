@@ -2,67 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
 DURATION:PT2H
-DTSTART:20241204T030000Z
-SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
-UID:a8c90556-96c6-465a-8ca8-e07066ba70fd@a8c9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DTSTART:20241213T200000Z
+SUMMARY:Obra de teatro POTESTAD\, de Eduardo Pavlovsky
+UID:1341695c-6541-4040-945b-0903f5fc4eae@1341.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 DURATION:PT2H
 DTSTART:20250723T130000Z
 SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:fa1a9591-2fa2-4602-a316-b3c53f878604@fa1a.org
+UID:0d271705-5eae-4d59-bdcb-25e4ebb21e04@0d27.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
-DURATION:PT2H
-DTSTART:20241213T200000Z
-SUMMARY:Obra de teatro POTESTAD\, de Eduardo Pavlovsky
-UID:f3f8c4e5-244a-4bfe-a2f9-8c68556959dc@f3f8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
-DURATION:PT2H
-DTSTART:20241205T200000Z
-SUMMARY:Acercamientos al debate didáctico contemporáneo
-UID:9d62b302-9490-438b-a0f1-5ca2ca3b9363@9d62.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
 DURATION:PT2H
 DTSTART:20241210T203000Z
 SUMMARY:El mecanismo laboral de respuesta rápida contenido en el tratado comercial México-EE.UU.-Canadá: efectos en el trabajo y el empleo
-UID:b86d9d89-71d0-43c1-b230-23eaee0cc62d@b86d.org
+UID:e9625d83-e25e-48a3-9890-f7cf769e153f@e962.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
 DURATION:PT2H
-DTSTART:20241202T210000Z
-SUMMARY:Economía circular
-UID:f7846819-d182-4937-90f4-1b3aa863dd16@f784.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/economia-circular
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/actualidad-y-tensiones-para-la-democracia-constitucional
-DURATION:PT2H
-DTSTART:20241202T143000Z
-SUMMARY:Actualidad y tensiones para la Democracia Constitucional
-UID:f4dd26f8-0cbb-4236-9b1d-85aef6fb0df6@f4dd.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/actualidad-y-tensiones-para-la-democracia-constitucional
+DTSTART:20241205T200000Z
+SUMMARY:Acercamientos al debate didáctico contemporáneo
+UID:f99cf97b-7db0-4b91-8ce9-2f05519b4376@f99c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
 DURATION:PT2H
 DTSTART:20250204T120000Z
 SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
-UID:2de26062-f076-4677-be65-360bd2abebc4@2de2.org
+UID:e5ae7d8e-e59f-434a-b3c0-6341b329e76e@e5ae.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DURATION:PT2H
+DTSTART:20241204T030000Z
+SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
+UID:1b653e71-96d9-4727-adef-4bba766e3b12@1b65.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
 END:VEVENT
 END:VCALENDAR
