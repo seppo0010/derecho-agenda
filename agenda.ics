@@ -2,43 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
-DURATION:PT2H
-DTSTART:20241213T200000Z
-SUMMARY:Obra de teatro POTESTAD\, de Eduardo Pavlovsky
-UID:1341695c-6541-4040-945b-0903f5fc4eae@1341.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 DURATION:PT2H
 DTSTART:20250723T130000Z
 SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:0d271705-5eae-4d59-bdcb-25e4ebb21e04@0d27.org
+UID:9eb108ca-10ee-456d-be39-241a48b4b4d9@9eb1.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
-DURATION:PT2H
-DTSTART:20241210T203000Z
-SUMMARY:El mecanismo laboral de respuesta rápida contenido en el tratado comercial México-EE.UU.-Canadá: efectos en el trabajo y el empleo
-UID:e9625d83-e25e-48a3-9890-f7cf769e153f@e962.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
 DURATION:PT2H
 DTSTART:20241205T200000Z
 SUMMARY:Acercamientos al debate didáctico contemporáneo
-UID:f99cf97b-7db0-4b91-8ce9-2f05519b4376@f99c.org
+UID:0984a6f4-ce37-4cf1-9de4-41c5fe5adef2@0984.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/acercamientos-al-debate-didactico-contemporaneo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-tokenizacion-y-derecho
+DURATION:PT2H
+DTSTART:20241204T210000Z
+SUMMARY:Jornada "Tokenización y Derecho"
+UID:6b8c03f4-a718-4d5f-b7de-7e0efd01e823@6b8c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/jornada-tokenizacion-y-derecho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
+DURATION:PT2H
+DTSTART:20241213T200000Z
+SUMMARY:Obra de teatro POTESTAD\, de Eduardo Pavlovsky
+UID:703be0b6-2cbe-4c5d-98c3-59f27130ee43@703b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
 DURATION:PT2H
 DTSTART:20250204T120000Z
 SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
-UID:e5ae7d8e-e59f-434a-b3c0-6341b329e76e@e5ae.org
+UID:4b26acf4-19d2-4246-9650-b2f66ecae62b@4b26.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +46,15 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-
 DURATION:PT2H
 DTSTART:20241204T030000Z
 SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
-UID:1b653e71-96d9-4727-adef-4bba766e3b12@1b65.org
+UID:5a699de1-f952-4d74-8167-615a18bc2a45@5a69.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
+DURATION:PT2H
+DTSTART:20241210T203000Z
+SUMMARY:El mecanismo laboral de respuesta rápida contenido en el tratado comercial México-EE.UU.-Canadá: efectos en el trabajo y el empleo
+UID:d802d36e-3379-4b02-82f6-71fde0017afd@d802.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
 END:VEVENT
 END:VCALENDAR
