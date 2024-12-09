@@ -2,27 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-autoritarismo-y-justicia-constitucional-el-caso-venezuela-i-del-dr-ramsis-ghazzaoui
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/cuestiones-relativas-a-la-atribucion-de-responsabilidad-internacional-individual-por-la-comision-de-crimenes-internacionales-el-impacto-de-la-inteligencia-artificial
 DURATION:PT2H
-DTSTART:20241218T190000Z
-SUMMARY:Presentación del libro "Autoritarismo y justicia constitucional: el caso Venezuela" del Dr. Ramsis Ghazzaoui
-UID:dc64028d-98b6-496b-9657-0e1f1aed94b3@dc64.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-autoritarismo-y-justicia-constitucional-el-caso-venezuela-i-del-dr-ramsis-ghazzaoui
+DTSTART:20241212T213000Z
+SUMMARY:Cuestiones relativas a la atribución de responsabilidad internacional individual por la comisión de crímenes internacionales. El impacto de la inteligencia artificial
+UID:45de7515-ace6-4bc0-8783-942f9ecb5692@45de.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/cuestiones-relativas-a-la-atribucion-de-responsabilidad-internacional-individual-por-la-comision-de-crimenes-internacionales-el-impacto-de-la-inteligencia-artificial
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 DURATION:PT2H
 DTSTART:20250723T130000Z
 SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:fc6260b6-8e60-4e8c-9d98-7c9f457507e9@fc62.org
+UID:c7448375-c2d8-41ab-9b68-3065c6b5a4c4@c744.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-nuevas-tendencias-en-derecho-penal-procesal-penal-y-criminologia
+DURATION:PT2H
+DTSTART:20241219T173000Z
+SUMMARY:Seminario "Nuevas Tendencias en Derecho Penal\, Procesal Penal y Criminología"
+UID:7f536891-2ef8-4b7b-af0a-4f74c6bce213@7f53.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-nuevas-tendencias-en-derecho-penal-procesal-penal-y-criminologia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencia-poderes-y-mandatos-preventivos-en-la-regulacion-espanola-de-discapacidad
+DURATION:PT2H
+DTSTART:20241209T200000Z
+SUMMARY:Conferencia "poderes y mandatos preventivos en la regulación española de discapacidad"
+UID:a6843a88-b2ff-4a3b-b418-4a212a181ca4@a684.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencia-poderes-y-mandatos-preventivos-en-la-regulacion-espanola-de-discapacidad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DURATION:PT2H
+DTSTART:20241218T030000Z
+SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
+UID:392f8e2a-8fe6-4dfc-b803-2e9bd09d3c2d@392f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ii-conversatorio-sobre-innovacion-en-la-ensenanza-la-inteligencia-artificial-ia-en-la-ensenanza-del-derecho-1
+DURATION:PT2H
+DTSTART:20241211T203000Z
+SUMMARY:II Conversatorio sobre Innovación en la Enseñanza: "La Inteligencia Artificial (IA) en la enseñanza del derecho"
+UID:755a2023-5d2a-4259-88f8-016ad5ae14dc@755a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ii-conversatorio-sobre-innovacion-en-la-ensenanza-la-inteligencia-artificial-ia-en-la-ensenanza-del-derecho-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
 DURATION:PT2H
 DTSTART:20241213T200000Z
 SUMMARY:Obra de teatro POTESTAD\, de Eduardo Pavlovsky
-UID:1a8c96cc-a047-4c7c-aa16-d8dcc87faf34@1a8c.org
+UID:72931d22-9ae8-40ab-9af6-502b549c2f9b@7293.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
 END:VEVENT
 BEGIN:VEVENT
@@ -30,55 +62,23 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-
 DURATION:PT2H
 DTSTART:20241210T203000Z
 SUMMARY:El mecanismo laboral de respuesta rápida contenido en el tratado comercial México-EE.UU.-Canadá: efectos en el trabajo y el empleo
-UID:f07a24ed-0dca-4bae-b24c-f6b4183bda06@f07a.org
+UID:f91d4f86-123e-4b4b-94bc-f531a4653d82@f91d.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/el-mecanismo-laboral-de-respuesta-rapida-contenido-en-el-tratado-comercial-mexico-ee-uu-canada-efectos-en-el-trabajo-y-el-empleo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-autoritarismo-y-justicia-constitucional-el-caso-venezuela-i-del-dr-ramsis-ghazzaoui
 DURATION:PT2H
-DTSTART:20241218T030000Z
-SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
-UID:08f6ac4d-6d84-4260-ac50-4ae168f0b6f0@08f6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencia-poderes-y-mandatos-preventivos-en-la-regulacion-espanola-de-discapacidad
-DURATION:PT2H
-DTSTART:20241209T200000Z
-SUMMARY:Conferencia "poderes y mandatos preventivos en la regulación española de discapacidad"
-UID:219d4ac1-5eb5-4216-93d6-0967d09f5bd4@219d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/conferencia-poderes-y-mandatos-preventivos-en-la-regulacion-espanola-de-discapacidad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-nuevas-tendencias-en-derecho-penal-procesal-penal-y-criminologia
-DURATION:PT2H
-DTSTART:20241219T173000Z
-SUMMARY:Seminario "Nuevas Tendencias en Derecho Penal\, Procesal Penal y Criminología"
-UID:8627006b-df57-41b0-bff5-498a7c0754d5@8627.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-nuevas-tendencias-en-derecho-penal-procesal-penal-y-criminologia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/ii-conversatorio-sobre-innovacion-en-la-ensenanza-la-inteligencia-artificial-ia-en-la-ensenanza-del-derecho-1
-DURATION:PT2H
-DTSTART:20241211T203000Z
-SUMMARY:II Conversatorio sobre Innovación en la Enseñanza: "La Inteligencia Artificial (IA) en la enseñanza del derecho"
-UID:14b3a78b-44b0-4257-95e5-c9c2d4815c43@14b3.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/ii-conversatorio-sobre-innovacion-en-la-ensenanza-la-inteligencia-artificial-ia-en-la-ensenanza-del-derecho-1
+DTSTART:20241218T190000Z
+SUMMARY:Presentación del libro "Autoritarismo y justicia constitucional: el caso Venezuela" del Dr. Ramsis Ghazzaoui
+UID:931b19df-e435-4e81-abe4-4d39d7568a45@931b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-autoritarismo-y-justicia-constitucional-el-caso-venezuela-i-del-dr-ramsis-ghazzaoui
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
 DURATION:PT2H
 DTSTART:20250204T120000Z
 SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
-UID:f8336cbf-23f0-49f9-bc73-0b806cfe71c7@f833.org
+UID:7cc3ca6c-be72-4be9-8bdc-85de5edd128f@7cc3.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/cuestiones-relativas-a-la-atribucion-de-responsabilidad-internacional-individual-por-la-comision-de-crimenes-internacionales-el-impacto-de-la-inteligencia-artificial
-DURATION:PT2H
-DTSTART:20241212T213000Z
-SUMMARY:Cuestiones relativas a la atribución de responsabilidad internacional individual por la comisión de crímenes internacionales. El impacto de la inteligencia artificial
-UID:79df3618-5652-469e-b0d3-d2e552435aaa@79df.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/cuestiones-relativas-a-la-atribucion-de-responsabilidad-internacional-individual-por-la-comision-de-crimenes-internacionales-el-impacto-de-la-inteligencia-artificial
 END:VEVENT
 END:VCALENDAR
