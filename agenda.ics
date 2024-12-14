@@ -2,59 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-nuevas-tendencias-en-derecho-penal-procesal-penal-y-criminologia
+DURATION:PT2H
+DTSTART:20241219T173000Z
+SUMMARY:Seminario "Nuevas Tendencias en Derecho Penal\, Procesal Penal y Criminología"
+UID:b2856314-0108-43e4-96e1-91c38bf9840e@b285.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-nuevas-tendencias-en-derecho-penal-procesal-penal-y-criminologia
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
 DURATION:PT2H
 DTSTART:20250204T120000Z
 SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
-UID:cb1c6972-4be4-4a6c-bf17-afb6fba8b7d4@cb1c.org
+UID:80d59fd0-8ec0-4763-bc29-5270e1c64928@80d5.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
-DURATION:PT2H
-DTSTART:20241218T030000Z
-SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
-UID:6395118d-09bd-4dcd-852b-68bf04dd89b2@6395.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 DURATION:PT2H
 DTSTART:20250723T130000Z
 SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:66686b11-183a-4eb1-a6d3-809520f3ee0f@6668.org
+UID:9c6ba81f-9bbf-4680-b475-bc5d73d3ecc0@9c6b.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
 DURATION:PT2H
-DTSTART:20241213T200000Z
-SUMMARY:Obra de teatro POTESTAD\, de Eduardo Pavlovsky
-UID:68aaf3d4-9f64-4fc9-b590-9823e0e8b0a1@68aa.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/obra-de-teatro-i-potestad-i-de-eduardo-pavlovsky
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-nuevas-tendencias-en-derecho-penal-procesal-penal-y-criminologia
-DURATION:PT2H
-DTSTART:20241219T173000Z
-SUMMARY:Seminario "Nuevas Tendencias en Derecho Penal\, Procesal Penal y Criminología"
-UID:be5803b2-1da7-4f09-8d6a-34a5ba385579@be58.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-nuevas-tendencias-en-derecho-penal-procesal-penal-y-criminologia
+DTSTART:20241218T030000Z
+SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
+UID:e237c575-c955-45e7-bd60-f46cb370f330@e237.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-autoritarismo-y-justicia-constitucional-el-caso-venezuela-i-del-dr-ramsis-ghazzaoui
 DURATION:PT2H
 DTSTART:20241218T190000Z
 SUMMARY:Presentación del libro "Autoritarismo y justicia constitucional: el caso Venezuela" del Dr. Ramsis Ghazzaoui
-UID:c6763647-3a86-4f4c-aff4-d7c8c4f853af@c676.org
+UID:f7501efa-946a-4dd9-9493-7e566988f2fe@f750.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/presentacion-del-libro-i-autoritarismo-y-justicia-constitucional-el-caso-venezuela-i-del-dr-ramsis-ghazzaoui
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/concierto-de-musica-y-cine-cinarte
-DURATION:PT2H
-DTSTART:20241213T223000Z
-SUMMARY:Concierto de Música y Cine "Cinarte"
-UID:38433fd5-a123-4d54-ba0b-c0cee3a4f005@3843.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2024/concierto-de-musica-y-cine-cinarte
 END:VEVENT
 END:VCALENDAR
