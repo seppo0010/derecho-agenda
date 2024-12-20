@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
-DURATION:PT2H
-DTSTART:20250204T120000Z
-SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
-UID:c15871ea-133b-43a5-ad54-b4b0d5cffb81@c158.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 DURATION:PT2H
 DTSTART:20250723T130000Z
 SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:1cf291b0-0c66-4393-a3c4-d41a6fea6b34@1cf2.org
+UID:469a436d-056e-4966-bf29-20e9735e0283@469a.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
+DURATION:PT2H
+DTSTART:20250204T120000Z
+SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
+UID:7c54afab-9ccb-45e0-90fd-29bee11a9931@7c54.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-nuevas-tendencias-en-derecho-penal-procesal-penal-y-criminologia
 DURATION:PT2H
-DTSTART:20241219T173000Z
+DTSTART:20241220T173000Z
 SUMMARY:Seminario "Nuevas Tendencias en Derecho Penal\, Procesal Penal y Criminología"
-UID:70768e3c-8720-40b9-8180-330e613b2b1f@7076.org
+UID:ffd0f25a-cc70-4a9a-b72e-5954845ef702@ffd0.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2024/seminario-nuevas-tendencias-en-derecho-penal-procesal-penal-y-criminologia
 END:VEVENT
 END:VCALENDAR
