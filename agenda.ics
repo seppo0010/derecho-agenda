@@ -2,27 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
-DURATION:PT2H
-DTSTART:20250408T220000Z
-SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
-UID:b76e97bf-4ab1-404b-a6d6-194c7dd0b6dd@b76e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
-DURATION:PT2H
-DTSTART:20250508T110000Z
-SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
-UID:177548d8-ae96-4264-8080-3c53981651e8@1775.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 DURATION:PT2H
 DTSTART:20250723T130000Z
 SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:0e53c260-e677-4a8f-95b7-bfb2984e1128@0e53.org
+UID:4681195a-4855-441e-b9c6-7b1bd30bff65@4681.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 END:VEVENT
 BEGIN:VEVENT
@@ -30,7 +14,23 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-reg
 DURATION:PT2H
 DTSTART:20250204T120000Z
 SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
-UID:f831909f-a95a-4ba9-bc0b-72ec06fcd1f1@f831.org
+UID:9d22217b-d471-4855-9db3-ad54f9c3be76@9d22.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
+DURATION:PT2H
+DTSTART:20250508T110000Z
+SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
+UID:da26f08c-8413-44da-8ded-f088a3e7c2f6@da26.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
+DURATION:PT2H
+DTSTART:20250408T220000Z
+SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
+UID:dd89a050-c52b-4540-87a6-7cf79db2b97f@dd89.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 END:VEVENT
 END:VCALENDAR
