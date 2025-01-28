@@ -2,35 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-DURATION:PT2H
-DTSTART:20250723T130000Z
-SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:c3b868e2-85d4-486c-a739-4868992aa24f@c3b8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
 DURATION:PT2H
 DTSTART:20250508T110000Z
 SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
-UID:6a668066-5b0d-456e-a69a-642263885b96@6a66.org
+UID:88689754-831b-480a-84d1-ea2343b80b84@8868.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
-DURATION:PT2H
-DTSTART:20250204T120000Z
-SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
-UID:58a95f40-da0d-4730-bc0e-159f7a23de8d@58a9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 DURATION:PT2H
 DTSTART:20250408T220000Z
 SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
-UID:f8b35962-0aa2-4cd0-9833-1ea923eee965@f8b3.org
+UID:c77ed2cb-b47b-4615-9182-41996c13179f@c77e.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
+DURATION:PT2H
+DTSTART:20250204T120000Z
+SUMMARY:Seminario regional: "Camino a los 10 años del Acuerdo de París: Incorporando la Bioética en las Contribuciones Determinadas a Nivel Nacional (NDCs) en Sudamérica"
+UID:f8ec7f21-98dd-4368-9ed8-b51234d0e374@f8ec.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-regional-camino-a-los-aa-anos-del-acuerdo-de-paris-incorporando-la-bioetica-en-las-contribuciones-determinadas-a-nivel-nacional-ndcs-en-sudamerica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+DURATION:PT2H
+DTSTART:20250723T130000Z
+SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
+UID:730c76b6-012f-482c-a9a1-1210cdc0fe05@730c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 END:VEVENT
 END:VCALENDAR
