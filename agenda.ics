@@ -2,35 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
-DURATION:PT2H
-DTSTART:20250408T220000Z
-SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
-UID:b47ed597-aef9-4efd-bb69-826a930b75fe@b47e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 DURATION:PT2H
 DTSTART:20250723T130000Z
 SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:aa99d23d-90c2-44ba-8dbd-d686020f10e5@aa99.org
+UID:a0d4456a-2c79-4c9d-9c66-828611d909da@a0d4.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-el-fallo-levinas-y-su-incidencia-en-el-ejercicio-profesional
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 DURATION:PT2H
-DTSTART:20250220T200000Z
-SUMMARY:Jornada "El fallo "Levinas" y su incidencia en el ejercicio profesional"
-UID:bf311fe2-7161-46a8-ac45-b6147b0ac9c4@bf31.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-el-fallo-levinas-y-su-incidencia-en-el-ejercicio-profesional
+DTSTART:20250408T220000Z
+SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
+UID:670fa066-e3f1-4240-a987-5f23cc59e577@670f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
 DURATION:PT2H
 DTSTART:20250508T110000Z
 SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
-UID:fa54d1d3-d24f-47c1-93c7-7620db04e5b1@fa54.org
+UID:d7f82ebd-42b2-450b-a12f-9f600c5760e5@d7f8.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-el-fallo-levinas-y-su-incidencia-en-el-ejercicio-profesional
+DURATION:PT2H
+DTSTART:20250220T200000Z
+SUMMARY:Jornada "El fallo "Levinas" y su incidencia en el ejercicio profesional"
+UID:b4a8e791-d213-49c0-affb-8395229b22af@b4a8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-el-fallo-levinas-y-su-incidencia-en-el-ejercicio-profesional
 END:VEVENT
 END:VCALENDAR
