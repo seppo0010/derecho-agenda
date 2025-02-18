@@ -2,35 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-el-fallo-levinas-y-su-incidencia-en-el-ejercicio-profesional
 DURATION:PT2H
-DTSTART:20250723T130000Z
-SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:b5bb5b9c-baab-4de0-8d1f-9255764fe78d@b5bb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+DTSTART:20250220T200000Z
+SUMMARY:Jornada "El fallo "Levinas" y su incidencia en el ejercicio profesional"
+UID:36929e3f-d8fb-438e-b0d5-751a035abd39@3692.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-el-fallo-levinas-y-su-incidencia-en-el-ejercicio-profesional
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 DURATION:PT2H
 DTSTART:20250408T220000Z
 SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
-UID:b9344b32-a677-45f4-9858-c8fef3e968e7@b934.org
+UID:86bed9ef-0803-4d43-8c8c-dc55f57610db@86be.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-el-fallo-levinas-y-su-incidencia-en-el-ejercicio-profesional
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-trabajo-decente-y-reformas-laborales-en-espana
 DURATION:PT2H
-DTSTART:20250220T200000Z
-SUMMARY:Jornada "El fallo "Levinas" y su incidencia en el ejercicio profesional"
-UID:a134dc3d-82b6-401f-996d-1e1c92831f8a@a134.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-el-fallo-levinas-y-su-incidencia-en-el-ejercicio-profesional
+DTSTART:20250227T210000Z
+SUMMARY:Conferencia "Trabajo decente y reformas laborales en España"
+UID:3a112acd-318b-40d7-9e43-e21a69a2a2c4@3a11.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-trabajo-decente-y-reformas-laborales-en-espana
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
 DURATION:PT2H
 DTSTART:20250508T110000Z
 SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
-UID:6ba954a1-483d-4702-a9ec-1e1cf6035d5c@6ba9.org
+UID:7a2798ff-36a3-4ae3-b560-e7e302923c81@7a27.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+DURATION:PT2H
+DTSTART:20250723T130000Z
+SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
+UID:2f320229-4626-4ae2-a03e-14a6af6d59bf@2f32.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
+DURATION:PT2H
+DTSTART:20250326T203000Z
+SUMMARY:Acto académico en homenaje al Profesor Oscar González Pereira
+UID:42610163-6162-44be-9c19-088555c0cc07@4261.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
 END:VEVENT
 END:VCALENDAR
