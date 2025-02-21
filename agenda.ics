@@ -2,11 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
+DURATION:PT2H
+DTSTART:20250318T200000Z
+SUMMARY:#8M 2025 - Jornada "Custodiar\, proteger y apoyar los derechos de las mujeres y las diversidades"
+UID:49c716e0-99db-48c3-b9a5-636d0594a13a@49c7.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
+DURATION:PT2H
+DTSTART:20250508T110000Z
+SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
+UID:bf4ba624-15ee-4c3a-90b9-92c716ab18f0@bf4b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/estadisticas-sobre-la-prision-preventiva-en-busca-de-una-base-confiable-para-el-analisis-de-los-riesgos-procesales
+DURATION:PT2H
+DTSTART:20250306T210000Z
+SUMMARY:Estadísticas sobre la prisión preventiva. En busca de una base confiable para el análisis de los riesgos procesales
+UID:1c39d182-98f1-422f-a204-4e2ab482fafb@1c39.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/estadisticas-sobre-la-prision-preventiva-en-busca-de-una-base-confiable-para-el-analisis-de-los-riesgos-procesales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
+DURATION:PT2H
+DTSTART:20250408T120000Z
+SUMMARY:Pasado\, presente y porvenir de los estudios críticos en el campo jurídico. A cuarenta años del Seminario de Teoría Crítica
+UID:c7f3d5cf-1aed-427c-b69e-c92676bedbac@c7f3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
 DURATION:PT2H
 DTSTART:20250320T200000Z
 SUMMARY:Crímenes de lesa humanidad
-UID:149f9d4c-0f6e-405c-8216-64cf47525036@149f.org
+UID:db8eeeb2-e741-4031-813c-eda6af2757b8@db8e.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
 END:VEVENT
 BEGIN:VEVENT
@@ -14,63 +46,31 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academic
 DURATION:PT2H
 DTSTART:20250326T203000Z
 SUMMARY:Acto académico en homenaje al Profesor Oscar González Pereira
-UID:92b4850c-b3f8-4765-ae13-7dab97900bd5@92b4.org
+UID:cd3efa35-343f-4c48-865a-0bbe00ad5d6f@cd3e.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-el-fallo-levinas-y-su-incidencia-en-el-ejercicio-profesional
-DURATION:PT2H
-DTSTART:20250220T200000Z
-SUMMARY:Jornada "El fallo "Levinas" y su incidencia en el ejercicio profesional"
-UID:d46fdee1-25e1-42e5-aa1d-a2415acc9275@d46f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-el-fallo-levinas-y-su-incidencia-en-el-ejercicio-profesional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-trabajo-decente-y-reformas-laborales-en-espana
-DURATION:PT2H
-DTSTART:20250227T210000Z
-SUMMARY:Conferencia "Trabajo decente y reformas laborales en España"
-UID:947162b7-329f-4e0d-b235-46088e88811d@9471.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-trabajo-decente-y-reformas-laborales-en-espana
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
-DURATION:PT2H
-DTSTART:20250508T110000Z
-SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
-UID:abe62041-7f0b-49eb-a352-891fb09f5e44@abe6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
-DURATION:PT2H
-DTSTART:20250408T120000Z
-SUMMARY:Pasado\, presente y porvenir de los estudios críticos en el campo jurídico. A cuarenta años del Seminario de Teoría Crítica
-UID:fae80341-c784-4518-b47d-a617e24bac17@fae8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-DURATION:PT2H
-DTSTART:20250723T130000Z
-SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:da0632eb-8449-48f6-bc1e-2dc921913e35@da06.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/estadisticas-sobre-la-prision-preventiva-en-busca-de-una-base-confiable-para-el-analisis-de-los-riesgos-procesales
-DURATION:PT2H
-DTSTART:20250306T210000Z
-SUMMARY:Estadísticas sobre la prisión preventiva. En busca de una base confiable para el análisis de los riesgos procesales
-UID:c4e6f58d-af34-4414-92df-36bf2b94ee1e@c4e6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/estadisticas-sobre-la-prision-preventiva-en-busca-de-una-base-confiable-para-el-analisis-de-los-riesgos-procesales
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 DURATION:PT2H
 DTSTART:20250408T220000Z
 SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
-UID:a633d5ed-f03f-4f25-b168-a139f083b2c1@a633.org
+UID:31275386-e12e-45ef-ac83-1ae656877c51@3127.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-trabajo-decente-y-reformas-laborales-en-espana
+DURATION:PT2H
+DTSTART:20250227T210000Z
+SUMMARY:Conferencia "Trabajo decente y reformas laborales en España"
+UID:b6d8ed09-3be8-4e1a-965c-674218763a69@b6d8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-trabajo-decente-y-reformas-laborales-en-espana
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+DURATION:PT2H
+DTSTART:20250723T130000Z
+SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
+UID:6e33a7ee-e12d-4d3f-90fb-4f5534897f93@6e33.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 END:VEVENT
 END:VCALENDAR
