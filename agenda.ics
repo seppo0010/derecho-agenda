@@ -2,27 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 DURATION:PT2H
-DTSTART:20250318T200000Z
-SUMMARY:#8M 2025 - Jornada "Custodiar\, proteger y apoyar los derechos de las mujeres y las diversidades"
-UID:49c716e0-99db-48c3-b9a5-636d0594a13a@49c7.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
+DTSTART:20250723T130000Z
+SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
+UID:a19a8d5b-6376-4849-9eda-848000d06490@a19a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
 DURATION:PT2H
-DTSTART:20250508T110000Z
-SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
-UID:bf4ba624-15ee-4c3a-90b9-92c716ab18f0@bf4b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
+DTSTART:20250320T200000Z
+SUMMARY:Crímenes de lesa humanidad
+UID:63eb0240-8b8f-4142-adf5-79829d7a0699@63eb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-trabajo-decente-y-reformas-laborales-en-espana
+DURATION:PT2H
+DTSTART:20250227T210000Z
+SUMMARY:Conferencia "Trabajo decente y reformas laborales en España"
+UID:2c9f9d1f-584e-4d1f-ae6d-a780d521de3a@2c9f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-trabajo-decente-y-reformas-laborales-en-espana
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/estadisticas-sobre-la-prision-preventiva-en-busca-de-una-base-confiable-para-el-analisis-de-los-riesgos-procesales
 DURATION:PT2H
 DTSTART:20250306T210000Z
 SUMMARY:Estadísticas sobre la prisión preventiva. En busca de una base confiable para el análisis de los riesgos procesales
-UID:1c39d182-98f1-422f-a204-4e2ab482fafb@1c39.org
+UID:eaca8c1b-f042-473f-ab4a-0aa19805bb22@eaca.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/estadisticas-sobre-la-prision-preventiva-en-busca-de-una-base-confiable-para-el-analisis-de-los-riesgos-procesales
 END:VEVENT
 BEGIN:VEVENT
@@ -30,47 +38,47 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presen
 DURATION:PT2H
 DTSTART:20250408T120000Z
 SUMMARY:Pasado\, presente y porvenir de los estudios críticos en el campo jurídico. A cuarenta años del Seminario de Teoría Crítica
-UID:c7f3d5cf-1aed-427c-b69e-c92676bedbac@c7f3.org
+UID:8b21a3ad-d938-4ce1-90c9-e4eee575b459@8b21.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
 DURATION:PT2H
-DTSTART:20250320T200000Z
-SUMMARY:Crímenes de lesa humanidad
-UID:db8eeeb2-e741-4031-813c-eda6af2757b8@db8e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
+DTSTART:20250318T200000Z
+SUMMARY:#8M 2025 - Jornada "Custodiar\, proteger y apoyar los derechos de las mujeres y las diversidades"
+UID:45e5387a-0cba-411c-b213-4e13a1d230ee@45e5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
 DURATION:PT2H
-DTSTART:20250326T203000Z
-SUMMARY:Acto académico en homenaje al Profesor Oscar González Pereira
-UID:cd3efa35-343f-4c48-865a-0bbe00ad5d6f@cd3e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
+DTSTART:20250508T110000Z
+SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
+UID:a033910d-cd26-42c6-bc5b-39483a63d0f0@a033.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-universidad-en-el-programa-de-la-transicion-a-la-democracia-actividad-en-el-marco-del-98-aniversario-del-nacimiento-del-presidente-dr-raul-alfonsin
+DURATION:PT2H
+DTSTART:20250311T210000Z
+SUMMARY:La universidad en el programa de la transición a la democracia. Actividad en el marco del 98º aniversario del nacimiento del Presidente Dr. Raúl Alfonsín
+UID:58da8a6b-b928-4a3e-86b3-e2e9180abf0b@58da.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-universidad-en-el-programa-de-la-transicion-a-la-democracia-actividad-en-el-marco-del-98-aniversario-del-nacimiento-del-presidente-dr-raul-alfonsin
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 DURATION:PT2H
 DTSTART:20250408T220000Z
 SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
-UID:31275386-e12e-45ef-ac83-1ae656877c51@3127.org
+UID:6ebd72e2-e4c2-4c4f-9d7b-1845ede1d433@6ebd.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-trabajo-decente-y-reformas-laborales-en-espana
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
 DURATION:PT2H
-DTSTART:20250227T210000Z
-SUMMARY:Conferencia "Trabajo decente y reformas laborales en España"
-UID:b6d8ed09-3be8-4e1a-965c-674218763a69@b6d8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-trabajo-decente-y-reformas-laborales-en-espana
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-DURATION:PT2H
-DTSTART:20250723T130000Z
-SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:6e33a7ee-e12d-4d3f-90fb-4f5534897f93@6e33.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+DTSTART:20250326T203000Z
+SUMMARY:Acto académico en homenaje al Profesor Oscar González Pereira
+UID:daf0238b-840f-432f-ad94-ae64b2767e0c@daf0.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
 END:VEVENT
 END:VCALENDAR
