@@ -2,91 +2,75 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-universidad-en-el-programa-de-la-transicion-a-la-democracia-actividad-en-el-marco-del-98-aniversario-del-nacimiento-del-presidente-dr-raul-alfonsin
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 DURATION:PT2H
-DTSTART:20250313T210000Z
-SUMMARY:La universidad en el programa de la transición a la democracia. Actividad en el marco del 98º aniversario del nacimiento del Presidente Dr. Raúl Alfonsín
-UID:acfa09b3-0503-421c-a5ef-4df7ecd50e8d@acfa.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-universidad-en-el-programa-de-la-transicion-a-la-democracia-actividad-en-el-marco-del-98-aniversario-del-nacimiento-del-presidente-dr-raul-alfonsin
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-conferencias-de-los-profesores-armin-englaender-y-till-zimmermann
-DURATION:PT2H
-DTSTART:20250310T200000Z
-SUMMARY:Ciclo de conferencias de los profesores Armin Engländer y Till Zimmermann
-UID:cffbf01d-1c91-4159-866b-efaed7f72f08@cffb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-conferencias-de-los-profesores-armin-englaender-y-till-zimmermann
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/estadisticas-sobre-la-prision-preventiva-en-busca-de-una-base-confiable-para-el-analisis-de-los-riesgos-procesales
-DURATION:PT2H
-DTSTART:20250306T210000Z
-SUMMARY:Estadísticas sobre la prisión preventiva. En busca de una base confiable para el análisis de los riesgos procesales
-UID:96475f4b-d9f5-4858-8792-a6f300a02424@9647.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/estadisticas-sobre-la-prision-preventiva-en-busca-de-una-base-confiable-para-el-analisis-de-los-riesgos-procesales
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-desafios-del-proceso-penal-acusatorio
-DURATION:PT2H
-DTSTART:20250313T183000Z
-SUMMARY:Jornada "Desafíos del proceso penal acusatorio"
-UID:718e4bc3-4690-49eb-ad65-532720140b36@718e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-desafios-del-proceso-penal-acusatorio
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
-DURATION:PT2H
-DTSTART:20250318T200000Z
-SUMMARY:#8M 2025 - Jornada "Custodiar\, proteger y apoyar los derechos de las mujeres y las diversidades"
-UID:e5b55c0f-23e6-4b36-a16a-2fa479d21df0@e5b5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-la-obra-colectiva-i-quiero-ser-juez-i
-DURATION:PT2H
-DTSTART:20250312T210000Z
-SUMMARY:Presentación de la obra colectiva Quiero ser juez
-UID:d65ebd75-9768-4af0-adab-0d591a06933a@d65e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-la-obra-colectiva-i-quiero-ser-juez-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-del-profesor-eric-hilgendorf
-DURATION:PT2H
-DTSTART:20250325T200000Z
-SUMMARY:Conferencia del profesor Eric Hilgendorf
-UID:461f61e6-72f4-4cd5-b732-4fac7b9c9a4c@461f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-del-profesor-eric-hilgendorf
+DTSTART:20250408T220000Z
+SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
+UID:dc8124f1-d707-4675-b823-d3de46a6704a@dc81.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-corte-antonio-boggiano
 DURATION:PT2H
 DTSTART:20250415T210000Z
 SUMMARY:La Corte Antonio Boggiano
-UID:9c0e9429-560d-493e-b8e8-f84e266e8a3e@9c0e.org
+UID:afcaf467-8280-4e0a-9731-65ff6b99ef00@afca.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-corte-antonio-boggiano
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
+DURATION:PT2H
+DTSTART:20250320T200000Z
+SUMMARY:Crímenes de lesa humanidad
+UID:6ea4a08f-e452-49e1-9b22-3a0800a70290@6ea4.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-del-profesor-eric-hilgendorf
+DURATION:PT2H
+DTSTART:20250325T200000Z
+SUMMARY:Conferencia del profesor Eric Hilgendorf
+UID:d13da7ee-61be-4959-996d-60b5e9a1a7cb@d13d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-del-profesor-eric-hilgendorf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/analisis-del-fallo-ferrari-c-levinas
 DURATION:PT2H
 DTSTART:20250325T210000Z
 SUMMARY:Análisis del fallo Ferrari c/ Levinas
-UID:4ec13f90-fb58-453c-bfc3-fcec4b7325f9@4ec1.org
+UID:248db8c1-ce1e-41bb-ac6a-88543d8c8b3e@248d.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/analisis-del-fallo-ferrari-c-levinas
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/estadisticas-sobre-la-prision-preventiva-en-busca-de-una-base-confiable-para-el-analisis-de-los-riesgos-procesales
 DURATION:PT2H
-DTSTART:20250326T203000Z
-SUMMARY:Acto académico en homenaje al Profesor Oscar González Pereira
-UID:09f82325-e5f3-46f6-8732-593d2229612c@09f8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
+DTSTART:20250306T210000Z
+SUMMARY:Estadísticas sobre la prisión preventiva. En busca de una base confiable para el análisis de los riesgos procesales
+UID:e541c0ab-f7a0-4b31-9b7e-591963620106@e541.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/estadisticas-sobre-la-prision-preventiva-en-busca-de-una-base-confiable-para-el-analisis-de-los-riesgos-procesales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-conferencias-de-los-profesores-armin-englaender-y-till-zimmermann
+DURATION:PT2H
+DTSTART:20250310T200000Z
+SUMMARY:Ciclo de conferencias de los profesores Armin Engländer y Till Zimmermann
+UID:b3d7593c-55e7-445d-a975-45cec7e0fcf6@b3d7.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-conferencias-de-los-profesores-armin-englaender-y-till-zimmermann
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-la-obra-colectiva-i-quiero-ser-juez-i
+DURATION:PT2H
+DTSTART:20250312T210000Z
+SUMMARY:Presentación de la obra colectiva Quiero ser juez
+UID:138200fb-f794-4de5-ad43-eec6fdef2131@1382.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-la-obra-colectiva-i-quiero-ser-juez-i
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
 DURATION:PT2H
 DTSTART:20250508T110000Z
 SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
-UID:89a45157-1be2-4998-845f-b61999a40048@89a4.org
+UID:87baab53-7f76-4389-877e-49f2e65a8e75@87ba.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
 END:VEVENT
 BEGIN:VEVENT
@@ -94,39 +78,55 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferenc
 DURATION:PT2H
 DTSTART:20250723T130000Z
 SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:3c31514d-e13d-4fe9-8286-0e4daa727e39@3c31.org
+UID:205d53e5-8e0f-4087-a10c-1c13f345fdfd@205d.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
-DURATION:PT2H
-DTSTART:20250408T220000Z
-SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
-UID:b334da82-445c-4b36-9a11-503c2cc24886@b334.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
-DURATION:PT2H
-DTSTART:20250408T120000Z
-SUMMARY:Pasado\, presente y porvenir de los estudios críticos en el campo jurídico. A cuarenta años del Seminario de Teoría Crítica
-UID:6b86b4f3-f22c-498b-a55b-8df1416c2ecc@6b86.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
-DURATION:PT2H
-DTSTART:20250320T200000Z
-SUMMARY:Crímenes de lesa humanidad
-UID:0862c907-b16a-4c9b-b4dc-d2e030be39a3@0862.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-libros-i-teoria-del-delito-y-regimen-de-la-pena-i-y-i-tratado-de-procedimiento-criminal-en-inglaterra-escocia-y-america-del-norte-i
 DURATION:PT2H
 DTSTART:20250409T183000Z
 SUMMARY:Presentación de libros Teoría del delito y régimen de la pena y Tratado de procedimiento criminal en Inglaterra\, Escocia\, y América del Norte
-UID:9619241a-8c92-4e35-8026-a2c712512c1b@9619.org
+UID:c4d7c678-1d1a-43d1-96f8-43c457a3458f@c4d7.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-libros-i-teoria-del-delito-y-regimen-de-la-pena-i-y-i-tratado-de-procedimiento-criminal-en-inglaterra-escocia-y-america-del-norte-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
+DURATION:PT2H
+DTSTART:20250408T120000Z
+SUMMARY:Pasado\, presente y porvenir de los estudios críticos en el campo jurídico. A cuarenta años del Seminario de Teoría Crítica
+UID:3219d5b6-6fb2-4499-8d8f-d101dc9ea29b@3219.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
+DURATION:PT2H
+DTSTART:20250318T200000Z
+SUMMARY:#8M 2025 - Jornada "Custodiar\, proteger y apoyar los derechos de las mujeres y las diversidades"
+UID:c29dac88-1fde-4768-84e8-f6387fff290d@c29d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-universidad-en-el-programa-de-la-transicion-a-la-democracia-actividad-en-el-marco-del-98-aniversario-del-nacimiento-del-presidente-dr-raul-alfonsin
+DURATION:PT2H
+DTSTART:20250313T210000Z
+SUMMARY:La universidad en el programa de la transición a la democracia. Actividad en el marco del 98º aniversario del nacimiento del Presidente Dr. Raúl Alfonsín
+UID:06470015-343f-4890-91c4-87ec30999dc1@0647.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-universidad-en-el-programa-de-la-transicion-a-la-democracia-actividad-en-el-marco-del-98-aniversario-del-nacimiento-del-presidente-dr-raul-alfonsin
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-desafios-del-proceso-penal-acusatorio
+DURATION:PT2H
+DTSTART:20250313T183000Z
+SUMMARY:Jornada "Desafíos del proceso penal acusatorio"
+UID:ff12ca0b-fd89-43ed-86b3-3330261bd593@ff12.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-desafios-del-proceso-penal-acusatorio
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
+DURATION:PT2H
+DTSTART:20250326T203000Z
+SUMMARY:Acto académico en homenaje al Profesor Oscar González Pereira
+UID:b162adac-af2d-4df9-9e66-698882c8b032@b162.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
 END:VEVENT
 END:VCALENDAR
