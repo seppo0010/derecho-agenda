@@ -2,59 +2,155 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-del-profesor-eric-hilgendorf
 DURATION:PT2H
-DTSTART:20250723T130000Z
-SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:2b60ddb2-bbd7-4f25-92db-76f1bb287481@2b60.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+DTSTART:20250325T200000Z
+SUMMARY:Conferencia del profesor Eric Hilgendorf
+UID:d7bf9f93-3271-439b-a1b9-d5b3a3b9c037@d7bf.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-del-profesor-eric-hilgendorf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-universidad-en-el-programa-de-la-transicion-a-la-democracia-actividad-en-el-marco-del-98-aniversario-del-nacimiento-del-presidente-dr-raul-alfonsin
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-derechos-humanos-y-jurisdiccion-supranacional
 DURATION:PT2H
-DTSTART:20250313T210000Z
-SUMMARY:La universidad en el programa de la transición a la democracia. Actividad en el marco del 98º aniversario del nacimiento del Presidente Dr. Raúl Alfonsín
-UID:2f9cd669-82f1-4009-b4ca-aab013a27ff6@2f9c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-universidad-en-el-programa-de-la-transicion-a-la-democracia-actividad-en-el-marco-del-98-aniversario-del-nacimiento-del-presidente-dr-raul-alfonsin
+DTSTART:20250317T213000Z
+SUMMARY:Conferencia "Derechos humanos y jurisdicción supranacional"
+UID:250fb542-3aa5-4df7-8954-ae81e006b9c8@250f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-derechos-humanos-y-jurisdiccion-supranacional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/difusion-de-la-cultura-tributaria-programa-ubanex
+DURATION:PT2H
+DTSTART:20250320T210000Z
+SUMMARY:Difusión de la cultura tributaria. Programa UBANEX
+UID:c9b25e6c-432f-4903-954d-0bc06d830d5f@c9b2.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/difusion-de-la-cultura-tributaria-programa-ubanex
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
+DURATION:PT2H
+DTSTART:20250320T200000Z
+SUMMARY:Crímenes de lesa humanidad
+UID:d0a60a8f-93bd-430b-a003-4cc2efe7ff0d@d0a6.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 DURATION:PT2H
 DTSTART:20250408T220000Z
 SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
-UID:7d82ea37-8fd1-417b-931f-c6b8a85585b9@7d82.org
+UID:ad8d2f3e-c380-4733-a246-4b8771c106d8@ad8d.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-corte-antonio-boggiano
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/mesa-redonda-abierta-al-publico-desde-la-especializacion-en-derecho-nuclear-y-el-observatorio-de-derecho-internacional-humanitario
 DURATION:PT2H
-DTSTART:20250415T210000Z
-SUMMARY:La Corte Antonio Boggiano
-UID:a403a6de-07fb-4db0-a78d-eb8b181e56f8@a403.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-corte-antonio-boggiano
+DTSTART:20250327T210000Z
+SUMMARY:Mesa redonda abierta al público desde la Especialización en Derecho Nuclear y el Observatorio de Derecho Internacional Humanitario
+UID:9a19cb50-374a-464f-85f0-309acceb7cbd@9a19.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/mesa-redonda-abierta-al-publico-desde-la-especializacion-en-derecho-nuclear-y-el-observatorio-de-derecho-internacional-humanitario
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/temas-de-actualidad-tributaria-2025
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-teoria-e-ideologia-constitucional-i-de-pedro-a-caminos
 DURATION:PT2H
-DTSTART:20250326T210000Z
-SUMMARY:Temas de actualidad tributaria 2025
-UID:e8bf3698-b1d5-4f25-993a-b13143357e47@e8bf.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/temas-de-actualidad-tributaria-2025
+DTSTART:20250327T213000Z
+SUMMARY:Presentación del libro Teoría e Ideología Constitucional\, de Pedro A. Caminos
+UID:24845dae-1e16-4734-94b2-decd25233e1c@2484.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-teoria-e-ideologia-constitucional-i-de-pedro-a-caminos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/muestra-en-conmemoracion-por-el-dia-internacional-de-la-mujer-trabajadora-justo-el-arte
+DURATION:PT2H
+DTSTART:20250305T030000Z
+SUMMARY:Muestra en conmemoración por el Día Internacional de la Mujer Trabajadora: "Justo el Arte"
+UID:5662353f-69c5-4018-a0e4-ae2db7c66169@5662.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/muestra-en-conmemoracion-por-el-dia-internacional-de-la-mujer-trabajadora-justo-el-arte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-la-doctrina-del-precedente-y-las-facultades-normologicas-de-los-tribunales
+DURATION:PT2H
+DTSTART:20250415T180000Z
+SUMMARY:Jornada "La doctrina del precedente y las facultades normológicas de los tribunales"
+UID:c4f80a74-1038-4f21-a98e-55b59510bf6b@c4f8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-la-doctrina-del-precedente-y-las-facultades-normologicas-de-los-tribunales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
+DURATION:PT2H
+DTSTART:20250508T110000Z
+SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
+UID:6c2daf07-0984-46f9-8f6d-7a1d8fc2e9e4@6c2d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/cultura-juridica-y-derecho-romano-parametros-actuales-de-la-cuestion
 DURATION:PT2H
 DTSTART:20250317T173000Z
 SUMMARY:Cultura jurídica y derecho romano. Parámetros actuales de la cuestión
-UID:80fbca6e-4f18-466c-ba9f-f67c440a913f@80fb.org
+UID:d207618f-3867-4261-9fc1-33878111a080@d207.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/cultura-juridica-y-derecho-romano-parametros-actuales-de-la-cuestion
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+DURATION:PT2H
+DTSTART:20250723T130000Z
+SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
+UID:34a0c110-2268-4336-b824-8a2ba101e2b3@34a0.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/los-y-las-estudiantes-vamos-a-los-juicios
+DURATION:PT2H
+DTSTART:20250410T200000Z
+SUMMARY:Los y las estudiantes vamos a los juicios
+UID:c6539ba1-f45a-424d-8979-4d084b6f1b34@c653.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/los-y-las-estudiantes-vamos-a-los-juicios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-libros-i-teoria-del-delito-y-regimen-de-la-pena-i-y-i-tratado-de-procedimiento-criminal-en-inglaterra-escocia-y-america-del-norte-i
+DURATION:PT2H
+DTSTART:20250409T183000Z
+SUMMARY:Presentación de libros Teoría del delito y régimen de la pena y Tratado de procedimiento criminal en Inglaterra\, Escocia\, y América del Norte
+UID:67f723ff-d50d-4cca-9951-8272e1b40b05@67f7.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-libros-i-teoria-del-delito-y-regimen-de-la-pena-i-y-i-tratado-de-procedimiento-criminal-en-inglaterra-escocia-y-america-del-norte-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-corte-antonio-boggiano
+DURATION:PT2H
+DTSTART:20250415T210000Z
+SUMMARY:La Corte Antonio Boggiano
+UID:16261e0f-b9b8-443e-b7c0-87f6a70b4167@1626.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-corte-antonio-boggiano
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
+DURATION:PT2H
+DTSTART:20250408T120000Z
+SUMMARY:Pasado\, presente y porvenir de los estudios críticos en el campo jurídico. A cuarenta años del Seminario de Teoría Crítica
+UID:46955325-7795-4c0f-84e1-8adea7e6ffd3@4695.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/mesa-redonda-ordenaciones-legales-en-las-colonizaciones-del-mediterraneo-antiguo
+DURATION:PT2H
+DTSTART:20250320T213000Z
+SUMMARY:Mesa redonda "Ordenaciones legales en las colonizaciones del Mediterráneo antiguo"
+UID:2e554bf9-091e-43ce-a4d5-caafbfcc4b6f@2e55.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/mesa-redonda-ordenaciones-legales-en-las-colonizaciones-del-mediterraneo-antiguo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/temas-de-actualidad-tributaria-2025
+DURATION:PT2H
+DTSTART:20250326T210000Z
+SUMMARY:Temas de actualidad tributaria 2025
+UID:7f6d0a1c-92f4-4331-aaf4-5811ef400b51@7f6d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/temas-de-actualidad-tributaria-2025
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
 DURATION:PT2H
 DTSTART:20250326T203000Z
 SUMMARY:Acto académico en homenaje al Profesor Oscar González Pereira
-UID:5c76e035-4cef-4973-b8ce-e307c0d82eb3@5c76.org
+UID:908f9172-fad2-42fe-86f5-ec0daae9c271@908f.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
 END:VEVENT
 BEGIN:VEVENT
@@ -62,135 +158,23 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/analisis-del-
 DURATION:PT2H
 DTSTART:20250325T210000Z
 SUMMARY:Análisis del fallo Ferrari c/ Levinas
-UID:62ec244b-3e2b-4f4b-8801-e7df2b4d3d29@62ec.org
+UID:b30001ff-d1db-494d-a3a2-4e22d60435aa@b300.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/analisis-del-fallo-ferrari-c-levinas
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/charla-universitaria-el-tratado-de-tlatelolco-en-el-contexto-actual-de-la-seguridad-internacional
 DURATION:PT2H
-DTSTART:20250408T120000Z
-SUMMARY:Pasado\, presente y porvenir de los estudios críticos en el campo jurídico. A cuarenta años del Seminario de Teoría Crítica
-UID:79b4771f-cd0e-4879-a947-e54be2a0e148@79b4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
+DTSTART:20250410T210000Z
+SUMMARY:Charla Universitaria "El Tratado de Tlatelolco en el contexto actual de la seguridad internacional"
+UID:0d5a7d4e-6a6e-4780-b9fd-9c07c915163b@0d5a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/charla-universitaria-el-tratado-de-tlatelolco-en-el-contexto-actual-de-la-seguridad-internacional
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
 DURATION:PT2H
 DTSTART:20250318T200000Z
 SUMMARY:#8M 2025 - Jornada "Custodiar\, proteger y apoyar los derechos de las mujeres y las diversidades"
-UID:9e60b39b-8da8-4d6d-8280-d2dfa7aaea72@9e60.org
+UID:96632599-4f4d-4363-a46e-5a8c7f158d4c@9663.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/8m-2025-jornada-custodiar-proteger-y-apoyar-los-derechos-de-las-mujeres-y-las-diversidades
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
-DURATION:PT2H
-DTSTART:20250508T110000Z
-SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
-UID:7f5221d6-9e19-4c1e-b419-123ec4c9107b@7f52.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-del-profesor-eric-hilgendorf
-DURATION:PT2H
-DTSTART:20250325T200000Z
-SUMMARY:Conferencia del profesor Eric Hilgendorf
-UID:8161566c-15f3-4bd8-b1d2-cd0dad35d178@8161.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-del-profesor-eric-hilgendorf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/mesa-redonda-ordenaciones-legales-en-las-colonizaciones-del-mediterraneo-antiguo
-DURATION:PT2H
-DTSTART:20250320T213000Z
-SUMMARY:Mesa redonda "Ordenaciones legales en las colonizaciones del Mediterráneo antiguo"
-UID:3110a3e8-f2a9-4722-9bd4-81d3c369c8c5@3110.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/mesa-redonda-ordenaciones-legales-en-las-colonizaciones-del-mediterraneo-antiguo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-desafios-del-proceso-penal-acusatorio
-DURATION:PT2H
-DTSTART:20250313T183000Z
-SUMMARY:Jornada "Desafíos del proceso penal acusatorio"
-UID:4cd868df-fd7f-4add-9f1c-ffae052f1ded@4cd8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-desafios-del-proceso-penal-acusatorio
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-la-doctrina-del-precedente-y-las-facultades-nomologicas-de-los-tribunales
-DURATION:PT2H
-DTSTART:20250415T180000Z
-SUMMARY:Jornada "La doctrina del precedente y las facultades nomológicas de los tribunales"
-UID:4dff0621-2220-489c-932e-ff640adfaeb5@4dff.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-la-doctrina-del-precedente-y-las-facultades-nomologicas-de-los-tribunales
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/mesa-redonda-abierta-al-publico-desde-la-especializacion-en-derecho-nuclear-y-el-observatorio-de-derecho-internacional-humanitario
-DURATION:PT2H
-DTSTART:20250327T210000Z
-SUMMARY:Mesa redonda abierta al público desde la Especialización en Derecho Nuclear y el Observatorio de Derecho Internacional Humanitario
-UID:5fd7e2e5-e0b8-4214-813a-b67f43b832d0@5fd7.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/mesa-redonda-abierta-al-publico-desde-la-especializacion-en-derecho-nuclear-y-el-observatorio-de-derecho-internacional-humanitario
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-derechos-humanos-y-jurisdiccion-supranacional
-DURATION:PT2H
-DTSTART:20250317T213000Z
-SUMMARY:Conferencia "Derechos humanos y jurisdicción supranacional"
-UID:100e70cd-09ce-428d-8dde-3830de408a2d@100e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-derechos-humanos-y-jurisdiccion-supranacional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/los-y-las-estudiantes-vamos-a-los-juicios
-DURATION:PT2H
-DTSTART:20250410T200000Z
-SUMMARY:Los y las estudiantes vamos a los juicios
-UID:e9f30197-f00b-4aa0-90a9-1d7fa9abdb9d@e9f3.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/los-y-las-estudiantes-vamos-a-los-juicios
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
-DURATION:PT2H
-DTSTART:20250320T200000Z
-SUMMARY:Crímenes de lesa humanidad
-UID:1e63500a-7874-4f57-a1dd-480c8441fb01@1e63.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/crimenes-de-lesa-humanidad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/muestra-en-conmemoracion-por-el-dia-internacional-de-la-mujer-trabajadora-justo-el-arte
-DURATION:PT2H
-DTSTART:20250305T030000Z
-SUMMARY:Muestra en conmemoración por el Día Internacional de la Mujer Trabajadora: "Justo el Arte"
-UID:bed4bdd5-4f15-4f51-b7a1-5dc8660f68bb@bed4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/muestra-en-conmemoracion-por-el-dia-internacional-de-la-mujer-trabajadora-justo-el-arte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-libros-i-teoria-del-delito-y-regimen-de-la-pena-i-y-i-tratado-de-procedimiento-criminal-en-inglaterra-escocia-y-america-del-norte-i
-DURATION:PT2H
-DTSTART:20250409T183000Z
-SUMMARY:Presentación de libros Teoría del delito y régimen de la pena y Tratado de procedimiento criminal en Inglaterra\, Escocia\, y América del Norte
-UID:11ddf33d-b4a0-4907-a8fc-b97d0ca50fcf@11dd.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-libros-i-teoria-del-delito-y-regimen-de-la-pena-i-y-i-tratado-de-procedimiento-criminal-en-inglaterra-escocia-y-america-del-norte-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-teoria-e-ideologia-constitucional-i-de-pedro-a-caminos
-DURATION:PT2H
-DTSTART:20250327T213000Z
-SUMMARY:Presentación del libro Teoría e Ideología Constitucional\, de Pedro A. Caminos
-UID:221141e0-ef78-44ce-9422-be09cf80ea1b@2211.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-teoria-e-ideologia-constitucional-i-de-pedro-a-caminos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-la-doctrina-del-precedente-y-las-facultades-nomologicas-de-los-tribunales-1
-DURATION:PT2H
-DTSTART:20250415T180000Z
-SUMMARY:Jornada "La doctrina del precedente y las facultades nomológicas de los tribunales"
-UID:15379d88-dc20-499f-be6f-c795fc84fb0f@1537.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-la-doctrina-del-precedente-y-las-facultades-nomologicas-de-los-tribunales-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/difusion-de-la-cultura-tributaria-programa-ubanex
-DURATION:PT2H
-DTSTART:20250320T210000Z
-SUMMARY:Difusión de la cultura tributaria. Programa UBANEX
-UID:348f6310-70f4-4b0c-9526-8734636e7d4e@348f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/difusion-de-la-cultura-tributaria-programa-ubanex
 END:VEVENT
 END:VCALENDAR
