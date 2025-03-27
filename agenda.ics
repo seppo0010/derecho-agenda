@@ -2,99 +2,83 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/temas-de-actualidad-tributaria-2025
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/primer-dia-de-clases-clave-para-crear-un-buen-clima-de-trabajo
 DURATION:PT2H
-DTSTART:20250326T210000Z
-SUMMARY:Temas de actualidad tributaria 2025
-UID:cf1b55e5-b346-4d21-adee-9145374c8250@cf1b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/temas-de-actualidad-tributaria-2025
+DTSTART:20250423T210000Z
+SUMMARY:Primer día de clases: clave para crear un buen clima de trabajo
+UID:953e2fb2-f8ee-4a69-b864-56d379741c2f@953e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/primer-dia-de-clases-clave-para-crear-un-buen-clima-de-trabajo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/homenaje-a-la-trayectoria-profesional-y-academica-en-materia-aeronautica-al-dr-mario-o-folchi
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-corte-antonio-boggiano
 DURATION:PT2H
-DTSTART:20250425T134500Z
-SUMMARY:Homenaje a la trayectoria profesional y académica en materia aeronáutica al Dr. Mario O. Folchi
-UID:427b9075-a314-4181-8094-4b09ad7aa0f0@427b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/homenaje-a-la-trayectoria-profesional-y-academica-en-materia-aeronautica-al-dr-mario-o-folchi
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/los-y-las-estudiantes-vamos-a-los-juicios
-DURATION:PT2H
-DTSTART:20250410T200000Z
-SUMMARY:Los y las estudiantes vamos a los juicios
-UID:b3eb87e1-c83e-41f8-a824-5dbe3990fa02@b3eb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/los-y-las-estudiantes-vamos-a-los-juicios
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-compliance-fiscal-identificacion-prevencion-y-deteccion-de-los-riesgos-tributarios
-DURATION:PT2H
-DTSTART:20250409T210000Z
-SUMMARY:Jornada "Compliance Fiscal: identificación\, prevención y detección de los riesgos tributarios"
-UID:5ede9684-ad5e-48f2-8dd6-e89db6bd813c@5ede.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-compliance-fiscal-identificacion-prevencion-y-deteccion-de-los-riesgos-tributarios
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-sobre-razonamiento-probatorio-visita-de-los-profesores-jordi-ferrer-beltran-y-carmen-vazquez
-DURATION:PT2H
-DTSTART:20250403T180000Z
-SUMMARY:Jornada sobre Razonamiento Probatorio: visita de los profesores Jordi Ferrer Beltrán y Carmen Vázquez
-UID:e7347f06-dd1e-49de-be56-afd190f5c0b7@e734.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-sobre-razonamiento-probatorio-visita-de-los-profesores-jordi-ferrer-beltran-y-carmen-vazquez
+DTSTART:20250415T210000Z
+SUMMARY:La Corte Antonio Boggiano
+UID:29be498a-b518-4431-a84e-a00c424cf761@29be.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-corte-antonio-boggiano
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-teoria-e-ideologia-constitucional-i-de-pedro-a-caminos
 DURATION:PT2H
 DTSTART:20250327T213000Z
 SUMMARY:Presentación del libro Teoría e Ideología Constitucional\, de Pedro A. Caminos
-UID:e4790470-c4dc-4142-8ea2-0bf9fe8a1f60@e479.org
+UID:49890666-86b3-4922-84d3-d8490a9030a2@4989.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-teoria-e-ideologia-constitucional-i-de-pedro-a-caminos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-libros-i-teoria-del-delito-y-regimen-de-la-pena-i-y-i-tratado-de-procedimiento-criminal-en-inglaterra-escocia-y-america-del-norte-i
-DURATION:PT2H
-DTSTART:20250409T183000Z
-SUMMARY:Presentación de libros Teoría del delito y régimen de la pena y Tratado de procedimiento criminal en Inglaterra\, Escocia\, y América del Norte
-UID:05ec0734-2f6b-4054-8b59-46492e74912d@05ec.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-libros-i-teoria-del-delito-y-regimen-de-la-pena-i-y-i-tratado-de-procedimiento-criminal-en-inglaterra-escocia-y-america-del-norte-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/clase-magistral-del-prof-dr-javier-junceda-moreno
-DURATION:PT2H
-DTSTART:20250505T200000Z
-SUMMARY:Clase magistral del Prof. Dr. Javier Junceda Moreno
-UID:420c16e3-74b5-4050-b970-7fca1794b23f@420c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/clase-magistral-del-prof-dr-javier-junceda-moreno
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-sobre-la-criminalizacion-del-sexo
-DURATION:PT2H
-DTSTART:20251027T210000Z
-SUMMARY:Conferencia sobre la Criminalización del Sexo
-UID:4100792b-194b-467b-a2aa-eb53c2bc94d6@4100.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-sobre-la-criminalizacion-del-sexo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-cuando-hicimos-historia-acuerdos-y-desacuerdos-en-torno-al-juicio-a-las-juntas
-DURATION:PT2H
-DTSTART:20250409T210000Z
-SUMMARY:Presentación del libro "Cuando hicimos historia: acuerdos y desacuerdos en torno al Juicio a las Juntas"
-UID:b2099a39-4af3-4abe-8164-76a6ed1e667b@b209.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-cuando-hicimos-historia-acuerdos-y-desacuerdos-en-torno-al-juicio-a-las-juntas
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/charla-universitaria-el-tratado-de-tlatelolco-en-el-contexto-actual-de-la-seguridad-internacional
 DURATION:PT2H
 DTSTART:20250410T210000Z
 SUMMARY:Charla Universitaria "El Tratado de Tlatelolco en el contexto actual de la seguridad internacional"
-UID:409f5fc0-11de-499a-a508-6bcf13e64b62@409f.org
+UID:bac39fc5-571b-4d1d-b5be-3c1abec2d7c3@bac3.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/charla-universitaria-el-tratado-de-tlatelolco-en-el-contexto-actual-de-la-seguridad-internacional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conversatorio-memoria-y-primera-persona-en-el-marco-del-24-de-marzo-dia-por-la-memoria-la-verdad-y-la-justicia
+DURATION:PT2H
+DTSTART:20250331T200000Z
+SUMMARY:Conversatorio: Memoria y primera persona. En el marco del 24 de marzo\, día por la Memoria\, la verdad y la justicia
+UID:31380c3d-e2de-4ded-a3e2-22dcee783e4c@3138.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conversatorio-memoria-y-primera-persona-en-el-marco-del-24-de-marzo-dia-por-la-memoria-la-verdad-y-la-justicia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-compliance-fiscal-identificacion-prevencion-y-deteccion-de-los-riesgos-tributarios
+DURATION:PT2H
+DTSTART:20250409T210000Z
+SUMMARY:Jornada "Compliance Fiscal: identificación\, prevención y detección de los riesgos tributarios"
+UID:fd625bce-a398-495f-8d1d-5baec7557162@fd62.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-compliance-fiscal-identificacion-prevencion-y-deteccion-de-los-riesgos-tributarios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-libros-i-teoria-del-delito-y-regimen-de-la-pena-i-y-i-tratado-de-procedimiento-criminal-en-inglaterra-escocia-y-america-del-norte-i
+DURATION:PT2H
+DTSTART:20250409T183000Z
+SUMMARY:Presentación de libros Teoría del delito y régimen de la pena y Tratado de procedimiento criminal en Inglaterra\, Escocia\, y América del Norte
+UID:6fc62d2f-05e4-4a90-a16b-3d27d5f1b791@6fc6.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-libros-i-teoria-del-delito-y-regimen-de-la-pena-i-y-i-tratado-de-procedimiento-criminal-en-inglaterra-escocia-y-america-del-norte-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-inteligencia-artificial-y-prision-preventiva
+DURATION:PT2H
+DTSTART:20250422T200000Z
+SUMMARY:Seminario "Inteligencia artificial y prisión preventiva"
+UID:dd3073bb-d6c9-475f-900c-c99b20c894dd@dd30.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-inteligencia-artificial-y-prision-preventiva
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
+DURATION:PT2H
+DTSTART:20250407T120000Z
+SUMMARY:Pasado\, presente y porvenir de los estudios críticos en el campo jurídico. A cuarenta años del Seminario de Teoría Crítica
+UID:b2fea178-9455-4a11-ba27-0e84cd5e042d@b2fe.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 DURATION:PT2H
 DTSTART:20250408T220000Z
 SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
-UID:fdc9ebf9-0f28-4378-8bda-70ae70cd5348@fdc9.org
+UID:0bfaea62-851d-4dba-b6ef-56afae0442e7@0bfa.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 END:VEVENT
 BEGIN:VEVENT
@@ -102,95 +86,111 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferenc
 DURATION:PT2H
 DTSTART:20250723T130000Z
 SUMMARY:19º Conferencia Asociación Internacional de Derecho del Consumidor. Nuevos desafíos del derecho del consumidor
-UID:741754c7-2b97-4e98-a7bd-c58667a5b428@7417.org
+UID:5ccef281-a8bf-41e3-9465-2500bf692ac2@5cce.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/aa9-conferencia-asociacion-internacional-de-derecho-del-consumidor-nuevos-desafios-del-derecho-del-consumidor
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-preparatoria-sobre-el-codigo-ambiental-de-la-ciudad-de-buenos-aires
 DURATION:PT2H
-DTSTART:20250407T120000Z
-SUMMARY:Pasado\, presente y porvenir de los estudios críticos en el campo jurídico. A cuarenta años del Seminario de Teoría Crítica
-UID:def9f44b-81c9-4367-bdc7-08537ede88ba@def9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/pasado-presente-y-porvenir-de-los-estudios-criticos-en-el-campo-juridico-a-cuarenta-anos-del-seminario-de-teoria-critica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
-DURATION:PT2H
-DTSTART:20250508T110000Z
-SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
-UID:a5d7de58-9f76-4e91-8613-981623d20e2b@a5d7.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-obras-colectivas-editadas-por-la-unam
-DURATION:PT2H
-DTSTART:20250416T213000Z
-SUMMARY:Presentación de obras colectivas editadas por la UNAM 
-UID:d1431032-7323-4e20-8de3-791cf74475a8@d143.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-obras-colectivas-editadas-por-la-unam
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-corte-antonio-boggiano
-DURATION:PT2H
-DTSTART:20250415T210000Z
-SUMMARY:La Corte Antonio Boggiano
-UID:d221e120-a9f2-4092-8bd2-e9f86356a1a3@d221.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-corte-antonio-boggiano
+DTSTART:20250408T180000Z
+SUMMARY:Jornada Preparatoria sobre el Código Ambiental de la Ciudad de Buenos Aires
+UID:41628f42-5f98-4e03-a91d-923636238b99@4162.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-preparatoria-sobre-el-codigo-ambiental-de-la-ciudad-de-buenos-aires
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/mesa-redonda-abierta-al-publico-desde-la-especializacion-en-derecho-nuclear-y-el-observatorio-de-derecho-internacional-humanitario
 DURATION:PT2H
 DTSTART:20250327T210000Z
 SUMMARY:Mesa redonda abierta al público desde la Especialización en Derecho Nuclear y el Observatorio de Derecho Internacional Humanitario
-UID:06a1f7a5-8c32-4b8b-b6c3-56c40ce08950@06a1.org
+UID:254ac25b-e2e5-4a30-9c39-5982f375a58d@254a.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/mesa-redonda-abierta-al-publico-desde-la-especializacion-en-derecho-nuclear-y-el-observatorio-de-derecho-internacional-humanitario
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/primer-dia-de-clases-clave-para-crear-un-buen-clima-de-trabajo
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/los-y-las-estudiantes-vamos-a-los-juicios
 DURATION:PT2H
-DTSTART:20250423T210000Z
-SUMMARY:Primer día de clases: clave para crear un buen clima de trabajo
-UID:bbd365f0-1388-42a2-8459-e8c0fa24eec2@bbd3.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/primer-dia-de-clases-clave-para-crear-un-buen-clima-de-trabajo
+DTSTART:20250410T200000Z
+SUMMARY:Los y las estudiantes vamos a los juicios
+UID:fa1764b8-6aea-48ab-9147-ed1b367ebdb5@fa17.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/los-y-las-estudiantes-vamos-a-los-juicios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/clase-magistral-del-prof-dr-javier-junceda-moreno
+DURATION:PT2H
+DTSTART:20250505T200000Z
+SUMMARY:Clase magistral del Prof. Dr. Javier Junceda Moreno
+UID:cda97e32-e047-4076-807b-6e7c1a8595ee@cda9.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/clase-magistral-del-prof-dr-javier-junceda-moreno
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-sobre-la-criminalizacion-del-sexo
+DURATION:PT2H
+DTSTART:20251027T210000Z
+SUMMARY:Conferencia sobre la Criminalización del Sexo
+UID:91b3a2c7-7e90-4153-85a5-1833f6bec1b7@91b3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-sobre-la-criminalizacion-del-sexo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-cuando-hicimos-historia-acuerdos-y-desacuerdos-en-torno-al-juicio-a-las-juntas
+DURATION:PT2H
+DTSTART:20250409T210000Z
+SUMMARY:Presentación del libro "Cuando hicimos historia: acuerdos y desacuerdos en torno al Juicio a las Juntas"
+UID:1c231304-a614-43f3-b67c-638db48fa943@1c23.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-cuando-hicimos-historia-acuerdos-y-desacuerdos-en-torno-al-juicio-a-las-juntas
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/debates-actuales-de-derecho-constitucional
 DURATION:PT2H
 DTSTART:20250505T183000Z
 SUMMARY:Debates actuales de Derecho Constitucional
-UID:1273e74f-df66-4d3e-9067-d424eeb5da88@1273.org
+UID:ab6441dd-422a-4488-95eb-8862dc2b028a@ab64.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/debates-actuales-de-derecho-constitucional
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-sobre-razonamiento-probatorio-visita-de-los-profesores-jordi-ferrer-beltran-y-carmen-vazquez
 DURATION:PT2H
-DTSTART:20250326T203000Z
-SUMMARY:Acto académico en homenaje al Profesor Oscar González Pereira
-UID:e791ed0d-a60f-4888-9bd3-ce137d987551@e791.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-academico-en-homenaje-al-profesor-oscar-gonzalez-pereira
+DTSTART:20250403T180000Z
+SUMMARY:Jornada sobre Razonamiento Probatorio: visita de los profesores Jordi Ferrer Beltrán y Carmen Vázquez
+UID:5f41c83b-9b25-46f6-a5fc-19ef5e38c2ef@5f41.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-sobre-razonamiento-probatorio-visita-de-los-profesores-jordi-ferrer-beltran-y-carmen-vazquez
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/homenaje-a-la-trayectoria-profesional-y-academica-en-materia-aeronautica-al-dr-mario-o-folchi
+DURATION:PT2H
+DTSTART:20250425T134500Z
+SUMMARY:Homenaje a la trayectoria profesional y académica en materia aeronáutica al Dr. Mario O. Folchi
+UID:474ba2de-f3a6-4156-9f10-e242e35fd465@474b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/homenaje-a-la-trayectoria-profesional-y-academica-en-materia-aeronautica-al-dr-mario-o-folchi
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
+DURATION:PT2H
+DTSTART:20250508T110000Z
+SUMMARY:Congreso de Obligaciones y Contratos de la Universidad de Buenos Aires: "A 10 años de la vigencia del Código Civil y Comercial". En homenaje a Alberto J. Bueres
+UID:2395d8cb-880a-48cc-84d9-d27cfaae4bf1@2395.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/congreso-de-obligaciones-y-contratos-de-la-universidad-de-buenos-aires-a-aa-anos-de-la-vigencia-del-codigo-civil-y-comercial-en-homenaje-a-alberto-j-bueres
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/programa-y-taller-de-debate-y-argumentacion-juridica
 DURATION:PT2H
 DTSTART:20250409T200000Z
 SUMMARY:Programa y Taller de Debate y Argumentación Jurídica
-UID:50c62c43-d645-401e-8fa8-75afdb5dee16@50c6.org
+UID:e0e558bf-2716-4f12-919b-6e0c3a4a31c5@e0e5.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/programa-y-taller-de-debate-y-argumentacion-juridica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-inteligencia-artificial-y-prision-preventiva
-DURATION:PT2H
-DTSTART:20250422T200000Z
-SUMMARY:Seminario "Inteligencia artificial y prisión preventiva"
-UID:f898ac7a-dd9b-4fcd-a6a5-5cf9ded3b9d3@f898.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-inteligencia-artificial-y-prision-preventiva
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-la-doctrina-del-precedente-y-las-facultades-normologicas-de-los-tribunales
 DURATION:PT2H
 DTSTART:20250415T180000Z
 SUMMARY:Jornada "La doctrina del precedente y las facultades normológicas de los tribunales"
-UID:d67b043e-fc37-4080-bb0a-1d73130d29d6@d67b.org
+UID:117c1ff7-e1b8-49f2-822f-c895afb51a71@117c.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-la-doctrina-del-precedente-y-las-facultades-normologicas-de-los-tribunales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-obras-colectivas-editadas-por-la-unam
+DURATION:PT2H
+DTSTART:20250416T213000Z
+SUMMARY:Presentación de obras colectivas editadas por la UNAM 
+UID:2325ea80-dc36-49f1-94c9-1a1f1e377d26@2325.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-de-obras-colectivas-editadas-por-la-unam
 END:VEVENT
 END:VCALENDAR
