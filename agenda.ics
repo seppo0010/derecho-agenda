@@ -2,91 +2,131 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-juzgamiento-con-perspectiva-de-genero-en-materia-indemnizatoria-i
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-el-legado-de-kelsen
 DURATION:PT2H
-DTSTART:20251110T200000Z
-SUMMARY:Presentación del libro Juzgamiento con perspectiva de género en materia indemnizatoria
-UID:c9f21999-479d-480f-bcb9-4ecd8fe9ea98@c9f2.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-juzgamiento-con-perspectiva-de-genero-en-materia-indemnizatoria-i
+DTSTART:20251125T210000Z
+SUMMARY:Conferencia "El legado de Kelsen"
+UID:2fe889a1-1297-4005-b136-9bf9475d071e@2fe8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-el-legado-de-kelsen
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-la-conciliacion-y-arbitraje-laboral-como-politica-de-estado-en-expansion-oportunidades-y-desafios
+DURATION:PT2H
+DTSTART:20251118T210000Z
+SUMMARY:Conferencia: La conciliación y arbitraje laboral como política de Estado en expansión. Oportunidades y desafíos
+UID:a96e5617-d7c8-47bf-b210-600812f15913@a96e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-la-conciliacion-y-arbitraje-laboral-como-politica-de-estado-en-expansion-oportunidades-y-desafios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/teoria-de-conflictos-una-revision-sistemica-de-la-topica-de-remo-f-entelman
+DURATION:PT2H
+DTSTART:20251114T200000Z
+SUMMARY:Teoría de conflictos. Una revisión sistémica de la tópica de Remo F. Entelman
+UID:281c7996-73f3-46b4-ac42-6afa093f222a@281c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/teoria-de-conflictos-una-revision-sistemica-de-la-topica-de-remo-f-entelman
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornadas-de-capacitacion-ambiental-eco-derecho-verde-programa-ubanex
+DURATION:PT2H
+DTSTART:20251110T210000Z
+SUMMARY:Jornadas de Capacitación Ambiental Eco Derecho Verde. Programa UBANEX
+UID:7a21f6a7-ff15-42cc-854b-c19de8c877fa@7a21.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornadas-de-capacitacion-ambiental-eco-derecho-verde-programa-ubanex
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-magistral-justicia-en-jaque-la-resistencia-a-la-reforma-la-reforma-judicial-en-mexico-y-las-elecciones-populares-de-jueces
+DURATION:PT2H
+DTSTART:20251117T130000Z
+SUMMARY:Conferencia magistral: Justicia en jaque. La resistencia a la reforma. La reforma judicial en México y las elecciones populares de jueces
+UID:f7d55a20-c16f-44ad-a368-f5b5fa7d7bea@f7d5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-magistral-justicia-en-jaque-la-resistencia-a-la-reforma-la-reforma-judicial-en-mexico-y-las-elecciones-populares-de-jueces
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/vi-edicion-lac-days-uncitral-2025-instrumentos-para-la-digitalizacion-integral-del-comercio
+DURATION:PT2H
+DTSTART:20251120T193000Z
+SUMMARY:VI Edición LAC Days UNCITRAL 2025. Instrumentos para la digitalización integral del comercio
+UID:a043c8d4-7c57-4164-9da7-42dc54b7af4f@a043.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/vi-edicion-lac-days-uncitral-2025-instrumentos-para-la-digitalizacion-integral-del-comercio
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DURATION:PT2H
+DTSTART:20251112T200000Z
+SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
+UID:c93afe79-0df1-43bf-9e74-a23a7a8ec5cc@c93a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
 DURATION:PT2H
 DTSTART:20251127T200000Z
 SUMMARY:Seminario: "Los delitos calificados por el resultado en el derecho italiano"
-UID:22185190-d89b-49c7-98ea-fb6091b543c7@2218.org
+UID:2c79c616-0292-4148-b1e7-31019ab3a7f2@2c79.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-el-ultimo-liberal-conversaciones-sobre-justicia-estado-de-derecho-y-democracia-i
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ii-jornadas-internacionales-de-derecho-griego-antiguo-y-tardo-antiguo
 DURATION:PT2H
-DTSTART:20251127T203000Z
-SUMMARY:Presentación del libro El último liberal. Conversaciones sobre justicia\, Estado de derecho y democracia
-UID:4c151264-0f04-4146-b97f-d541db14e795@4c15.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-el-ultimo-liberal-conversaciones-sobre-justicia-estado-de-derecho-y-democracia-i
+DTSTART:20251119T200000Z
+SUMMARY:II Jornadas Internacionales de Derecho Griego Antiguo y Tardo-Antiguo
+UID:e8fe53c1-3fad-4c36-bf8c-6ac9f75844b6@e8fe.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ii-jornadas-internacionales-de-derecho-griego-antiguo-y-tardo-antiguo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-el-legado-de-kelsen
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-justicia-y-acontecimiento-aproximaciones-fenomenologicas-al-derecho-desde-la-literatura-i-de-jorge-luis-roggero
 DURATION:PT2H
-DTSTART:20251125T210000Z
-SUMMARY:Conferencia "El legado de Kelsen"
-UID:498b558f-706e-4dc3-8ed8-f2ce4a484640@498b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-el-legado-de-kelsen
+DTSTART:20251203T213000Z
+SUMMARY:Presentación del libro Justicia y acontecimiento. Aproximaciones fenomenológicas al Derecho desde la literatura de Jorge Luis Roggero
+UID:018165c3-ba90-4127-9a3e-e1c647577638@0181.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-justicia-y-acontecimiento-aproximaciones-fenomenologicas-al-derecho-desde-la-literatura-i-de-jorge-luis-roggero
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/certeza-tributaria-en-un-entorno-de-incertidumbre-para-la-cooperacion-tributaria-internacional
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/empresas-y-los-principios-de-ddhh-en-la-politica-fiscal-conferencia-del-profesor-patricio-masbernat
 DURATION:PT2H
-DTSTART:20251120T160000Z
-SUMMARY:Certeza tributaria en un entorno de incertidumbre para la cooperación tributaria internacional
-UID:5c52d6f5-068f-4be6-9176-7e67acf2192d@5c52.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/certeza-tributaria-en-un-entorno-de-incertidumbre-para-la-cooperacion-tributaria-internacional
+DTSTART:20251119T190000Z
+SUMMARY:Empresas y los Principios de DDHH en la política fiscal. Conferencia del Profesor Patricio Masbernat
+UID:c7b851a4-d9a3-473c-9e86-fddc924b46be@c7b8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/empresas-y-los-principios-de-ddhh-en-la-politica-fiscal-conferencia-del-profesor-patricio-masbernat
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-de-investidura-como-doctor-i-honoris-causa-i-de-la-uba-del-profesor-dr-gabriel-casado-ollero
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-juzgamiento-con-perspectiva-de-genero-en-materia-indemnizatoria-i
 DURATION:PT2H
-DTSTART:20251111T210000Z
-SUMMARY:Acto de Investidura como Doctor Honoris Causa de la UBA del Profesor Dr. Gabriel Casado Ollero
-UID:fca43226-cbc5-406c-acb5-c1f74499f3ab@fca4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-de-investidura-como-doctor-i-honoris-causa-i-de-la-uba-del-profesor-dr-gabriel-casado-ollero
+DTSTART:20251110T200000Z
+SUMMARY:Presentación del libro Juzgamiento con perspectiva de género en materia indemnizatoria
+UID:f588d83b-d841-40fe-a344-db2bbf2b5396@f588.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-juzgamiento-con-perspectiva-de-genero-en-materia-indemnizatoria-i
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/difusion-de-la-cultura-tributaria
 DURATION:PT2H
-DTSTART:20251111T220000Z
-SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
-UID:32d61d42-7d9c-4e77-8736-4071bca65f70@32d6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
+DTSTART:20251118T210000Z
+SUMMARY:Difusión de la cultura tributaria
+UID:8fc701ae-acd6-4297-ae4b-2dd1ae48e1c1@8fc7.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/difusion-de-la-cultura-tributaria
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/entrega-del-doctorado-i-honoris-causa-i-de-la-uba-a-carlos-luigi-granelli
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/encuentro-federal-sobre-lengua-y-derecho-la-actuacion-del-perito-traductor-publico-en-el-ambito-de-la-justicia
 DURATION:PT2H
-DTSTART:20251117T210000Z
-SUMMARY:Entrega del Doctorado Honoris Causa de la UBA a Carlos Luigi Granelli
-UID:affcb61d-e566-4802-9c67-2796ebdc9200@affc.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/entrega-del-doctorado-i-honoris-causa-i-de-la-uba-a-carlos-luigi-granelli
+DTSTART:20251117T130000Z
+SUMMARY:Encuentro federal sobre lengua y derecho. La actuación del perito traductor público en el ámbito de la justicia
+UID:3481154e-cb78-42bb-89db-e4aa4636f592@3481.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/encuentro-federal-sobre-lengua-y-derecho-la-actuacion-del-perito-traductor-publico-en-el-ambito-de-la-justicia
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/curso-introduccion-al-ejercicio-profesional-los-diversos-ambitos-de-desarrollo-de-la-abogacia
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-ni-una-menos-nuestro-nunca-mas-i
 DURATION:PT2H
-DTSTART:20251113T030000Z
-SUMMARY:Curso: Introducción al ejercicio profesional. Los diversos ámbitos de desarrollo de la abogacía
-UID:bed77d39-c183-459a-9afe-1a029e49e24b@bed7.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/curso-introduccion-al-ejercicio-profesional-los-diversos-ambitos-de-desarrollo-de-la-abogacia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/proyeccion-de-la-pelicula-belen
-DURATION:PT2H
-DTSTART:20251127T200000Z
-SUMMARY:Proyección de la película "Belén"
-UID:37ccb04e-3e48-4fec-a942-1b634f9343cb@37cc.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/proyeccion-de-la-pelicula-belen
+DTSTART:20251126T200000Z
+SUMMARY:Presentación del libro Ni una menos\, nuestro nunca más
+UID:52cf1c64-5586-4280-a3a6-1b26b49c9eba@52cf.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-ni-una-menos-nuestro-nunca-mas-i
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/simposio-jurisdiccion-universal-y-derecho-penal-internacional
 DURATION:PT2H
 DTSTART:20251203T200000Z
 SUMMARY:Simposio "Jurisdicción universal y derecho penal internacional"
-UID:56edf30b-ad21-43fe-b60a-b44b277a02c6@56ed.org
+UID:b1e5b91c-2cd5-4a59-94b6-9b29e65a18f4@b1e5.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/simposio-jurisdiccion-universal-y-derecho-penal-internacional
 END:VEVENT
 BEGIN:VEVENT
@@ -94,215 +134,143 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-a
 DURATION:PT2H
 DTSTART:20251117T150000Z
 SUMMARY:Conferencia: Alternativas para un sistema alimentario en crisis
-UID:49401cc7-19f0-4ac7-99b0-109e9c9a5170@4940.org
+UID:f07d9c18-aacf-4699-8ba6-b0333af2cc32@f07d.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-alternativas-para-un-sistema-alimentario-en-crisis
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/35-anos-de-en-busca-de-las-penas-perdidas
+DURATION:PT2H
+DTSTART:20251110T213000Z
+SUMMARY:35 años de "En busca de las penas perdidas"
+UID:6f4a79da-631c-433e-a544-a197e416e255@6f4a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/35-anos-de-en-busca-de-las-penas-perdidas
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-el-ambiente-en-clave-constitucional-i-de-claudia-sbdar
 DURATION:PT2H
 DTSTART:20251117T193000Z
 SUMMARY: Presentación del libro El ambiente en clave constitucional\, de Claudia Sbdar
-UID:7de8ab9f-0167-48d5-a43d-17081686321d@7de8.org
+UID:01b86518-7e96-4a06-a17a-852541a973c5@01b8.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-el-ambiente-en-clave-constitucional-i-de-claudia-sbdar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/primer-congreso-nacional-de-derecho-penal-economico
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-el-ultimo-liberal-conversaciones-sobre-justicia-estado-de-derecho-y-democracia-i
 DURATION:PT2H
-DTSTART:20251127T120000Z
-SUMMARY:Primer Congreso Nacional de Derecho Penal Económico
-UID:7475dc93-4c01-4523-b0ce-5dbd957b20c8@7475.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/primer-congreso-nacional-de-derecho-penal-economico
+DTSTART:20251127T203000Z
+SUMMARY:Presentación del libro El último liberal. Conversaciones sobre justicia\, Estado de derecho y democracia
+UID:7a6f4bee-8d56-49aa-8d5c-b5a1b00d092e@7a6f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-el-ultimo-liberal-conversaciones-sobre-justicia-estado-de-derecho-y-democracia-i
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornadas-de-capacitacion-ambiental-eco-derecho-verde-programa-ubanex
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 DURATION:PT2H
-DTSTART:20251110T210000Z
-SUMMARY:Jornadas de Capacitación Ambiental Eco Derecho Verde. Programa UBANEX
-UID:28fa13d0-e8f2-4625-bd20-c689dc32d22c@28fa.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornadas-de-capacitacion-ambiental-eco-derecho-verde-programa-ubanex
+DTSTART:20251111T220000Z
+SUMMARY:Seminario actualización sobre la dogmática penal - Cátedra DONNA
+UID:57918d24-9adb-41d7-97d7-b193a7d0e519@5791.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-actualizacion-sobre-la-dogmatica-penal-catedra-donna
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-charlas-2025-del-centro-de-estudios-sobre-transparencia-y-lucha-contra-la-corrupcion
 DURATION:PT2H
 DTSTART:20251117T200000Z
 SUMMARY:Ciclo de charlas 2025 del Centro de estudios sobre Transparencia y Lucha contra la Corrupción
-UID:55f5361c-319c-49b7-b099-0e9a4c49368d@55f5.org
+UID:3602dbaa-adea-44aa-b0eb-06ce1cd081d9@3602.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-charlas-2025-del-centro-de-estudios-sobre-transparencia-y-lucha-contra-la-corrupcion
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/simulacro-de-audiencia-de-vista-de-causa-laboral-1
-DURATION:PT2H
-DTSTART:20251119T113000Z
-SUMMARY:Simulacro de audiencia de vista de causa laboral
-UID:e3f91a7e-8885-4056-b3c1-0e211cb958a1@e3f9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/simulacro-de-audiencia-de-vista-de-causa-laboral-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-noche-de-los-museos-2025
-DURATION:PT2H
-DTSTART:20251108T230000Z
-SUMMARY:La Noche de los Museos 2025
-UID:b2bc42b4-9965-4f61-9ee3-edf4da9bd705@b2bc.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-noche-de-los-museos-2025
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/encuentro-federal-sobre-lengua-y-derecho-la-actuacion-del-perito-traductor-publico-en-el-ambito-de-la-justicia
-DURATION:PT2H
-DTSTART:20251117T130000Z
-SUMMARY:Encuentro federal sobre lengua y derecho. La actuación del perito traductor público en el ámbito de la justicia
-UID:26eacde1-c674-4019-a320-227336cc9293@26ea.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/encuentro-federal-sobre-lengua-y-derecho-la-actuacion-del-perito-traductor-publico-en-el-ambito-de-la-justicia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/teoria-de-conflictos-una-revision-sistemica-de-la-topica-de-remo-f-entelman
-DURATION:PT2H
-DTSTART:20251114T200000Z
-SUMMARY:Teoría de conflictos. Una revisión sistémica de la tópica de Remo F. Entelman
-UID:87e42656-bb90-4516-8898-d0ef0234d486@87e4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/teoria-de-conflictos-una-revision-sistemica-de-la-topica-de-remo-f-entelman
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-disertaciones-sobre-tributacion-local-quo-vadis-tasa-de-seguridad-e-higiene
-DURATION:PT2H
-DTSTART:20251110T210000Z
-SUMMARY:Ciclo de disertaciones sobre tributación local: Quo vadis tasa de seguridad e higiene
-UID:76e23a9d-cd87-4068-81a1-595b3017dd49@76e2.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-disertaciones-sobre-tributacion-local-quo-vadis-tasa-de-seguridad-e-higiene
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/xii-congreso-de-ejecucion-penal
-DURATION:PT2H
-DTSTART:20251107T120000Z
-SUMMARY:XII Congreso de Ejecución Penal
-UID:c523d0fe-8714-4697-a0e8-66b3184ee7f9@c523.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/xii-congreso-de-ejecucion-penal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-agenda-actual-del-comite-desc-de-naciones-unidas-junto-a-julieta-rossi
-DURATION:PT2H
-DTSTART:20251120T183000Z
-SUMMARY:"La agenda actual del Comité DESC de Naciones Unidas" junto a Julieta Rossi 
-UID:17a2985c-70c1-4ca4-8929-836e0b506d82@17a2.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-agenda-actual-del-comite-desc-de-naciones-unidas-junto-a-julieta-rossi
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-ia-tecnologias-emergentes-y-su-impacto-en-el-derecho-i
-DURATION:PT2H
-DTSTART:20251112T200000Z
-SUMMARY:Presentación del libro IA\, tecnologías emergentes y su impacto en el derecho
-UID:f24518cf-138e-446c-9d73-d6ac37085d46@f245.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-ia-tecnologias-emergentes-y-su-impacto-en-el-derecho-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-sin-padre-sin-marido-y-sin-estado-feministas-de-las-nuevas-derechas-i
-DURATION:PT2H
-DTSTART:20251125T210000Z
-SUMMARY:Presentación del libro Sin padre\, sin marido y sin Estado. Feministas de las nuevas derechas
-UID:13b18e76-4e22-49b7-8c1b-2484edbfa7bc@13b1.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-sin-padre-sin-marido-y-sin-estado-feministas-de-las-nuevas-derechas-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-ni-una-menos-nuestro-nunca-mas-i
-DURATION:PT2H
-DTSTART:20251126T200000Z
-SUMMARY:Presentación del libro Ni una menos\, nuestro nunca más
-UID:2159b850-deb7-4cad-a9e3-652e1702220b@2159.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-ni-una-menos-nuestro-nunca-mas-i
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-en-homenaje-a-norma-silvestre-entre-tradicion-y-cambio-responsabilidad-civil-y-obligaciones-en-el-siglo-xxi
 DURATION:PT2H
 DTSTART:20251113T200000Z
 SUMMARY:Jornada en homenaje a Norma Silvestre: Entre tradición y cambio: responsabilidad civil y obligaciones en el siglo XXI
-UID:ed547e0b-551c-4dd5-9d6b-b7f7f9af64f1@ed54.org
+UID:3f7839ea-1e45-4231-b518-02077e7aeae3@3f78.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/jornada-en-homenaje-a-norma-silvestre-entre-tradicion-y-cambio-responsabilidad-civil-y-obligaciones-en-el-siglo-xxi
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-cine-debate-cinema-lavoro
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/proyeccion-de-la-pelicula-belen
 DURATION:PT2H
-DTSTART:20251125T213000Z
-SUMMARY:Ciclo de Cine-Debate Cinema Lavoro
-UID:02ac060c-af0b-4138-8e1a-e908bef1fc72@02ac.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-cine-debate-cinema-lavoro
+DTSTART:20251127T200000Z
+SUMMARY:Proyección de la película "Belén"
+UID:f7e40ffd-2037-432f-b9d2-d318f4640595@f7e4.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/proyeccion-de-la-pelicula-belen
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-sin-padre-sin-marido-y-sin-estado-feministas-de-las-nuevas-derechas-i
 DURATION:PT2H
-DTSTART:20251112T200000Z
-SUMMARY:Seminario de formación del Departamento de Derecho Penal y Criminología
-UID:26b43ed8-8c2d-4493-ab60-9e11ab3ad2e4@26b4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DTSTART:20251125T210000Z
+SUMMARY:Presentación del libro Sin padre\, sin marido y sin Estado. Feministas de las nuevas derechas
+UID:f73e016f-0464-4685-bca9-8f775175b630@f73e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-sin-padre-sin-marido-y-sin-estado-feministas-de-las-nuevas-derechas-i
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/difusion-de-la-cultura-tributaria
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ucrania-resiliente-su-historia-identidad-y-cultura
 DURATION:PT2H
-DTSTART:20251118T210000Z
-SUMMARY:Difusión de la cultura tributaria
-UID:8ec43e71-a021-4332-9f40-42d1efb76809@8ec4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/difusion-de-la-cultura-tributaria
+DTSTART:20251126T200000Z
+SUMMARY:Ucrania resiliente. Su historia\, identidad y cultura
+UID:4b15bce6-c43f-4c49-a45b-0b43aeefcbf5@4b15.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ucrania-resiliente-su-historia-identidad-y-cultura
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-conversaciones-criminologicas
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/tercer-conversatorio-sobre-innovacion-en-la-ensenanza-aprendizaje-basado-en-metodos-alternativos
 DURATION:PT2H
-DTSTART:20251111T230000Z
-SUMMARY:Ciclo de conversaciones criminológicas
-UID:2ef8c51b-13d7-44cc-9123-215fc5c6b0ff@2ef8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-conversaciones-criminologicas
+DTSTART:20251216T210000Z
+SUMMARY:Tercer conversatorio sobre innovación en la enseñanza: Aprendizaje basado en métodos alternativos
+UID:5fcb5c21-32b8-433b-bf78-f74691901c2e@5fcb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/tercer-conversatorio-sobre-innovacion-en-la-ensenanza-aprendizaje-basado-en-metodos-alternativos
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/empresas-y-los-principios-de-ddhh-en-la-politica-fiscal-conferencia-del-profesor-patricio-masbernat
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/simulacro-de-audiencia-de-vista-de-causa-laboral-1
 DURATION:PT2H
-DTSTART:20251119T190000Z
-SUMMARY:Empresas y los Principios de DDHH en la política fiscal. Conferencia del Profesor Patricio Masbernat
-UID:60ffbb0f-e2a6-49d9-b855-27bdeee177dd@60ff.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/empresas-y-los-principios-de-ddhh-en-la-politica-fiscal-conferencia-del-profesor-patricio-masbernat
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-dinamica-actual-de-la-convencion-para-la-eliminacion-de-todas-las-formas-de-discriminacion-racial-y-su-proyeccion-en-otros-instrumentos-internacionales-de-derechos-humanos
-DURATION:PT2H
-DTSTART:20251210T180000Z
-SUMMARY:La dinámica actual de la Convención para la eliminación de todas las formas de discriminación racial y su proyección en otros instrumentos internacionales de derechos humanos
-UID:1dcb7e5d-bcc5-4b46-ae23-c9bf470d636c@1dcb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-dinamica-actual-de-la-convencion-para-la-eliminacion-de-todas-las-formas-de-discriminacion-racial-y-su-proyeccion-en-otros-instrumentos-internacionales-de-derechos-humanos
+DTSTART:20251119T113000Z
+SUMMARY:Simulacro de audiencia de vista de causa laboral
+UID:51598424-9b37-49b8-be0e-e7a2841bfcc3@5159.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/simulacro-de-audiencia-de-vista-de-causa-laboral-1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-de-lectura-derecho-y-tecnologias-digitales
 DURATION:PT2H
 DTSTART:20251125T200000Z
 SUMMARY:Seminario de lectura "Derecho y Tecnologías Digitales"
-UID:7258647f-e277-4af9-b872-ed38e2ae22e2@7258.org
+UID:69edbe72-b244-44a4-8864-3b6562f109f5@69ed.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-de-lectura-derecho-y-tecnologias-digitales
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-magistral-justicia-en-jaque-la-resistencia-a-la-reforma-la-reforma-judicial-en-mexico-y-las-elecciones-populares-de-jueces
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-noche-de-los-museos-2025
 DURATION:PT2H
-DTSTART:20251117T130000Z
-SUMMARY:Conferencia magistral: Justicia en jaque. La resistencia a la reforma. La reforma judicial en México y las elecciones populares de jueces
-UID:7c483df5-5a09-4d56-942a-c6dd6fd2e0cc@7c48.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-magistral-justicia-en-jaque-la-resistencia-a-la-reforma-la-reforma-judicial-en-mexico-y-las-elecciones-populares-de-jueces
+DTSTART:20251108T230000Z
+SUMMARY:La Noche de los Museos 2025
+UID:78f303e0-e8d1-4afa-a03f-4a673d1f2727@78f3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-noche-de-los-museos-2025
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ii-jornadas-internacionales-de-derecho-griego-antiguo-y-tardo-antiguo
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-conversaciones-criminologicas
 DURATION:PT2H
-DTSTART:20251119T200000Z
-SUMMARY:II Jornadas Internacionales de Derecho Griego Antiguo y Tardo-Antiguo
-UID:0a742d78-7876-44a4-bfa9-eb71963c8894@0a74.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ii-jornadas-internacionales-de-derecho-griego-antiguo-y-tardo-antiguo
+DTSTART:20251111T230000Z
+SUMMARY:Ciclo de conversaciones criminológicas
+UID:862e080f-3383-4333-8625-1506b0832c90@862e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-conversaciones-criminologicas
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-de-investidura-como-doctor-i-honoris-causa-i-de-la-uba-del-profesor-dr-gabriel-casado-ollero
 DURATION:PT2H
-DTSTART:20260505T200000Z
-SUMMARY:La desglobalización de los Derechos Humanos
-UID:06e60d68-d5a8-4197-aa2c-6cb98230e5c9@06e6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
+DTSTART:20251111T210000Z
+SUMMARY:Acto de Investidura como Doctor Honoris Causa de la UBA del Profesor Dr. Gabriel Casado Ollero
+UID:513df02d-2420-4c49-ac5c-4aebbaea9983@513d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/acto-de-investidura-como-doctor-i-honoris-causa-i-de-la-uba-del-profesor-dr-gabriel-casado-ollero
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/v-encuentro-de-la-red-de-prestadores-de-servicios-juridicos-gratuitos-acceso-a-justicia-y-grupos-vulnerables
+DURATION:PT2H
+DTSTART:20251112T120000Z
+SUMMARY:V encuentro de la Red de Prestadores de Servicios Jurídicos Gratuitos: Acceso a justicia y grupos vulnerables
+UID:4846e597-7817-4d9e-84d4-c1d499a4d0b5@4846.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/v-encuentro-de-la-red-de-prestadores-de-servicios-juridicos-gratuitos-acceso-a-justicia-y-grupos-vulnerables
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/contratos-publico-privados
 DURATION:PT2H
 DTSTART:20251110T200000Z
 SUMMARY:Contratos Público - Privados
-UID:9b23d6c6-ae21-4ad2-9508-3d956b4f6185@9b23.org
+UID:74d4b44b-c8ee-4d05-8e08-6950e997e8a9@74d4.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/contratos-publico-privados
 END:VEVENT
 BEGIN:VEVENT
@@ -310,55 +278,111 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/inteligencia-
 DURATION:PT2H
 DTSTART:20251112T200000Z
 SUMMARY:Inteligencia artificial en los procesos ante los tribunales fiscales. Desafíos y propuestas
-UID:64414971-9f46-4799-8b42-ee4f8905f2e1@6441.org
+UID:3ee75748-344c-4f7b-bdff-fe5ede2986db@3ee7.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/inteligencia-artificial-en-los-procesos-ante-los-tribunales-fiscales-desafios-y-propuestas
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/actualidad-juridica-y-politica-de-la-agenda-quimica-internacional-balances-de-las-triple-cop
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/primer-congreso-nacional-de-derecho-penal-economico
 DURATION:PT2H
-DTSTART:20251117T183000Z
-SUMMARY:Actualidad jurídica y política de la agenda química internacional. Balances de las triple COP
-UID:aabf8dc9-218d-4a4a-b684-86910af27d2a@aabf.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/actualidad-juridica-y-politica-de-la-agenda-quimica-internacional-balances-de-las-triple-cop
+DTSTART:20251127T120000Z
+SUMMARY:Primer Congreso Nacional de Derecho Penal Económico
+UID:05e0769b-8372-4cd6-a8a1-2c53a3989dcd@05e0.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/primer-congreso-nacional-de-derecho-penal-economico
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-la-conciliacion-y-arbitraje-laboral-como-politica-de-estado-en-expansion-oportunidades-y-desafios
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-ia-tecnologias-emergentes-y-su-impacto-en-el-derecho-i
 DURATION:PT2H
-DTSTART:20251118T210000Z
-SUMMARY:Conferencia: La conciliación y arbitraje laboral como política de Estado en expansión. Oportunidades y desafíos
-UID:4eb046f5-822a-4a1e-97ec-99054c79b186@4eb0.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conferencia-la-conciliacion-y-arbitraje-laboral-como-politica-de-estado-en-expansion-oportunidades-y-desafios
+DTSTART:20251112T200000Z
+SUMMARY:Presentación del libro IA\, tecnologías emergentes y su impacto en el derecho
+UID:36193dda-450e-41a2-ac57-5e5cf7df4c43@3619.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-ia-tecnologias-emergentes-y-su-impacto-en-el-derecho-i
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-huelga-y-accion-sindical
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/certeza-tributaria-en-un-entorno-de-incertidumbre-para-la-cooperacion-tributaria-internacional
 DURATION:PT2H
-DTSTART:20251114T190000Z
-SUMMARY:Seminario: Huelga y acción sindical
-UID:e99c6c3f-2838-4800-b058-133cdbf90d4b@e99c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-huelga-y-accion-sindical
+DTSTART:20251120T160000Z
+SUMMARY:Certeza tributaria en un entorno de incertidumbre para la cooperación tributaria internacional
+UID:694da4ee-10de-4caf-aba1-61a7e08e71ea@694d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/certeza-tributaria-en-un-entorno-de-incertidumbre-para-la-cooperacion-tributaria-internacional
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/35-anos-de-en-busca-de-las-penas-perdidas
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
 DURATION:PT2H
-DTSTART:20251110T213000Z
-SUMMARY:35 años de "En busca de las penas perdidas"
-UID:d671c496-9a20-4578-820f-e620b51eb1e9@d671.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/35-anos-de-en-busca-de-las-penas-perdidas
+DTSTART:20260505T200000Z
+SUMMARY:La desglobalización de los Derechos Humanos
+UID:62d6fa25-2913-40a6-8afb-9d2181b1a41b@62d6.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/forum-de-buenos-aires-bloques-economicos-desarrollo-y-seguridad-juridica
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-agenda-actual-del-comite-desc-de-naciones-unidas-junto-a-julieta-rossi
 DURATION:PT2H
-DTSTART:20251107T120000Z
-SUMMARY:Fórum de Buenos Aires: Bloques Económicos\, desarrollo y seguridad jurídica
-UID:92d4c8bc-4170-490d-8e5a-16781f76e833@92d4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/forum-de-buenos-aires-bloques-economicos-desarrollo-y-seguridad-juridica
+DTSTART:20251120T183000Z
+SUMMARY:"La agenda actual del Comité DESC de Naciones Unidas" junto a Julieta Rossi 
+UID:049df72e-55ac-4914-b4e5-6402cb63976f@049d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-agenda-actual-del-comite-desc-de-naciones-unidas-junto-a-julieta-rossi
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-disertaciones-sobre-tributacion-local-quo-vadis-tasa-de-seguridad-e-higiene
+DURATION:PT2H
+DTSTART:20251110T210000Z
+SUMMARY:Ciclo de disertaciones sobre tributación local: Quo vadis tasa de seguridad e higiene
+UID:9812422e-4709-4852-ab4f-fa6b26240a28@9812.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-disertaciones-sobre-tributacion-local-quo-vadis-tasa-de-seguridad-e-higiene
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/violencia-sexual-justicia-y-emociones-una-aproximacion-al-delito-de-violacion-desde-el-texto-forense-rio-de-la-plata-1750-1850
 DURATION:PT2H
 DTSTART:20251118T210000Z
 SUMMARY:Violencia sexual\, justicia y emociones: Una aproximación al delito de violación desde el texto forense (Río de la Plata 1750-1850)
-UID:ce142432-24b3-4ae5-bc87-8034bc6382c8@ce14.org
+UID:827fd327-9522-49a2-af87-ea1a562ac462@827f.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/violencia-sexual-justicia-y-emociones-una-aproximacion-al-delito-de-violacion-desde-el-texto-forense-rio-de-la-plata-1750-1850
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-dinamica-actual-de-la-convencion-para-la-eliminacion-de-todas-las-formas-de-discriminacion-racial-y-su-proyeccion-en-otros-instrumentos-internacionales-de-derechos-humanos
+DURATION:PT2H
+DTSTART:20251210T180000Z
+SUMMARY:La dinámica actual de la Convención para la eliminación de todas las formas de discriminación racial y su proyección en otros instrumentos internacionales de derechos humanos
+UID:7090bd2b-07cc-4b0e-be03-68782105953f@7090.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-dinamica-actual-de-la-convencion-para-la-eliminacion-de-todas-las-formas-de-discriminacion-racial-y-su-proyeccion-en-otros-instrumentos-internacionales-de-derechos-humanos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/actualidad-juridica-y-politica-de-la-agenda-quimica-internacional-balances-de-las-triple-cop
+DURATION:PT2H
+DTSTART:20251117T183000Z
+SUMMARY:Actualidad jurídica y política de la agenda química internacional. Balances de las triple COP
+UID:01fde954-98a2-4918-9d58-8b8b2baeb5a1@01fd.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/actualidad-juridica-y-politica-de-la-agenda-quimica-internacional-balances-de-las-triple-cop
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/curso-introduccion-al-ejercicio-profesional-los-diversos-ambitos-de-desarrollo-de-la-abogacia
+DURATION:PT2H
+DTSTART:20251113T030000Z
+SUMMARY:Curso: Introducción al ejercicio profesional. Los diversos ámbitos de desarrollo de la abogacía
+UID:d6509248-98a8-41e6-ba6a-7a37fb18cef4@d650.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/curso-introduccion-al-ejercicio-profesional-los-diversos-ambitos-de-desarrollo-de-la-abogacia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/entrega-del-doctorado-i-honoris-causa-i-de-la-uba-a-carlos-luigi-granelli
+DURATION:PT2H
+DTSTART:20251117T210000Z
+SUMMARY:Entrega del Doctorado Honoris Causa de la UBA a Carlos Luigi Granelli
+UID:fff7cb81-9d47-4405-8bcc-f3a410f63670@fff7.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/entrega-del-doctorado-i-honoris-causa-i-de-la-uba-a-carlos-luigi-granelli
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-huelga-y-accion-sindical
+DURATION:PT2H
+DTSTART:20251114T190000Z
+SUMMARY:Seminario: Huelga y acción sindical
+UID:1990aadd-7857-46e3-9981-7ae713bc40ef@1990.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-huelga-y-accion-sindical
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-cine-debate-cinema-lavoro
+DURATION:PT2H
+DTSTART:20251125T213000Z
+SUMMARY:Ciclo de Cine-Debate Cinema Lavoro
+UID:d94a753f-5076-4aa5-873e-39e88392ecd4@d94a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/ciclo-de-cine-debate-cinema-lavoro
 END:VEVENT
 END:VCALENDAR
