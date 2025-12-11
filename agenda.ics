@@ -2,83 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-dossier-derecho-a-la-ciencia-en-argentina
-DURATION:PT2H
-DTSTART:20251210T163000Z
-SUMMARY:Presentación del DOSSIER: Derecho a la Ciencia en Argentina
-UID:447f29b8-6c18-440d-af67-48cafa5cd7b3@447f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-dossier-derecho-a-la-ciencia-en-argentina
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
 DURATION:PT2H
 DTSTART:20260505T200000Z
 SUMMARY:La desglobalización de los Derechos Humanos
-UID:fb3a85c2-977b-413e-aa93-d49e9386062c@fb3a.org
+UID:44a9f2cb-96be-4bce-b648-d95ce5412387@44a9.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/la-dinamica-actual-de-la-convencion-para-la-eliminacion-de-todas-las-formas-de-discriminacion-racial-y-su-proyeccion-en-otros-instrumentos-internacionales-de-derechos-humanos
-DURATION:PT2H
-DTSTART:20251210T180000Z
-SUMMARY:La dinámica actual de la Convención para la eliminación de todas las formas de discriminación racial y su proyección en otros instrumentos internacionales de derechos humanos
-UID:73917b73-02c6-4424-8a44-6399f624bb9c@7391.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/la-dinamica-actual-de-la-convencion-para-la-eliminacion-de-todas-las-formas-de-discriminacion-racial-y-su-proyeccion-en-otros-instrumentos-internacionales-de-derechos-humanos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-teoria-y-practicas-para-el-abordaje-de-los-conflictos-transversales-a-la-ninez-y-la-adolescencia-i-laura-n-lora-comp
-DURATION:PT2H
-DTSTART:20251215T190000Z
-SUMMARY:Presentación del libro Teoría y prácticas para el abordaje de los conflictos transversales a la niñez y la adolescencia\, Laura N. Lora (Comp.)
-UID:a0536fb0-b1c0-4d2f-9363-c2aca76346a0@a053.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-teoria-y-practicas-para-el-abordaje-de-los-conflictos-transversales-a-la-ninez-y-la-adolescencia-i-laura-n-lora-comp
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia-seminario-2025-del-prof-dr-maximo-langer-en-la-facultad-de-derecho-uba
-DURATION:PT2H
-DTSTART:20251210T180000Z
-SUMMARY:Nuevas perspectivas sobre Derecho Penal\, Proceso Penal y Criminología. Seminario 2025 del Prof. Dr. Máximo Langer en la Facultad de Derecho (UBA)
-UID:db847810-2c69-4f81-960d-5cfeaa013bdb@db84.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/nuevas-perspectivas-sobre-derecho-penal-proceso-penal-y-criminologia-seminario-2025-del-prof-dr-maximo-langer-en-la-facultad-de-derecho-uba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-empresarial-problemas-teoricos-y-ejercicio-de-la-defensa
 DURATION:PT2H
 DTSTART:20260205T200000Z
 SUMMARY:Derecho penal empresarial. Problemas teóricos y ejercicio de la defensa
-UID:95903667-756d-4dc0-8420-2bd093bc6ad3@9590.org
+UID:82ab82f5-1fd4-42ce-943a-b5febb6c7e77@82ab.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-empresarial-problemas-teoricos-y-ejercicio-de-la-defensa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/tercer-conversatorio-sobre-innovacion-en-la-ensenanza-aprendizaje-basado-en-metodos-alternativos
-DURATION:PT2H
-DTSTART:20251216T210000Z
-SUMMARY:Tercer conversatorio sobre innovación en la enseñanza: Aprendizaje basado en métodos alternativos
-UID:9c2988e9-ed73-4f8a-baf5-66aa9fad1e66@9c29.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/tercer-conversatorio-sobre-innovacion-en-la-ensenanza-aprendizaje-basado-en-metodos-alternativos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/conflictologia-y-cuestiones-de-genero-reunion-extraordinaria-derechos-de-las-mujeres-y-erradicacion-de-las-violencias-participacion-y-violencia-politica
-DURATION:PT2H
-DTSTART:20251210T140000Z
-SUMMARY:Conflictología y cuestiones de género. Reunión extraordinaria: Derechos de las mujeres y erradicación de las violencias. Participación y violencia política
-UID:8fee7f00-8477-4094-9deb-2da6c21f52ba@8fee.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/conflictologia-y-cuestiones-de-genero-reunion-extraordinaria-derechos-de-las-mujeres-y-erradicacion-de-las-violencias-participacion-y-violencia-politica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-ninas-invisibles-vulnerabilidades-multiples-y-protecciones-cruzadas-en-la-justicia-juvenil
-DURATION:PT2H
-DTSTART:20251210T180000Z
-SUMMARY:Seminario "Niñas invisibles: vulnerabilidades múltiples y protecciones cruzadas en la justicia juvenil"
-UID:07a961c6-6518-4ab2-bc1b-f0f04b63c03d@07a9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-ninas-invisibles-vulnerabilidades-multiples-y-protecciones-cruzadas-en-la-justicia-juvenil
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
 DURATION:PT2H
 DTSTART:20260525T180000Z
 SUMMARY:Seminario: "Los delitos calificados por el resultado en el derecho italiano"
-UID:aed0c692-896e-4f90-8f3f-2990f449a45b@aed0.org
+UID:61957753-3262-4e42-81e7-f2ac632da2b8@6195.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/tercer-conversatorio-sobre-innovacion-en-la-ensenanza-aprendizaje-basado-en-metodos-alternativos
+DURATION:PT2H
+DTSTART:20251216T210000Z
+SUMMARY:Tercer conversatorio sobre innovación en la enseñanza: Aprendizaje basado en métodos alternativos
+UID:22bf5d74-4022-425b-a7f0-bab6db9095cd@22bf.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/tercer-conversatorio-sobre-innovacion-en-la-ensenanza-aprendizaje-basado-en-metodos-alternativos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-teoria-y-practicas-para-el-abordaje-de-los-conflictos-transversales-a-la-ninez-y-la-adolescencia-i-laura-n-lora-comp
+DURATION:PT2H
+DTSTART:20251215T190000Z
+SUMMARY:Presentación del libro Teoría y prácticas para el abordaje de los conflictos transversales a la niñez y la adolescencia\, Laura N. Lora (Comp.)
+UID:ec227000-8bbb-44f2-b3f7-a58cba06b34e@ec22.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2025/presentacion-del-libro-i-teoria-y-practicas-para-el-abordaje-de-los-conflictos-transversales-a-la-ninez-y-la-adolescencia-i-laura-n-lora-comp
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-tratamiento-de-los-intereses-previsionales-y-los-principales-aspectos-del-regimen-del-ips-analisis-practico-y-actualizado
+DURATION:PT2H
+DTSTART:20260225T210000Z
+SUMMARY:El tratamiento de los intereses previsionales y los principales aspectos del régimen del IPS: análisis práctico y actualizado
+UID:3a773607-7289-4108-a401-e8b87659fd0d@3a77.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-tratamiento-de-los-intereses-previsionales-y-los-principales-aspectos-del-regimen-del-ips-analisis-practico-y-actualizado
 END:VEVENT
 END:VCALENDAR
