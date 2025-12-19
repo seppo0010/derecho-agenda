@@ -2,27 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
-DURATION:PT2H
-DTSTART:20260505T200000Z
-SUMMARY:La desglobalización de los Derechos Humanos
-UID:0d317404-3d10-4087-90a7-1411dae083db@0d31.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-tratamiento-de-los-intereses-previsionales-y-los-principales-aspectos-del-regimen-del-ips-analisis-practico-y-actualizado
-DURATION:PT2H
-DTSTART:20260225T210000Z
-SUMMARY:El tratamiento de los intereses previsionales y los principales aspectos del régimen del IPS: análisis práctico y actualizado
-UID:d3d9c64c-e39a-41de-af18-9c833b9c55db@d3d9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-tratamiento-de-los-intereses-previsionales-y-los-principales-aspectos-del-regimen-del-ips-analisis-practico-y-actualizado
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
 DURATION:PT2H
 DTSTART:20260525T180000Z
 SUMMARY:Seminario: "Los delitos calificados por el resultado en el derecho italiano"
-UID:0328f4ff-f1bc-46fb-8256-f1891303c6d0@0328.org
+UID:a7be538c-7e46-4f45-9861-2c2a8f238dcf@a7be.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
 END:VEVENT
 BEGIN:VEVENT
@@ -30,15 +14,31 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre
 DURATION:PT2H
 DTSTART:20260312T210000Z
 SUMMARY:Jornada sobre los casos Yaguareté y Carpinchos
-UID:487b12d2-b157-4477-9efc-0c18fb195556@487b.org
+UID:6af61950-1c91-4a90-bd38-5b2128552025@6af6.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
+DURATION:PT2H
+DTSTART:20260505T200000Z
+SUMMARY:La desglobalización de los Derechos Humanos
+UID:6370296b-6a64-4ef9-861a-277e908eeba1@6370.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-empresarial-problemas-teoricos-y-ejercicio-de-la-defensa
 DURATION:PT2H
 DTSTART:20260205T200000Z
 SUMMARY:Derecho penal empresarial. Problemas teóricos y ejercicio de la defensa
-UID:938ce0f1-cb54-46f2-89e0-f47e8dce831f@938c.org
+UID:edd61d0d-0655-42b0-a5ef-14788740389b@edd6.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-empresarial-problemas-teoricos-y-ejercicio-de-la-defensa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-tratamiento-de-los-intereses-previsionales-y-los-principales-aspectos-del-regimen-del-ips-analisis-practico-y-actualizado
+DURATION:PT2H
+DTSTART:20260225T210000Z
+SUMMARY:El tratamiento de los intereses previsionales y los principales aspectos del régimen del IPS: análisis práctico y actualizado
+UID:d36577b0-2258-4d65-97b1-3df88f45f731@d365.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-tratamiento-de-los-intereses-previsionales-y-los-principales-aspectos-del-regimen-del-ips-analisis-practico-y-actualizado
 END:VEVENT
 END:VCALENDAR
