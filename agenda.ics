@@ -2,67 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-lucha-contra-el-trafico-ilicito-de-bienes-culturales-en-america-latina-y-el-caribe-desafios-practicas-y-respuestas-juridicas
-DURATION:PT2H
-DTSTART:20260204T183000Z
-SUMMARY:La lucha contra el tráfico ilícito de bienes culturales en América Latina y el Caribe: desafíos\, prácticas y respuestas jurídicas
-UID:f734859c-09b2-46ba-9db6-8c9a04eb6814@f734.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-lucha-contra-el-trafico-ilicito-de-bienes-culturales-en-america-latina-y-el-caribe-desafios-practicas-y-respuestas-juridicas
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-empresarial-problemas-teoricos-y-ejercicio-de-la-defensa
 DURATION:PT2H
 DTSTART:20260205T200000Z
 SUMMARY:Derecho penal empresarial. Problemas teóricos y ejercicio de la defensa
-UID:8f0807fd-044a-4390-b032-03b12c834f07@8f08.org
+UID:63af54bc-2afd-46dc-ac69-723788d412bf@63af.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-empresarial-problemas-teoricos-y-ejercicio-de-la-defensa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
-DURATION:PT2H
-DTSTART:20260312T210000Z
-SUMMARY:Jornada sobre los casos Yaguareté y Carpinchos
-UID:afbc50c7-cc92-49ec-a4c9-44d9dd4c19e4@afbc.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-cuerpo-de-la-persona-privada-de-libertad-en-la-era-digital
-DURATION:PT2H
-DTSTART:20260225T180000Z
-SUMMARY:El cuerpo de la persona privada de libertad en la era digital
-UID:34d89cbb-45cf-4ab9-8160-2cae64ab2558@34d8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-cuerpo-de-la-persona-privada-de-libertad-en-la-era-digital
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
 DURATION:PT2H
 DTSTART:20260525T180000Z
 SUMMARY:Seminario: "Los delitos calificados por el resultado en el derecho italiano"
-UID:037642ae-3cf8-4e20-9cf3-608b33e932f4@0376.org
+UID:97feb59e-c677-4a2a-b453-34e521cf292a@97fe.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
-DURATION:PT2H
-DTSTART:20260407T220000Z
-SUMMARY:Seminario sobre actualización de la dogmática penal
-UID:f63b8a87-0bad-4c47-aa80-da3c936e5db7@f63b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia-1
 DURATION:PT2H
 DTSTART:20250401T193000Z
 SUMMARY:Seminario de Formación del Departamento de Derecho Penal y Criminología
-UID:ea652f0e-409d-40da-b893-c91765254312@ea65.org
+UID:af49840d-f504-4e5b-83a8-b9de01a83000@af49.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2025/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia-1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-cuerpo-de-la-persona-privada-de-libertad-en-la-era-digital
+DURATION:PT2H
+DTSTART:20260225T180000Z
+SUMMARY:El cuerpo de la persona privada de libertad en la era digital
+UID:a58963ba-7dee-4876-adac-1889757082e6@a589.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-cuerpo-de-la-persona-privada-de-libertad-en-la-era-digital
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
+DURATION:PT2H
+DTSTART:20260407T220000Z
+SUMMARY:Seminario sobre actualización de la dogmática penal
+UID:f3ca8ef2-ad57-48fd-85d7-387a58ba7134@f3ca.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-lucha-contra-el-trafico-ilicito-de-bienes-culturales-en-america-latina-y-el-caribe-desafios-practicas-y-respuestas-juridicas
+DURATION:PT2H
+DTSTART:20260204T183000Z
+SUMMARY:La lucha contra el tráfico ilícito de bienes culturales en América Latina y el Caribe: desafíos\, prácticas y respuestas jurídicas
+UID:158ae75a-0b9b-4d68-868a-82339eb7ce75@158a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-lucha-contra-el-trafico-ilicito-de-bienes-culturales-en-america-latina-y-el-caribe-desafios-practicas-y-respuestas-juridicas
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-tratamiento-de-los-intereses-previsionales-y-los-principales-aspectos-del-regimen-del-ips-analisis-practico-y-actualizado
 DURATION:PT2H
 DTSTART:20260225T210000Z
 SUMMARY:El tratamiento de los intereses previsionales y los principales aspectos del régimen del IPS: análisis práctico y actualizado
-UID:b11351dd-ceed-4f8d-8688-5a5e25d5a550@b113.org
+UID:e7da2fdd-f75d-470c-bf0d-fbc58de6bffe@e7da.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-tratamiento-de-los-intereses-previsionales-y-los-principales-aspectos-del-regimen-del-ips-analisis-practico-y-actualizado
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +62,7 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobali
 DURATION:PT2H
 DTSTART:20260505T200000Z
 SUMMARY:La desglobalización de los Derechos Humanos
-UID:48fd94a4-0fd2-4733-9a67-7de5322e5aa0@48fd.org
+UID:30565e57-5a90-4998-9fcb-4d41e92981e3@3056.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
 END:VEVENT
 BEGIN:VEVENT
@@ -78,7 +70,15 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio
 DURATION:PT2H
 DTSTART:20260202T193000Z
 SUMMARY:Conversatorio con Pilar Badia. Educación del derecho animal a jóvenes
-UID:6f9eb2d9-3cfc-4067-a5a5-4ea7bdb65d8e@6f9e.org
+UID:f5a5e547-6065-4b4e-b7b9-74f4368a06fb@f5a5.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-con-pilar-badia-educacion-del-derecho-animal-a-jovenes
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
+DURATION:PT2H
+DTSTART:20260312T210000Z
+SUMMARY:Jornada sobre los casos Yaguareté y Carpinchos
+UID:cfad0822-7091-47e2-b142-afb0bd5845f8@cfad.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
 END:VEVENT
 END:VCALENDAR
