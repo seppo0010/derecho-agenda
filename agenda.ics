@@ -2,67 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-de-certificados-del-ciclo-de-formacion-en-genero
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
 DURATION:PT2H
-DTSTART:20260310T210000Z
-SUMMARY:Entrega de Certificados del Ciclo de Formación en Género
-UID:dddcfba4-3302-4b73-8cac-f5ee259d4584@dddc.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-de-certificados-del-ciclo-de-formacion-en-genero
+DTSTART:20260407T220000Z
+SUMMARY:Seminario sobre actualización de la dogmática penal
+UID:2bc89add-38f0-4e4f-8da4-73257bb21c34@2bc8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
 DURATION:PT2H
 DTSTART:20260505T200000Z
 SUMMARY:La desglobalización de los Derechos Humanos
-UID:23dc86eb-229d-44fb-93c8-1e8dd48398a6@23dc.org
+UID:f4846751-620e-4e61-8aa6-796f24395698@f484.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-de-certificados-del-ciclo-de-formacion-en-genero
 DURATION:PT2H
-DTSTART:20260401T193000Z
-SUMMARY:Seminario de Formación del Departamento de Derecho Penal y Criminología
-UID:e565f557-a7eb-45cf-986b-ccc56b744392@e565.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
-DURATION:PT2H
-DTSTART:20260407T220000Z
-SUMMARY:Seminario sobre actualización de la dogmática penal
-UID:66f6e6a5-de6f-4e11-94c9-80adba1d9223@66f6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-cuerpo-de-la-persona-privada-de-libertad-en-la-era-digital
-DURATION:PT2H
-DTSTART:20260225T180000Z
-SUMMARY:El cuerpo de la persona privada de libertad en la era digital
-UID:74e91a9e-2744-4ed0-b177-bc2b1a1d2156@74e9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-cuerpo-de-la-persona-privada-de-libertad-en-la-era-digital
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
-DURATION:PT2H
-DTSTART:20260312T210000Z
-SUMMARY:Jornada sobre los casos Yaguareté y Carpinchos
-UID:8ab85791-f5e0-4912-8aea-8225841e3548@8ab8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
+DTSTART:20260310T210000Z
+SUMMARY:Entrega de Certificados del Ciclo de Formación en Género
+UID:a01a2357-66ec-4bd8-97dc-df0adcb9c644@a01a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-de-certificados-del-ciclo-de-formacion-en-genero
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
 DURATION:PT2H
 DTSTART:20260525T180000Z
 SUMMARY:Seminario: "Los delitos calificados por el resultado en el derecho italiano"
-UID:a1c32f11-8119-4495-96b5-b04b7c50aa38@a1c3.org
+UID:9d4989b0-9775-46f2-984a-a4ee00bf293a@9d49.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+DURATION:PT2H
+DTSTART:20260401T193000Z
+SUMMARY:Seminario de Formación del Departamento de Derecho Penal y Criminología
+UID:21d5e3a6-cf8a-4088-a27a-fa4e6d33f3cb@21d5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-formacion-del-departamento-de-derecho-penal-y-criminologia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
+DURATION:PT2H
+DTSTART:20260312T210000Z
+SUMMARY:Jornada sobre los casos Yaguareté y Carpinchos
+UID:321d2e92-5707-483f-a1db-b004e96a650d@321d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-tratamiento-de-los-intereses-previsionales-y-los-principales-aspectos-del-regimen-del-ips-analisis-practico-y-actualizado
 DURATION:PT2H
 DTSTART:20260225T210000Z
 SUMMARY:El tratamiento de los intereses previsionales y los principales aspectos del régimen del IPS: análisis práctico y actualizado
-UID:fa2f5ebb-9bed-4d1e-b35a-89a19eb7aef4@fa2f.org
+UID:f8dea3d5-36fa-445c-890d-b9b458c6e8f1@f8de.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-tratamiento-de-los-intereses-previsionales-y-los-principales-aspectos-del-regimen-del-ips-analisis-practico-y-actualizado
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +62,15 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/the-meaning-o
 DURATION:PT2H
 DTSTART:20260219T210000Z
 SUMMARY:The meaning of the duty to prevent genocide for third states in light of the recent practice
-UID:23f4da0b-6f75-4370-8799-def3a6ba2598@23f4.org
+UID:a201bfcc-3248-4501-9802-280b6a9d8bfa@a201.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/the-meaning-of-the-duty-to-prevent-genocide-for-third-states-in-light-of-the-recent-practice
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-cuerpo-de-la-persona-privada-de-libertad-en-la-era-digital
+DURATION:PT2H
+DTSTART:20260225T180000Z
+SUMMARY:El cuerpo de la persona privada de libertad en la era digital
+UID:0e5138c4-60eb-4969-8252-8611cbc92d12@0e51.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-cuerpo-de-la-persona-privada-de-libertad-en-la-era-digital
 END:VEVENT
 END:VCALENDAR
