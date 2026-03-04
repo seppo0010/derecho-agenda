@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-accion-penal-y-perspectiva-de-genero-analisis-de-lege-lata-y-reconstruccion-de-lege-ferenda-del-regimen-de-la-accion-penal-argentino-i
+DURATION:PT2H
+DTSTART:20260330T210000Z
+SUMMARY:Presentación del libro Acción penal y perspectiva de género. Análisis de lege lata y reconstrucción de lege ferenda del régimen de la acción penal argentino
+UID:8b678cbe-15c0-4ed1-bec6-3a6b9198abb7@8b67.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-accion-penal-y-perspectiva-de-genero-analisis-de-lege-lata-y-reconstruccion-de-lege-ferenda-del-regimen-de-la-accion-penal-argentino-i
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
 DURATION:PT2H
 DTSTART:20260525T180000Z
 SUMMARY:Seminario: "Los delitos calificados por el resultado en el derecho italiano"
-UID:b81e32ab-3a3b-47a9-8ca7-a135a3e22087@b81e.org
+UID:6ef9f08b-98a6-4057-a950-0006fb1376a1@6ef9.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
 END:VEVENT
 BEGIN:VEVENT
@@ -14,79 +22,15 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-per
 DURATION:PT2H
 DTSTART:20260309T180000Z
 SUMMARY:Seminario Permanente de Investigación del Derecho de la Persona Humana\, Familia y Sucesiones
-UID:844abe71-1ffd-43a0-847f-7f348fc019dc@844a.org
+UID:8d6c1070-76d2-4d6f-b132-9936b58293d7@8d6c.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-permanente-de-investigacion-del-derecho-de-la-persona-humana-familia-y-sucesiones
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-amparos-en-discapacidad-estudio-de-casos
-DURATION:PT2H
-DTSTART:20260304T203000Z
-SUMMARY:Jornada "Amparos en discapacidad. Estudio de casos"
-UID:d0721d1d-af0c-4014-89f0-afd74e6634b4@d072.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-amparos-en-discapacidad-estudio-de-casos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/herramientas-para-la-investigacion-en-derecho-internacional-penal-lanzamiento-de-la-plataforma-lexsitus-3-0-y-sus-recursos-disponibles-en-espanol
-DURATION:PT2H
-DTSTART:20260313T200000Z
-SUMMARY:Herramientas para la investigación en Derecho Internacional Penal: Lanzamiento de la plataforma Lexsitus 3.0 y sus recursos disponibles en español 
-UID:f4355b41-bd35-4abe-b2e8-15c367db6f35@f435.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/herramientas-para-la-investigacion-en-derecho-internacional-penal-lanzamiento-de-la-plataforma-lexsitus-3-0-y-sus-recursos-disponibles-en-espanol
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/the-meaning-of-the-duty-to-prevent-genocide-for-third-states-in-light-of-the-recent-practice
-DURATION:PT2H
-DTSTART:20260309T210000Z
-SUMMARY:The meaning of the duty to prevent genocide for third states in light of the recent practice
-UID:a0793c2d-411c-448c-9bd3-dbd77b83e604@a079.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/the-meaning-of-the-duty-to-prevent-genocide-for-third-states-in-light-of-the-recent-practice
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/clase-abierta-inaugural-regimen-penal-juvenil-reforma-necesaria-o-retroceso-en-derechos-claves-para-el-analisis
-DURATION:PT2H
-DTSTART:20260309T210000Z
-SUMMARY:Clase abierta inaugural - Régimen penal juvenil: ¿Reforma necesaria o retroceso en derechos? Claves para el análisis
-UID:4218b8a7-70c5-4a05-aa08-df44e959ee69@4218.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/clase-abierta-inaugural-regimen-penal-juvenil-reforma-necesaria-o-retroceso-en-derechos-claves-para-el-analisis
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/dialogos-feministas-ante-la-crisis-climatica-cuerpos-territorios-y-derechos-humanos
-DURATION:PT2H
-DTSTART:20260303T170000Z
-SUMMARY:Diálogos feministas ante la crisis climática: cuerpos\, territorios y derechos humanos
-UID:c02dcb18-f20e-42fc-99cd-965b5a980ccf@c02d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/dialogos-feministas-ante-la-crisis-climatica-cuerpos-territorios-y-derechos-humanos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
-DURATION:PT2H
-DTSTART:20260312T210000Z
-SUMMARY:Jornada sobre los casos Yaguareté y Carpinchos
-UID:7090c95b-9ee0-4992-9cc4-a8d84dd385e3@7090.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-casos-y-cuestiones-a-traves-de-la-historia-derecho-antiguo-y-moderno
-DURATION:PT2H
-DTSTART:20260227T180000Z
-SUMMARY:Derecho penal: casos y cuestiones a través de la historia. Derecho antiguo y moderno
-UID:8f60fbdd-2cdd-4e93-bfcd-d66c51198edf@8f60.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-casos-y-cuestiones-a-traves-de-la-historia-derecho-antiguo-y-moderno
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/workshop-metodos-alternativos-de-solucion-de-los-conflictos-transnacionales
-DURATION:PT2H
-DTSTART:20260305T200000Z
-SUMMARY:Workshop "Métodos Alternativos de solución de los conflictos transnacionales"
-UID:12c9255d-81b2-4008-9ebb-ec24e7106fe1@12c9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/workshop-metodos-alternativos-de-solucion-de-los-conflictos-transnacionales
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-letalidad-entre-brasil-y-argentina-seminario-interuniversitario-facultad-de-derecho-uba-universidad-de-sao-paulo-fdusp
 DURATION:PT2H
 DTSTART:20260413T183000Z
 SUMMARY:Seminario sobre letalidad entre Brasil y Argentina - Seminario interuniversitario Facultad de Derecho UBA - Universidad de São Paulo (FDUSP)
-UID:71055e12-3032-4bfb-9dc2-9c5f2c75ba7e@7105.org
+UID:70fad2e5-8e01-4b1a-8893-37aa3af1f1aa@70fa.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-letalidad-entre-brasil-y-argentina-seminario-interuniversitario-facultad-de-derecho-uba-universidad-de-sao-paulo-fdusp
 END:VEVENT
 BEGIN:VEVENT
@@ -94,79 +38,127 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobali
 DURATION:PT2H
 DTSTART:20260505T200000Z
 SUMMARY:La desglobalización de los Derechos Humanos
-UID:f75981f9-2dcd-422e-ab05-ace2f5e9c33c@f759.org
+UID:5a93b44f-424f-4e83-8654-941b5c2b0c70@5a93.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/viii-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/herramientas-para-la-investigacion-en-derecho-internacional-penal-lanzamiento-de-la-plataforma-lexsitus-3-0-y-sus-recursos-disponibles-en-espanol
 DURATION:PT2H
-DTSTART:20260302T210000Z
-SUMMARY:VIII Jornadas de Investigadores/as en Formación del Instituto de Investigaciones Jurídicas y Sociales "Ambrosio Lucas Gioja"
-UID:903f088d-6847-4e9f-a6ef-1deda9c68a0d@903f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/viii-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
+DTSTART:20260313T200000Z
+SUMMARY:Herramientas para la investigación en Derecho Internacional Penal: Lanzamiento de la plataforma Lexsitus 3.0 y sus recursos disponibles en español 
+UID:2a4bd809-8848-4d0e-a1cd-bb39d25621db@2a4b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/herramientas-para-la-investigacion-en-derecho-internacional-penal-lanzamiento-de-la-plataforma-lexsitus-3-0-y-sus-recursos-disponibles-en-espanol
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-del-doctorado-honoris-causa-de-la-uba-a-mirzia-rosa-bianca
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/the-meaning-of-the-duty-to-prevent-genocide-for-third-states-in-light-of-the-recent-practice
 DURATION:PT2H
-DTSTART:20260326T210000Z
-SUMMARY:Entrega del Doctorado Honoris Causa de la UBA a Mirzia Rosa Bianca
-UID:168201c2-4f66-4a39-ab99-0191c0aaca89@1682.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-del-doctorado-honoris-causa-de-la-uba-a-mirzia-rosa-bianca
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
-DURATION:PT2H
-DTSTART:20260420T173000Z
-SUMMARY:La doctrina del control de convencionalidad. A veinte años de su creación
-UID:00ad1b57-33e2-4dda-9674-0f5e84646ad9@00ad.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-accion-penal-y-perspectiva-de-genero-analisis-de-lege-lata-y-reconstruccion-de-lege-ferenda-del-regimen-de-la-accion-penal-argentino-i
-DURATION:PT2H
-DTSTART:20260330T210000Z
-SUMMARY:Presentación del libro Acción penal y perspectiva de género. Análisis de lege lata y reconstrucción de lege ferenda del régimen de la acción penal argentino
-UID:47ba5ef8-ee4b-4cdf-b09b-86574509b8e2@47ba.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-accion-penal-y-perspectiva-de-genero-analisis-de-lege-lata-y-reconstruccion-de-lege-ferenda-del-regimen-de-la-accion-penal-argentino-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/neopunitivismo-y-reformas-penales-experiencias-comparadas
-DURATION:PT2H
-DTSTART:20260305T200000Z
-SUMMARY:Neopunitivismo y reformas penales. Experiencias comparadas
-UID:f0980450-52f1-4969-a1b2-b55de97cc734@f098.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/neopunitivismo-y-reformas-penales-experiencias-comparadas
+DTSTART:20260309T210000Z
+SUMMARY:The meaning of the duty to prevent genocide for third states in light of the recent practice
+UID:0eef58fb-8c68-49aa-8442-d50782d05348@0eef.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/the-meaning-of-the-duty-to-prevent-genocide-for-third-states-in-light-of-the-recent-practice
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
 DURATION:PT2H
 DTSTART:20260407T220000Z
 SUMMARY:Seminario sobre actualización de la dogmática penal
-UID:10892e81-2b76-4f7d-8c30-e7de20d08a2c@1089.org
+UID:a4f45dd6-3b64-4afc-a872-c554b9733812@a4f4.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-ordenes-de-detencion-en-el-derecho-internacional
-DURATION:PT2H
-DTSTART:20260303T200000Z
-SUMMARY:Seminario: Órdenes de detención en el derecho internacional
-UID:72857471-d195-4018-a09e-65af870a00cb@7285.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-ordenes-de-detencion-en-el-derecho-internacional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-de-certificados-del-ciclo-de-formacion-en-genero
-DURATION:PT2H
-DTSTART:20260310T210000Z
-SUMMARY:Entrega de Certificados del Ciclo de Formación en Género
-UID:e7dff5e8-1345-4123-86fd-773587525fbd@e7df.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-de-certificados-del-ciclo-de-formacion-en-genero
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-derecho-publico-en-italia-hoy
 DURATION:PT2H
 DTSTART:20260304T210000Z
 SUMMARY:El derecho público en Italia hoy
-UID:9eb77ba3-129f-475a-9cc3-d80e62d50d71@9eb7.org
+UID:9ebda1f3-3cb4-4d61-a71e-e1cedc83bc8d@9ebd.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-derecho-publico-en-italia-hoy
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/workshop-metodos-alternativos-de-solucion-de-los-conflictos-transnacionales
+DURATION:PT2H
+DTSTART:20260305T200000Z
+SUMMARY:Workshop "Métodos Alternativos de solución de los conflictos transnacionales"
+UID:9ed33883-b460-4bd9-8a8c-95d8249cac27@9ed3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/workshop-metodos-alternativos-de-solucion-de-los-conflictos-transnacionales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/viii-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
+DURATION:PT2H
+DTSTART:20260302T210000Z
+SUMMARY:VIII Jornadas de Investigadores/as en Formación del Instituto de Investigaciones Jurídicas y Sociales "Ambrosio Lucas Gioja"
+UID:4ea0e3c1-13e7-48d2-9077-70383cdcfae6@4ea0.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/viii-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/neopunitivismo-y-reformas-penales-experiencias-comparadas
+DURATION:PT2H
+DTSTART:20260305T200000Z
+SUMMARY:Neopunitivismo y reformas penales. Experiencias comparadas
+UID:cadbd771-0153-43e8-a180-f5db90f2d2ae@cadb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/neopunitivismo-y-reformas-penales-experiencias-comparadas
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-del-doctorado-honoris-causa-de-la-uba-a-mirzia-rosa-bianca
+DURATION:PT2H
+DTSTART:20260326T210000Z
+SUMMARY:Entrega del Doctorado Honoris Causa de la UBA a Mirzia Rosa Bianca
+UID:b19731cd-2adf-46f4-ac7e-bf7e4c457ba7@b197.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-del-doctorado-honoris-causa-de-la-uba-a-mirzia-rosa-bianca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/clase-abierta-inaugural-regimen-penal-juvenil-reforma-necesaria-o-retroceso-en-derechos-claves-para-el-analisis
+DURATION:PT2H
+DTSTART:20260309T210000Z
+SUMMARY:Clase abierta inaugural - Régimen penal juvenil: ¿Reforma necesaria o retroceso en derechos? Claves para el análisis
+UID:60bcd0bf-01fd-4ab8-9f1b-e1bd284006bb@60bc.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/clase-abierta-inaugural-regimen-penal-juvenil-reforma-necesaria-o-retroceso-en-derechos-claves-para-el-analisis
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-casos-y-cuestiones-a-traves-de-la-historia-derecho-antiguo-y-moderno
+DURATION:PT2H
+DTSTART:20260227T180000Z
+SUMMARY:Derecho penal: casos y cuestiones a través de la historia. Derecho antiguo y moderno
+UID:a9432dc7-bb51-4525-943d-0af8691b3859@a943.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-casos-y-cuestiones-a-traves-de-la-historia-derecho-antiguo-y-moderno
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-comercio-sexual-y-derechos-humanos-i-de-alexia-sofia-alonso
+DURATION:PT2H
+DTSTART:20260327T200000Z
+SUMMARY:Presentación del libro Comercio Sexual y Derechos Humanos de Alexia Sofía Alonso
+UID:237d16d5-228c-4f6b-b0cd-9078145e42f7@237d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-comercio-sexual-y-derechos-humanos-i-de-alexia-sofia-alonso
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
+DURATION:PT2H
+DTSTART:20260420T173000Z
+SUMMARY:La doctrina del control de convencionalidad. A veinte años de su creación
+UID:dafeb065-56fc-452b-985f-a19651b7f8a8@dafe.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-amparos-en-discapacidad-estudio-de-casos
+DURATION:PT2H
+DTSTART:20260304T203000Z
+SUMMARY:Jornada "Amparos en discapacidad. Estudio de casos"
+UID:938aaca1-0dcb-47c4-a958-8ff9ceb3d240@938a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-amparos-en-discapacidad-estudio-de-casos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-de-certificados-del-ciclo-de-formacion-en-genero
+DURATION:PT2H
+DTSTART:20260310T210000Z
+SUMMARY:Entrega de Certificados del Ciclo de Formación en Género
+UID:9efb1c3d-8f11-4f7c-85a7-077aad5b4966@9efb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-de-certificados-del-ciclo-de-formacion-en-genero
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
+DURATION:PT2H
+DTSTART:20260312T210000Z
+SUMMARY:Jornada sobre los casos Yaguareté y Carpinchos
+UID:e5789db5-7c23-4926-93a1-f6ddd21d20f1@e578.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-los-casos-yaguarete-y-carpinchos
 END:VEVENT
 END:VCALENDAR
