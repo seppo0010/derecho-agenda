@@ -2,59 +2,163 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/a-50-anos-del-golpe-de-estado-del-24-de-marzo-de-1976-reflexiones-desde-el-constitucionalismo-democratico
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/a-50-anos-de-la-ultima-interrupcion-del-orden-constitucional-nunca-mas
 DURATION:PT2H
-DTSTART:20260325T180000Z
-SUMMARY:A 50 años del golpe de Estado del 24 de marzo de 1976. Reflexiones desde el constitucionalismo democrático
-UID:0fbf2e4b-0617-4e34-995c-7a5dcdd5881c@0fbf.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/a-50-anos-del-golpe-de-estado-del-24-de-marzo-de-1976-reflexiones-desde-el-constitucionalismo-democratico
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
-DURATION:PT2H
-DTSTART:20260430T203000Z
-SUMMARY:Cine y derecho
-UID:f6c03458-ec33-4f1c-9b27-3f39411f0a1d@f6c0.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-declaracion-simplificada-caracteres-generales-y-discrepancias-significativas-el-efecto-liberatorio-del-pago-y-la-presuncion-de-exactitud-blanqueo-popular-permanente-para-que-se-saquen-los-ahorros-del-colchon
-DURATION:PT2H
-DTSTART:20260408T210000Z
-SUMMARY:Jornada: La declaración simplificada: caracteres generales y discrepancias significativas. El efecto liberatorio del pago y la presunción de exactitud. ¿Blanqueo popular permanente para que se saquen los ahorros del colchón?
-UID:a89f2582-5264-4897-ae9a-7f9e6cd81e23@a89f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-declaracion-simplificada-caracteres-generales-y-discrepancias-significativas-el-efecto-liberatorio-del-pago-y-la-presuncion-de-exactitud-blanqueo-popular-permanente-para-que-se-saquen-los-ahorros-del-colchon
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
-DURATION:PT2H
-DTSTART:20260420T173000Z
-SUMMARY:La doctrina del control de convencionalidad. A veinte años de su creación
-UID:0796f6e6-36b1-439d-b656-7a2278d1d530@0796.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
+DTSTART:20260409T200000Z
+SUMMARY:A 50 años de la última interrupción del orden constitucional. Nunca más
+UID:fe19b46c-46e2-42b6-80b7-9905a4df8f25@fe19.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/a-50-anos-de-la-ultima-interrupcion-del-orden-constitucional-nunca-mas
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-a-50-anos-del-golpe-en-defensa-de-la-democracia-y-los-derechos-humanos
 DURATION:PT2H
 DTSTART:20260325T210000Z
 SUMMARY:Conversatorio "A 50 años del golpe: en defensa de la democracia y los derechos humanos"
-UID:07c5d763-1498-4c93-9ff8-6c156960e020@07c5.org
+UID:964f5c3f-216d-424f-bf8f-975fd8d4bbef@964f.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-a-50-anos-del-golpe-en-defensa-de-la-democracia-y-los-derechos-humanos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
+DURATION:PT2H
+DTSTART:20260420T173000Z
+SUMMARY:La doctrina del control de convencionalidad. A veinte años de su creación
+UID:63bf761c-40ce-4a67-a2c0-16cdde92bfbf@63bf.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-derecho-constitucional-ambiental-i-de-maria-florencia-saulino
+DURATION:PT2H
+DTSTART:20260422T210000Z
+SUMMARY:Presentación del libro Derecho Constitucional Ambiental\, de María Florencia Saulino
+UID:eddbf227-7d77-458d-872e-fab10bc2ffd2@eddb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-derecho-constitucional-ambiental-i-de-maria-florencia-saulino
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-letalidad-policial-y-penal-en-argentina-y-brasil-seminario-interuniversitario-facultad-de-derecho-uba-universidad-de-sao-paulo-fdusp
 DURATION:PT2H
 DTSTART:20260413T183000Z
 SUMMARY:Seminario sobre letalidad policial y penal en Argentina y Brasil - Seminario interuniversitario Facultad de Derecho UBA - Universidad de São Paulo (FDUSP)
-UID:a3e7f9ed-fb6b-41f6-84bf-5f71238085ac@a3e7.org
+UID:a0802d15-ad6b-40f8-bfb3-5f20edcdd748@a080.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-letalidad-policial-y-penal-en-argentina-y-brasil-seminario-interuniversitario-facultad-de-derecho-uba-universidad-de-sao-paulo-fdusp
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/visiones-del-mercosur-a-35-anos-de-su-creacion
+DURATION:PT2H
+DTSTART:20260326T213000Z
+SUMMARY:Visiones del Mercosur a 35 años de su creación
+UID:2641d991-d2b1-4f34-bd7f-1a7a0230887b@2641.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/visiones-del-mercosur-a-35-anos-de-su-creacion
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-reforma-de-la-legislacion-de-trabajo-por-la-llamada-ley-de-modernizacion-laboral
+DURATION:PT2H
+DTSTART:20260326T180000Z
+SUMMARY:La reforma de la legislación de trabajo por la llamada "Ley de Modernización Laboral"
+UID:936f64d8-22af-4503-9427-818d3429d09e@936f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-reforma-de-la-legislacion-de-trabajo-por-la-llamada-ley-de-modernizacion-laboral
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-declaracion-simplificada-caracteres-generales-y-discrepancias-significativas-el-efecto-liberatorio-del-pago-y-la-presuncion-de-exactitud-blanqueo-popular-permanente-para-que-se-saquen-los-ahorros-del-colchon
+DURATION:PT2H
+DTSTART:20260408T210000Z
+SUMMARY:Jornada: La declaración simplificada: caracteres generales y discrepancias significativas. El efecto liberatorio del pago y la presunción de exactitud. ¿Blanqueo popular permanente para que se saquen los ahorros del colchón?
+UID:8369ab33-55eb-4285-b100-d607fd00c784@8369.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-declaracion-simplificada-caracteres-generales-y-discrepancias-significativas-el-efecto-liberatorio-del-pago-y-la-presuncion-de-exactitud-blanqueo-popular-permanente-para-que-se-saquen-los-ahorros-del-colchon
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-comercio-sexual-y-derechos-humanos-i-de-alexia-sofia-alonso
+DURATION:PT2H
+DTSTART:20260327T200000Z
+SUMMARY:Presentación del libro Comercio Sexual y Derechos Humanos de Alexia Sofía Alonso
+UID:0619730a-0386-40bf-b062-a71e6adc495f@0619.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-comercio-sexual-y-derechos-humanos-i-de-alexia-sofia-alonso
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-del-doctorado-honoris-causa-de-la-uba-a-mirzia-rosa-bianca
+DURATION:PT2H
+DTSTART:20260326T183000Z
+SUMMARY:Entrega del Doctorado Honoris Causa de la UBA a Mirzia Rosa Bianca
+UID:98a67aa9-439e-4979-8056-0238f49dda34@98a6.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-del-doctorado-honoris-causa-de-la-uba-a-mirzia-rosa-bianca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-con-el-profesor-dr-oscar-horta
+DURATION:PT2H
+DTSTART:20260331T200000Z
+SUMMARY:Conversatorio con el Profesor Dr. Oscar Horta
+UID:7d42580e-d2c3-457b-81cb-8ebffaddb342@7d42.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-con-el-profesor-dr-oscar-horta
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/difusion-de-la-cultura-tributaria-aspectos-vinculados-a-la-ley-sobre-inocencia-fiscal
+DURATION:PT2H
+DTSTART:20260325T210000Z
+SUMMARY:Difusión de la cultura tributaria. Aspectos vinculados a la Ley sobre Inocencia Fiscal
+UID:a2565955-914e-48ea-89a1-a462ced8ef42@a256.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/difusion-de-la-cultura-tributaria-aspectos-vinculados-a-la-ley-sobre-inocencia-fiscal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
+DURATION:PT2H
+DTSTART:20260430T203000Z
+SUMMARY:Cine y derecho
+UID:215b88af-6f4e-4e30-936a-c3720090cc03@215b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/a-50-anos-del-golpe-de-estado-del-24-de-marzo-de-1976-reflexiones-desde-el-constitucionalismo-democratico
+DURATION:PT2H
+DTSTART:20260325T180000Z
+SUMMARY:A 50 años del golpe de Estado del 24 de marzo de 1976. Reflexiones desde el constitucionalismo democrático
+UID:0a85f1ff-18e7-4bb3-9d81-0aa9c4d8c06c@0a85.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/a-50-anos-del-golpe-de-estado-del-24-de-marzo-de-1976-reflexiones-desde-el-constitucionalismo-democratico
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/dialogos-con-manuel-atienza
+DURATION:PT2H
+DTSTART:20260416T203000Z
+SUMMARY:Diálogos con Manuel Atienza
+UID:e8539c1e-5ef1-4c71-9f7d-f5f72b9cc870@e853.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/dialogos-con-manuel-atienza
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/verdad-poder-y-dominacion-en-la-modernidad-europeista-presentacion-del-libro-i-racionalidad-estatal-y-ciencia-moderna-i-de-juan-manuel-salgado
+DURATION:PT2H
+DTSTART:20260422T213000Z
+SUMMARY:Verdad\, poder y dominación en la modernidad europeísta. Presentación del libro Racionalidad estatal y ciencia moderna\, de Juan Manuel Salgado
+UID:b4cdb5b6-c507-473d-bd7c-81a1e5135906@b4cd.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/verdad-poder-y-dominacion-en-la-modernidad-europeista-presentacion-del-libro-i-racionalidad-estatal-y-ciencia-moderna-i-de-juan-manuel-salgado
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
+DURATION:PT2H
+DTSTART:20260525T180000Z
+SUMMARY:Seminario: "Los delitos calificados por el resultado en el derecho italiano"
+UID:6b908e80-c85b-424c-a548-b159df3f9b5f@6b90.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
+DURATION:PT2H
+DTSTART:20260407T220000Z
+SUMMARY:Seminario sobre actualización de la dogmática penal
+UID:1e74fffa-9489-4640-80ba-5deacccc50b5@1e74.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/viii-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
+DURATION:PT2H
+DTSTART:20260909T120000Z
+SUMMARY:VIII Jornadas de Investigadores/as en Formación del Instituto de Investigaciones Jurídicas y Sociales "Ambrosio Lucas Gioja"
+UID:92ce176f-df1b-424b-be20-e1fbe07d8d01@92ce.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/viii-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
 DURATION:PT2H
 DTSTART:20260505T200000Z
 SUMMARY:La desglobalización de los Derechos Humanos
-UID:335ccb65-d1e3-43e0-9ef6-74a4dd00a08a@335c.org
+UID:3c08d310-22f9-44ed-85d8-a5f687d0012c@3c08.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
 END:VEVENT
 BEGIN:VEVENT
@@ -62,135 +166,31 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/programa-de-c
 DURATION:PT2H
 DTSTART:20260325T200000Z
 SUMMARY:Programa de capacitación: Abogados por los Pibes
-UID:326ab9e0-3911-412a-97ad-c28f6bd9362b@326a.org
+UID:212495f8-9b72-41b8-b10b-2689847d4ffa@2124.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/programa-de-capacitacion-abogados-por-los-pibes
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/visiones-del-mercosur-a-35-anos-de-su-creacion
-DURATION:PT2H
-DTSTART:20260326T213000Z
-SUMMARY:Visiones del Mercosur a 35 años de su creación
-UID:3cfc1714-fc64-4ea5-9857-cc9288944d21@3cfc.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/visiones-del-mercosur-a-35-anos-de-su-creacion
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/a-50-anos-de-la-ultima-interrupcion-del-orden-constitucional-nunca-mas
-DURATION:PT2H
-DTSTART:20260409T200000Z
-SUMMARY:A 50 años de la última interrupción del orden constitucional. Nunca más
-UID:bba8020b-4edd-4a0e-8157-4afc71c34271@bba8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/a-50-anos-de-la-ultima-interrupcion-del-orden-constitucional-nunca-mas
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-del-doctorado-honoris-causa-de-la-uba-a-mirzia-rosa-bianca
-DURATION:PT2H
-DTSTART:20260326T183000Z
-SUMMARY:Entrega del Doctorado Honoris Causa de la UBA a Mirzia Rosa Bianca
-UID:712fdd3f-b011-4969-b7ad-c95524338b80@712f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/entrega-del-doctorado-honoris-causa-de-la-uba-a-mirzia-rosa-bianca
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
-DURATION:PT2H
-DTSTART:20260407T220000Z
-SUMMARY:Seminario sobre actualización de la dogmática penal
-UID:1f07755d-5f2f-4682-80da-d525259b7ffa@1f07.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-accion-penal-y-perspectiva-de-genero-analisis-de-lege-lata-y-reconstruccion-de-lege-ferenda-del-regimen-de-la-accion-penal-argentino-i
-DURATION:PT2H
-DTSTART:20260330T210000Z
-SUMMARY:Presentación del libro Acción penal y perspectiva de género. Análisis de lege lata y reconstrucción de lege ferenda del régimen de la acción penal argentino
-UID:123a4e9e-5b8b-49d4-88ba-01e7f667f578@123a.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-accion-penal-y-perspectiva-de-genero-analisis-de-lege-lata-y-reconstruccion-de-lege-ferenda-del-regimen-de-la-accion-penal-argentino-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-reforma-de-la-legislacion-de-trabajo-por-la-llamada-ley-de-modernizacion-laboral
-DURATION:PT2H
-DTSTART:20260326T180000Z
-SUMMARY:La reforma de la legislación de trabajo por la llamada "Ley de Modernización Laboral"
-UID:94bb7c81-a26a-4ca8-b8e2-5d985be57b67@94bb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-reforma-de-la-legislacion-de-trabajo-por-la-llamada-ley-de-modernizacion-laboral
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-con-el-profesor-dr-oscar-horta
-DURATION:PT2H
-DTSTART:20260331T200000Z
-SUMMARY:Conversatorio con el Profesor Dr. Oscar Horta
-UID:b675aab2-e187-41d9-b170-94e71a725f44@b675.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-con-el-profesor-dr-oscar-horta
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
-DURATION:PT2H
-DTSTART:20260413T200000Z
-SUMMARY: Seminario de lectura y análisis sobre el libro Teoría Analítica del Derecho de Jorge Luis Rodriguez
-UID:393b08f3-19f0-4767-b354-9026e5feead4@393b.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/viii-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
-DURATION:PT2H
-DTSTART:20260909T120000Z
-SUMMARY:VIII Jornadas de Investigadores/as en Formación del Instituto de Investigaciones Jurídicas y Sociales "Ambrosio Lucas Gioja"
-UID:7db4cb95-45a2-43a3-ba0a-a083326ed2a3@7db4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/viii-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
-DURATION:PT2H
-DTSTART:20260525T180000Z
-SUMMARY:Seminario: "Los delitos calificados por el resultado en el derecho italiano"
-UID:8824d694-6051-4186-9a8e-9818b0ff39b1@8824.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-derecho-constitucional-ambiental-i-de-maria-florencia-saulino
-DURATION:PT2H
-DTSTART:20260422T210000Z
-SUMMARY:Presentación del libro Derecho Constitucional Ambiental\, de María Florencia Saulino
-UID:f7862370-6dc9-4ed3-83ee-d683d591a81b@f786.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-derecho-constitucional-ambiental-i-de-maria-florencia-saulino
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/dialogos-con-manuel-atienza
-DURATION:PT2H
-DTSTART:20260416T203000Z
-SUMMARY:Diálogos con Manuel Atienza
-UID:7121417c-81eb-4c2a-85ba-ef79e5cc5c08@7121.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/dialogos-con-manuel-atienza
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/vi-congreso-internacional-de-derecho-de-danos-y-de-los-contratos-homenaje-al-dr-alberto-j-bueres
 DURATION:PT2H
 DTSTART:20260507T030000Z
 SUMMARY:VI Congreso Internacional de Derecho de Daños y de los Contratos. Homenaje al Dr. Alberto J. Bueres
-UID:dbf790f7-7044-4548-80de-fc2c9244241b@dbf7.org
+UID:53cf3dd4-a68e-4c6b-b380-e35a9fd8ea35@53cf.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/vi-congreso-internacional-de-derecho-de-danos-y-de-los-contratos-homenaje-al-dr-alberto-j-bueres
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/verdad-poder-y-dominacion-en-la-modernidad-europeista-presentacion-del-libro-i-racionalidad-estatal-y-ciencia-moderna-i-de-juan-manuel-salgado
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-accion-penal-y-perspectiva-de-genero-analisis-de-lege-lata-y-reconstruccion-de-lege-ferenda-del-regimen-de-la-accion-penal-argentino-i
 DURATION:PT2H
-DTSTART:20260422T213000Z
-SUMMARY:Verdad\, poder y dominación en la modernidad europeísta. Presentación del libro Racionalidad estatal y ciencia moderna\, de Juan Manuel Salgado
-UID:48d32cab-45c6-4644-a2ba-d3a39ac2668c@48d3.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/verdad-poder-y-dominacion-en-la-modernidad-europeista-presentacion-del-libro-i-racionalidad-estatal-y-ciencia-moderna-i-de-juan-manuel-salgado
+DTSTART:20260330T210000Z
+SUMMARY:Presentación del libro Acción penal y perspectiva de género. Análisis de lege lata y reconstrucción de lege ferenda del régimen de la acción penal argentino
+UID:139fd685-f7c2-462c-8b91-bc09ea7ccf76@139f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-accion-penal-y-perspectiva-de-genero-analisis-de-lege-lata-y-reconstruccion-de-lege-ferenda-del-regimen-de-la-accion-penal-argentino-i
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/difusion-de-la-cultura-tributaria-aspectos-vinculados-a-la-ley-sobre-inocencia-fiscal
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
 DURATION:PT2H
-DTSTART:20260325T210000Z
-SUMMARY:Difusión de la cultura tributaria. Aspectos vinculados a la Ley sobre Inocencia Fiscal
-UID:ff8401d0-b13c-4d0b-8e2d-e6e6af263c6c@ff84.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/difusion-de-la-cultura-tributaria-aspectos-vinculados-a-la-ley-sobre-inocencia-fiscal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-comercio-sexual-y-derechos-humanos-i-de-alexia-sofia-alonso
-DURATION:PT2H
-DTSTART:20260327T200000Z
-SUMMARY:Presentación del libro Comercio Sexual y Derechos Humanos de Alexia Sofía Alonso
-UID:0c73e2ea-d286-4b2a-b011-bd64076070e6@0c73.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-comercio-sexual-y-derechos-humanos-i-de-alexia-sofia-alonso
+DTSTART:20260413T200000Z
+SUMMARY: Seminario de lectura y análisis sobre el libro Teoría Analítica del Derecho de Jorge Luis Rodriguez
+UID:286e9ccb-1fce-46b6-b648-f17313dff98b@286e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
 END:VEVENT
 END:VCALENDAR
