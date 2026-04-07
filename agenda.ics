@@ -2,51 +2,107 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-analisis-de-la-ley-de-modernizacion-laboral
+DURATION:PT2H
+DTSTART:20260415T210000Z
+SUMMARY:Jornada "Análisis de la Ley de Modernización Laboral"
+UID:f77d78b9-0b2e-41d5-83d9-21826308cb01@f77d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-analisis-de-la-ley-de-modernizacion-laboral
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
+DURATION:PT2H
+DTSTART:20260420T173000Z
+SUMMARY:La doctrina del control de convencionalidad. A veinte años de su creación
+UID:bbbf716d-db86-41d0-b539-0011325cc31c@bbbf.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/los-derechos-sexuales-en-la-vejez-el-emblematico-caso-carvalho-de-souza-moraes-vs-portugal
+DURATION:PT2H
+DTSTART:20260429T173000Z
+SUMMARY:Los derechos sexuales en la vejez. El emblemático caso Carvalho de Souza Moraes vs. Portugal
+UID:3a6212bc-fe50-4aa5-be64-58a9806374d0@3a62.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/los-derechos-sexuales-en-la-vejez-el-emblematico-caso-carvalho-de-souza-moraes-vs-portugal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-restricciones-no-arancelarias-en-el-comercio-internacional-de-mercancias-i
+DURATION:PT2H
+DTSTART:20260408T213000Z
+SUMMARY:Presentación del libro Restricciones No Arancelarias en el Comercio Internacional de Mercancías
+UID:6026d37f-9845-4d35-a233-2b0e3d13926b@6026.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-restricciones-no-arancelarias-en-el-comercio-internacional-de-mercancias-i
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-bioetica-juridica-i-de-eduardo-tinant
 DURATION:PT2H
 DTSTART:20260429T210000Z
 SUMMARY:Presentación del libro Bioética jurídica de Eduardo Tinant 
-UID:810c18da-a604-4fa1-9fe2-95cf7936a23d@810c.org
+UID:dfb13e5b-e294-4386-98df-50e6b48873e8@dfb1.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-bioetica-juridica-i-de-eduardo-tinant
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-la-catedra-de-daniel-pastor
-DURATION:PT2H
-DTSTART:20260424T200000Z
-SUMMARY:Seminario de la Cátedra de Daniel Pastor
-UID:a2997fb8-7750-4001-a0a2-e8ce28c90882@a299.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-la-catedra-de-daniel-pastor
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-precedente-de-la-csjn-sobre-multiparentalidad
-DURATION:PT2H
-DTSTART:20260410T210000Z
-SUMMARY:Jornada "Precedente de la CSJN sobre multiparentalidad"
-UID:aeea113c-093a-46cf-82dd-ebff160fd9d4@aeea.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-precedente-de-la-csjn-sobre-multiparentalidad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-prision-preventiva-en-argentina-y-chile-y-presentacion-de-la-obra-colectiva-i-la-excarcelacion-i
 DURATION:PT2H
 DTSTART:20260408T183000Z
 SUMMARY:Seminario sobre prisión preventiva en Argentina y Chile y presentación de la obra colectiva La Excarcelación
-UID:e4af143c-6da9-4e61-a8aa-f8a755f94d0b@e4af.org
+UID:72978b8d-3d4e-4c3d-a265-5e02421d2ba0@7297.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-prision-preventiva-en-argentina-y-chile-y-presentacion-de-la-obra-colectiva-i-la-excarcelacion-i
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-declaracion-simplificada-caracteres-generales-y-discrepancias-significativas-el-efecto-liberatorio-del-pago-y-la-presuncion-de-exactitud-blanqueo-popular-permanente-para-que-se-saquen-los-ahorros-del-colchon
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
 DURATION:PT2H
-DTSTART:20260408T210000Z
-SUMMARY:Jornada: La declaración simplificada: caracteres generales y discrepancias significativas. El efecto liberatorio del pago y la presunción de exactitud. ¿Blanqueo popular permanente para que se saquen los ahorros del colchón?
-UID:b4761bc3-ec08-4fc1-849a-0010604a4500@b476.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-declaracion-simplificada-caracteres-generales-y-discrepancias-significativas-el-efecto-liberatorio-del-pago-y-la-presuncion-de-exactitud-blanqueo-popular-permanente-para-que-se-saquen-los-ahorros-del-colchon
+DTSTART:20260414T180000Z
+SUMMARY:Seminario de lectura inter-Cátedras: "El debate Soler/Carrió en torno a la interpretación jurídica"
+UID:5f1ee00f-4374-4180-b91f-e686ec4880a0@5f1e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/dialogos-con-manuel-atienza
+DURATION:PT2H
+DTSTART:20260416T203000Z
+SUMMARY:Diálogos con Manuel Atienza
+UID:15566242-6119-4a82-806b-c4d667e50328@1556.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/dialogos-con-manuel-atienza
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
+DURATION:PT2H
+DTSTART:20260407T220000Z
+SUMMARY:Seminario sobre actualización de la dogmática penal
+UID:94be299f-9fa7-4043-80e1-537c8fa9891e@94be.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-precedente-de-la-csjn-sobre-multiparentalidad
+DURATION:PT2H
+DTSTART:20260410T210000Z
+SUMMARY:Jornada "Precedente de la CSJN sobre multiparentalidad"
+UID:efb9a988-c747-4416-b3ac-b52267099638@efb9.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-precedente-de-la-csjn-sobre-multiparentalidad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-sentido-comun-y-derecho
+DURATION:PT2H
+DTSTART:20260409T213000Z
+SUMMARY:Conferencia "Sentido común y derecho"
+UID:f214eb70-36f4-4628-92c9-ce29f7703c23@f214.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-sentido-comun-y-derecho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-sobre-letalidad-policial-y-penal-en-argentina-y-brasil
+DURATION:PT2H
+DTSTART:20260413T190000Z
+SUMMARY:Seminario Internacional sobre letalidad policial y penal en Argentina y Brasil 
+UID:80d33940-ccca-403b-af20-dffa87facaaf@80d3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-sobre-letalidad-policial-y-penal-en-argentina-y-brasil
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/viii-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
 DURATION:PT2H
 DTSTART:20260909T120000Z
 SUMMARY:VIII Jornadas de Investigadores/as en Formación del Instituto de Investigaciones Jurídicas y Sociales "Ambrosio Lucas Gioja"
-UID:65a1c654-61a0-4524-933a-84fae4dc098d@65a1.org
+UID:6c84bb76-0dad-4e95-812c-c100c934f2ef@6c84.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/viii-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +110,7 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/a-50-anos-de-
 DURATION:PT2H
 DTSTART:20260409T200000Z
 SUMMARY:A 50 años de la última interrupción del orden constitucional. Nunca más
-UID:115fccf3-5376-43cf-9f5d-1e8c3e687953@115f.org
+UID:7c2fda8c-7b97-4245-8d2b-e6f7545672c3@7c2f.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/a-50-anos-de-la-ultima-interrupcion-del-orden-constitucional-nunca-mas
 END:VEVENT
 BEGIN:VEVENT
@@ -62,183 +118,143 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-la-e
 DURATION:PT2H
 DTSTART:20260423T200000Z
 SUMMARY:Jornadas "La entrada en vigor del Convenio de La Haya de 1996 sobre Protección de Niños\, Niñas y Adolescentes en Argentina"
-UID:9ec89a6c-75e6-4b39-8150-a5924ac2bb3c@9ec8.org
+UID:10033c40-3f37-4fb0-92bc-83e8db06f15c@1003.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-la-entrada-en-vigor-del-convenio-de-la-haya-de-1996-sobre-proteccion-de-ninos-ninas-y-adolescentes-en-argentina
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/verdad-poder-y-dominacion-en-la-modernidad-europeista-presentacion-del-libro-i-racionalidad-estatal-y-ciencia-moderna-i-de-juan-manuel-salgado
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-la-catedra-de-daniel-pastor
 DURATION:PT2H
-DTSTART:20260422T213000Z
-SUMMARY:Verdad\, poder y dominación en la modernidad europeísta. Presentación del libro Racionalidad estatal y ciencia moderna\, de Juan Manuel Salgado
-UID:5959617a-62c8-4ee0-ab1e-7a4717007a2d@5959.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/verdad-poder-y-dominacion-en-la-modernidad-europeista-presentacion-del-libro-i-racionalidad-estatal-y-ciencia-moderna-i-de-juan-manuel-salgado
+DTSTART:20260424T200000Z
+SUMMARY:Seminario de la Cátedra de Daniel Pastor
+UID:0b62c2d1-018f-413c-b2fd-3331c60a775c@0b62.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-la-catedra-de-daniel-pastor
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-gobernanza-y-litigios-ambientales-perspectivas-desde-china-en-clave-comparativa
 DURATION:PT2H
-DTSTART:20260430T203000Z
-SUMMARY:Cine y derecho
-UID:b6966af8-ff6f-4d59-ba0b-e012731f7080@b696.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-inteligencia-artificial-ia-y-derechos-humanos
-DURATION:PT2H
-DTSTART:20260506T130000Z
-SUMMARY:Jornada sobre Inteligencia Artificial (IA) y Derechos Humanos
-UID:58a88d15-3c0a-4eb6-a553-0660aa73fe00@58a8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-inteligencia-artificial-ia-y-derechos-humanos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-de-tecnicas-para-la-litigacion-penal
-DURATION:PT2H
-DTSTART:20260401T160000Z
-SUMMARY:Taller de técnicas para la litigación penal
-UID:c24c1908-7924-4cae-842d-2e773dbed2d3@c24c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-de-tecnicas-para-la-litigacion-penal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-restricciones-no-arancelarias-en-el-comercio-internacional-de-mercancias-i
-DURATION:PT2H
-DTSTART:20260408T213000Z
-SUMMARY:Presentación del libro Restricciones No Arancelarias en el Comercio Internacional de Mercancías
-UID:76a87444-cf04-44ce-ba88-59aa89d04987@76a8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-restricciones-no-arancelarias-en-el-comercio-internacional-de-mercancias-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/los-derechos-sexuales-en-la-vejez-el-emblematico-caso-carvalho-de-souza-moraes-vs-portugal
-DURATION:PT2H
-DTSTART:20260429T173000Z
-SUMMARY:Los derechos sexuales en la vejez. El emblemático caso Carvalho de Souza Moraes vs. Portugal
-UID:87fb9acc-fd69-4e02-8ca8-bb0ca518c87c@87fb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/los-derechos-sexuales-en-la-vejez-el-emblematico-caso-carvalho-de-souza-moraes-vs-portugal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
-DURATION:PT2H
-DTSTART:20260525T180000Z
-SUMMARY:Seminario: "Los delitos calificados por el resultado en el derecho italiano"
-UID:397616b8-cf4e-4613-9ec2-a477967e2d1a@3976.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
-DURATION:PT2H
-DTSTART:20260413T200000Z
-SUMMARY: Seminario de lectura y análisis sobre el libro Teoría Analítica del Derecho de Jorge Luis Rodriguez
-UID:172a4d1c-2221-4440-a2b5-f597bed238ee@172a.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-sentido-comun-y-derecho
-DURATION:PT2H
-DTSTART:20260409T213000Z
-SUMMARY:Conferencia "Sentido común y derecho"
-UID:c618ec2d-f927-4638-b6d4-c8cf408a36a9@c618.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-sentido-comun-y-derecho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/dialogos-con-manuel-atienza
-DURATION:PT2H
-DTSTART:20260416T203000Z
-SUMMARY:Diálogos con Manuel Atienza
-UID:24b671e9-74c4-460d-bef7-ba303c54523c@24b6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/dialogos-con-manuel-atienza
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
-DURATION:PT2H
-DTSTART:20260414T180000Z
-SUMMARY:Seminario de lectura inter-Cátedras: "El debate Soler/Carrió en torno a la interpretación jurídica"
-UID:ee45c334-356f-4476-8195-381308dd3487@ee45.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
-DURATION:PT2H
-DTSTART:20260505T200000Z
-SUMMARY:La desglobalización de los Derechos Humanos
-UID:ea5047dc-6b14-429b-a097-67392e5274c0@ea50.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
-DURATION:PT2H
-DTSTART:20260407T220000Z
-SUMMARY:Seminario sobre actualización de la dogmática penal
-UID:9996c005-1e34-4f0d-90dc-58821e2b9953@9996.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-pedagogica-abordaje-de-situaciones-conflictivas-en-el-ambito-academico
-DURATION:PT2H
-DTSTART:20260408T213000Z
-SUMMARY:Jornada pedagógica - Abordaje de situaciones conflictivas en el ámbito académico
-UID:fa467e21-a1b1-4c02-9d9e-1ff1ae93990e@fa46.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-pedagogica-abordaje-de-situaciones-conflictivas-en-el-ambito-academico
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-derecho-constitucional-ambiental-i-de-maria-florencia-saulino
-DURATION:PT2H
-DTSTART:20260422T210000Z
-SUMMARY:Presentación del libro Derecho Constitucional Ambiental\, de María Florencia Saulino
-UID:f95f26f6-aef7-4bb0-ad45-e555b993fdb3@f95f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-derecho-constitucional-ambiental-i-de-maria-florencia-saulino
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/feria-de-empleos-2026-etapa-presencial
-DURATION:PT2H
-DTSTART:20260408T190000Z
-SUMMARY:Feria de empleos 2026 - Etapa presencial
-UID:a6bb8421-fce2-4ba5-8a33-180f69923309@a6bb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/feria-de-empleos-2026-etapa-presencial
+DTSTART:20260407T210000Z
+SUMMARY:Derecho\, Gobernanza y Litigios Ambientales: Perspectivas desde China en clave comparativa
+UID:39744687-8a3d-4616-a9fc-9ada35f86d8b@3974.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-gobernanza-y-litigios-ambientales-perspectivas-desde-china-en-clave-comparativa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/legalidad-tributaria-y-facultades-delegadas-un-analisis-comparado-a-partir-del-precedente-learning-resources-inc-et-al-v-trump-president-of-the-united-states-et-al
 DURATION:PT2H
 DTSTART:20260427T210000Z
 SUMMARY:Legalidad Tributaria y Facultades Delegadas: Un análisis comparado a partir del precedente "Learning Resources\, Inc.\, ET AL. v. Trump\, President of the United States\, ET AL"
-UID:4793a71a-4713-49c7-880d-17eac82746dc@4793.org
+UID:651a6fa0-6ead-4d18-a2f8-8b74b7ff6382@651a.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/legalidad-tributaria-y-facultades-delegadas-un-analisis-comparado-a-partir-del-precedente-learning-resources-inc-et-al-v-trump-president-of-the-united-states-et-al
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-sobre-letalidad-policial-y-penal-en-argentina-y-brasil
-DURATION:PT2H
-DTSTART:20260413T183000Z
-SUMMARY:Seminario Internacional sobre letalidad policial y penal en Argentina y Brasil 
-UID:191d3a18-244c-4ce0-878c-c4ad68598249@191d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-sobre-letalidad-policial-y-penal-en-argentina-y-brasil
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-analisis-de-la-ley-de-modernizacion-laboral
-DURATION:PT2H
-DTSTART:20260415T210000Z
-SUMMARY:Jornada "Análisis de la Ley de Modernización Laboral"
-UID:91e68bab-c76a-4669-81ba-a5f5eb40cc43@91e6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-analisis-de-la-ley-de-modernizacion-laboral
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-de-escritura-academica-organizado-por-la-revista-lecciones-y-ensayos-y-el-programa-de-capacitacion-institucional-procai
-DURATION:PT2H
-DTSTART:20260409T220000Z
-SUMMARY:Taller de escritura académica organizado por la Revista Lecciones y Ensayos y el Programa de Capacitación Institucional (ProCaI)
-UID:fa70371b-1885-4a98-ae1a-393ec85b79a7@fa70.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-de-escritura-academica-organizado-por-la-revista-lecciones-y-ensayos-y-el-programa-de-capacitacion-institucional-procai
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
-DURATION:PT2H
-DTSTART:20260420T173000Z
-SUMMARY:La doctrina del control de convencionalidad. A veinte años de su creación
-UID:8b387f60-6b03-434a-bd18-53673acb629e@8b38.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-doctrina-del-control-de-convencionalidad-a-veinte-anos-de-su-creacion
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/vi-congreso-internacional-de-derecho-de-danos-y-de-los-contratos-homenaje-al-dr-alberto-j-bueres
 DURATION:PT2H
 DTSTART:20260507T030000Z
 SUMMARY:VI Congreso Internacional de Derecho de Daños y de los Contratos. Homenaje al Dr. Alberto J. Bueres
-UID:3d108756-e3d0-47a2-9427-6798745db79b@3d10.org
+UID:38d4dace-dae4-4736-9a33-620f007569be@38d4.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/vi-congreso-internacional-de-derecho-de-danos-y-de-los-contratos-homenaje-al-dr-alberto-j-bueres
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-inteligencia-artificial-ia-y-derechos-humanos
+DURATION:PT2H
+DTSTART:20260506T130000Z
+SUMMARY:Jornada sobre Inteligencia Artificial (IA) y Derechos Humanos
+UID:c71d7cf0-a198-48c8-ac13-fe56e31a1633@c71d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-sobre-inteligencia-artificial-ia-y-derechos-humanos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/feria-de-empleos-2026-charlas-de-insercion-profesional
+DURATION:PT2H
+DTSTART:20260408T190000Z
+SUMMARY:Feria de empleos 2026: Charlas de inserción profesional
+UID:32e56a5d-b836-4f7a-bf09-7d18b17e2da8@32e5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/feria-de-empleos-2026-charlas-de-insercion-profesional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/verdad-poder-y-dominacion-en-la-modernidad-europeista-presentacion-del-libro-i-racionalidad-estatal-y-ciencia-moderna-i-de-juan-manuel-salgado
+DURATION:PT2H
+DTSTART:20260422T213000Z
+SUMMARY:Verdad\, poder y dominación en la modernidad europeísta. Presentación del libro Racionalidad estatal y ciencia moderna\, de Juan Manuel Salgado
+UID:ac43e8f8-f866-4fd8-81a7-c4cf74ebc03c@ac43.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/verdad-poder-y-dominacion-en-la-modernidad-europeista-presentacion-del-libro-i-racionalidad-estatal-y-ciencia-moderna-i-de-juan-manuel-salgado
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/feria-de-empleos-2026-etapa-presencial
+DURATION:PT2H
+DTSTART:20260408T190000Z
+SUMMARY:Feria de empleos 2026 - Etapa presencial
+UID:d672c37e-9229-46b4-98b9-73b8f1223d8f@d672.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/feria-de-empleos-2026-etapa-presencial
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-derecho-constitucional-ambiental-i-de-maria-florencia-saulino
+DURATION:PT2H
+DTSTART:20260422T210000Z
+SUMMARY:Presentación del libro Derecho Constitucional Ambiental\, de María Florencia Saulino
+UID:7bd0115e-4c92-4691-b82c-28f6bf3c6a58@7bd0.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-derecho-constitucional-ambiental-i-de-maria-florencia-saulino
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-de-tecnicas-para-la-litigacion-penal
+DURATION:PT2H
+DTSTART:20260401T160000Z
+SUMMARY:Taller de técnicas para la litigación penal
+UID:2169749d-64ff-4e88-a365-71bc90ea1400@2169.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-de-tecnicas-para-la-litigacion-penal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-declaracion-simplificada-caracteres-generales-y-discrepancias-significativas-el-efecto-liberatorio-del-pago-y-la-presuncion-de-exactitud-blanqueo-popular-permanente-para-que-se-saquen-los-ahorros-del-colchon
+DURATION:PT2H
+DTSTART:20260408T210000Z
+SUMMARY:Jornada: La declaración simplificada: caracteres generales y discrepancias significativas. El efecto liberatorio del pago y la presunción de exactitud. ¿Blanqueo popular permanente para que se saquen los ahorros del colchón?
+UID:259a39fa-66d8-4278-8f08-07fd03e1f72a@259a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-declaracion-simplificada-caracteres-generales-y-discrepancias-significativas-el-efecto-liberatorio-del-pago-y-la-presuncion-de-exactitud-blanqueo-popular-permanente-para-que-se-saquen-los-ahorros-del-colchon
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
+DURATION:PT2H
+DTSTART:20260505T200000Z
+SUMMARY:La desglobalización de los Derechos Humanos
+UID:1dcf1662-d397-4a1b-863e-673095a2b150@1dcf.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-desglobalizacion-de-los-derechos-humanos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-pedagogica-abordaje-de-situaciones-conflictivas-en-el-ambito-academico
+DURATION:PT2H
+DTSTART:20260408T213000Z
+SUMMARY:Jornada pedagógica - Abordaje de situaciones conflictivas en el ámbito académico
+UID:5b3b5190-27a0-44b1-86ad-dd9d039e9e79@5b3b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-pedagogica-abordaje-de-situaciones-conflictivas-en-el-ambito-academico
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
+DURATION:PT2H
+DTSTART:20260525T180000Z
+SUMMARY:Seminario: "Los delitos calificados por el resultado en el derecho italiano"
+UID:ea48c496-172c-432a-b525-1b2ce44c58ae@ea48.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-los-delitos-calificados-por-el-resultado-en-el-derecho-italiano
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
+DURATION:PT2H
+DTSTART:20260430T203000Z
+SUMMARY:Cine y derecho
+UID:0da1829a-a547-4acb-9052-d5e661bc716c@0da1.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-de-escritura-academica-organizado-por-la-revista-lecciones-y-ensayos-y-el-programa-de-capacitacion-institucional-procai
+DURATION:PT2H
+DTSTART:20260409T220000Z
+SUMMARY:Taller de escritura académica organizado por la Revista Lecciones y Ensayos y el Programa de Capacitación Institucional (ProCaI)
+UID:32fc92f9-7926-4112-ad50-47dcddfc201e@32fc.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-de-escritura-academica-organizado-por-la-revista-lecciones-y-ensayos-y-el-programa-de-capacitacion-institucional-procai
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
+DURATION:PT2H
+DTSTART:20260413T200000Z
+SUMMARY: Seminario de lectura y análisis sobre el libro Teoría Analítica del Derecho de Jorge Luis Rodriguez
+UID:ef065bae-9153-4100-af10-b85d7ca9a09b@ef06.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
 END:VEVENT
 END:VCALENDAR
