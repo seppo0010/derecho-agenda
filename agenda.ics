@@ -2,195 +2,147 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/poblaciones-bajo-control-de-grupos-armados-la-gobernanza-rebelde-y-el-derecho-internacional-publico
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/difusion-de-la-cultura-tributaria
 DURATION:PT2H
-DTSTART:20260617T210000Z
-SUMMARY:Poblaciones bajo control de grupos armados: la gobernanza rebelde y el derecho internacional público
-UID:c70cfbdf-6f3d-4379-a9ab-d3c47109a967@c70c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/poblaciones-bajo-control-de-grupos-armados-la-gobernanza-rebelde-y-el-derecho-internacional-publico
+DTSTART:20260609T200000Z
+SUMMARY:Difusión de la cultura tributaria
+UID:926ed5f6-67ac-4c5a-87a9-7abd10cbf7dd@926e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/difusion-de-la-cultura-tributaria
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-argumentacion-metodologia-y-herramientas-para-la-redaccion-juridica-con-herramientas-de-la-logica-argumental-para-la-formacion-academica-y-el-ejercicio-profesional-falacias-argumentos-en-el-derecho
+DURATION:PT2H
+DTSTART:20260609T200000Z
+SUMMARY:Taller "Argumentación\, metodología y herramientas para la redacción jurídica con herramientas de la lógica argumental para la formación académica y el ejercicio profesional. Falacias. Argumentos en el derecho"
+UID:615afed4-9a1d-4efc-a780-b83b1ac7bea5@615a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-argumentacion-metodologia-y-herramientas-para-la-redaccion-juridica-con-herramientas-de-la-logica-argumental-para-la-formacion-academica-y-el-ejercicio-profesional-falacias-argumentos-en-el-derecho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/profundizacion-de-cuestiones-vinculadas-a-la-prevencion-de-la-corrupcion-en-el-modelo-institucional-italiano
+DURATION:PT2H
+DTSTART:20260625T200000Z
+SUMMARY:Profundización de cuestiones vinculadas a la prevención de la corrupción en el modelo institucional italiano
+UID:0d352910-4479-486a-bd04-5c6875b0b138@0d35.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/profundizacion-de-cuestiones-vinculadas-a-la-prevencion-de-la-corrupcion-en-el-modelo-institucional-italiano
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencias-gratuitas-de-capacitacion-profesional
+DURATION:PT2H
+DTSTART:20260609T143000Z
+SUMMARY:Conferencias gratuitas de capacitación profesional
+UID:0a932d08-0970-434b-9b2f-1db8cb64f665@0a93.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencias-gratuitas-de-capacitacion-profesional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-libro-i-responsabilidad-del-estado-por-su-inactividad-i
+DURATION:PT2H
+DTSTART:20260622T210000Z
+SUMMARY:Presentación de libro Responsabilidad del Estado por su inactividad
+UID:475c3e12-80b1-49f0-8f09-17d6bb9d77ed@475c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-libro-i-responsabilidad-del-estado-por-su-inactividad-i
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/asil-abroad-buenos-aires-american-society-of-international-law-asil
 DURATION:PT2H
 DTSTART:20260706T130000Z
 SUMMARY:Asil Abroad Buenos Aires - American Society of International Law (ASIL)
-UID:daed18a1-1a20-4e80-80b5-48373f76c31e@daed.org
+UID:ed3746ec-c394-4ecd-b76e-b2c9509ea550@ed37.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/asil-abroad-buenos-aires-american-society-of-international-law-asil
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
+DURATION:PT2H
+DTSTART:20261027T180000Z
+SUMMARY:Seminario de lectura inter-Cátedras: "El debate Soler/Carrió en torno a la interpretación jurídica"
+UID:95a36f39-9e01-453d-aae8-e9556ecf7dec@95a3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/whistleblowing-y-proteccion-de-denunciantes-transparencia-prevencion-de-delitos-y-corrupcion-compliance-y-responsabilidad-penal-de-las-personas-juridicas-dialogo-con-el-derecho-administrativo
+DURATION:PT2H
+DTSTART:20260624T190000Z
+SUMMARY:Whistleblowing y protección de denunciantes: transparencia\, prevención de delitos y corrupción. Compliance y responsabilidad penal de las personas jurídicas. Diálogo con el Derecho administrativo
+UID:7479422f-fc79-4fe9-b584-853f28ed6452@7479.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/whistleblowing-y-proteccion-de-denunciantes-transparencia-prevencion-de-delitos-y-corrupcion-compliance-y-responsabilidad-penal-de-las-personas-juridicas-dialogo-con-el-derecho-administrativo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-crisis-del-multilateralismo
 DURATION:PT2H
 DTSTART:20260624T213000Z
 SUMMARY:La crisis del multilateralismo
-UID:5c85b1fa-2057-4bd4-bd33-7b841feda2e0@5c85.org
+UID:b81257d1-1b48-4a67-9472-6526c9c33fec@b812.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-crisis-del-multilateralismo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/los-retos-de-la-inteligencia-artificial-exposicion-y-dialogo-con-el-profesor-james-cooper
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-tributario-y-financiero-aspectos-introductorios-problemas-clasicos-y-debates-actuales
 DURATION:PT2H
-DTSTART:20260623T210000Z
-SUMMARY:Los retos de la inteligencia artificial. Exposición y diálogo con el profesor James Cooper
-UID:6943f3db-2821-461a-b169-46422e717242@6943.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/los-retos-de-la-inteligencia-artificial-exposicion-y-dialogo-con-el-profesor-james-cooper
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/debates-sobre-ia-y-prision-preventiva
-DURATION:PT2H
-DTSTART:20260609T200000Z
-SUMMARY:Debates sobre IA y prisión preventiva
-UID:c8efcaaf-27a9-4251-b99c-b43534a0ea88@c8ef.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/debates-sobre-ia-y-prision-preventiva
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-rediseno-de-la-relacion-juridico-tributaria
-DURATION:PT2H
-DTSTART:20260608T210000Z
-SUMMARY:El rediseño de la relación jurídico tributaria
-UID:d067d9d7-865f-498e-8253-5308a3ed6840@d067.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-rediseno-de-la-relacion-juridico-tributaria
+DTSTART:20260610T210000Z
+SUMMARY:Derecho penal tributario y financiero: aspectos introductorios\, problemas clásicos y debates actuales
+UID:8ac918ed-b2f8-44c0-b136-1f2ddbdb4790@8ac9.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-tributario-y-financiero-aspectos-introductorios-problemas-clasicos-y-debates-actuales
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-divina-comedia-y-el-castigo-el-viaje-estetico-de-dante-alighieri
 DURATION:PT2H
 DTSTART:20260831T213000Z
 SUMMARY:La Divina Comedia y el castigo. El viaje estético de Dante Alighieri
-UID:32f2597b-3b82-4bcf-a430-0f01e5f32a52@32f2.org
+UID:0e64fcd7-b868-485b-bc2b-fedf95e4e7bf@0e64.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-divina-comedia-y-el-castigo-el-viaje-estetico-de-dante-alighieri
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
-DURATION:PT2H
-DTSTART:20260615T200000Z
-SUMMARY: Seminario de lectura y análisis sobre el libro Teoría Analítica del Derecho de Jorge Luis Rodriguez
-UID:25d514c4-5986-46ac-841c-d2b97a92376f@25d5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/ix-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
 DURATION:PT2H
 DTSTART:20260909T120000Z
 SUMMARY:IX Jornadas de Investigadores/as en Formación del Instituto de Investigaciones Jurídicas y Sociales "Ambrosio Lucas Gioja"
-UID:1e473ffd-d039-42f0-82ce-95a9962f4ddd@1e47.org
+UID:610b6708-17b0-4960-ba8a-0b316b937dd9@610b.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/ix-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevos-significados-en-torno-a-la-vejez-y-los-vinculos-creativos-que-descubre-y-crea
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-estudios-sobre-la-prision-una-mirada-desde-la-historia-y-el-derecho
 DURATION:PT2H
-DTSTART:20260617T170000Z
-SUMMARY:Nuevos significados en torno a la vejez y los vínculos creativos que descubre y crea
-UID:27048510-572f-4f1d-98e8-59b08441ed16@2704.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevos-significados-en-torno-a-la-vejez-y-los-vinculos-creativos-que-descubre-y-crea
+DTSTART:20260825T200000Z
+SUMMARY:Seminario internacional - Estudios sobre la prisión: una mirada desde la Historia y el Derecho
+UID:14b7640a-cde1-4c20-a003-50cfd86e1307@14b7.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-estudios-sobre-la-prision-una-mirada-desde-la-historia-y-el-derecho
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/intercambio-automatico-de-informacion-tributaria-usos-y-no-usos-por-parte-de-las-administraciones-tributarias-a-casi-10-anos-de-su-implementacion
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-de-capacitacion-ambiental
 DURATION:PT2H
-DTSTART:20260617T160000Z
-SUMMARY:Intercambio automático de información tributaria. Usos y no usos por parte de las administraciones tributarias a casi 10 años de su implementación
-UID:680e8de2-cf08-41c3-b80d-a34581f69734@680e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/intercambio-automatico-de-informacion-tributaria-usos-y-no-usos-por-parte-de-las-administraciones-tributarias-a-casi-10-anos-de-su-implementacion
+DTSTART:20260610T210000Z
+SUMMARY:Jornadas de capacitación ambiental
+UID:003eddfd-1022-4a2f-b2b1-82210bf43bc1@003e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-de-capacitacion-ambiental
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/propiedad-en-juicio-civilistas-y-procesalistas-ante-la-defensa-de-los-derechos-reales
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
 DURATION:PT2H
-DTSTART:20260928T113000Z
-SUMMARY:Propiedad en juicio. Civilistas y procesalistas ante la defensa de los derechos reales
-UID:c33ecfff-fdc4-43e1-b30f-ff006b069213@c33e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/propiedad-en-juicio-civilistas-y-procesalistas-ante-la-defensa-de-los-derechos-reales
+DTSTART:20260615T200000Z
+SUMMARY: Seminario de lectura y análisis sobre el libro Teoría Analítica del Derecho de Jorge Luis Rodriguez
+UID:954fb46e-a7a7-4d90-abfd-0841d8fb7c8e@954f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-de-helmut-ditsch
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/repensando-a-alberdi-en-el-siglo-xxi-uno-de-los-mayores-intelectuales-argentinos-y-el-padre-de-la-cn
 DURATION:PT2H
-DTSTART:20260708T200000Z
-SUMMARY:Conversatorio de Helmut Ditsch
-UID:769197de-678a-4323-b48e-5b183a638862@7691.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-de-helmut-ditsch
+DTSTART:20260708T210000Z
+SUMMARY:Repensando a Alberdi en el siglo XXI: uno de los mayores intelectuales argentinos y el padre de la CN
+UID:6d0edf4c-7005-4000-90f7-fde14f6c5d7b@6d0e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/repensando-a-alberdi-en-el-siglo-xxi-uno-de-los-mayores-intelectuales-argentinos-y-el-padre-de-la-cn
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/ii-jornadas-intercatedras-de-derecho-internacional-privado
-DURATION:PT2H
-DTSTART:20260629T180000Z
-SUMMARY:II Jornadas Intercátedras de Derecho internacional privado
-UID:baeb107b-461e-447d-a29e-a5ff0aaea265@baeb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/ii-jornadas-intercatedras-de-derecho-internacional-privado
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/difusion-de-la-cultura-tributaria
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-articulo-i-the-democratic-promise-of-living-international-law-i
 DURATION:PT2H
 DTSTART:20260609T200000Z
-SUMMARY:Difusión de la cultura tributaria
-UID:d15eb1db-b24d-425b-b009-dfd721ac367b@d15e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/difusion-de-la-cultura-tributaria
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/ciclo-dialogando-desde-el-sur-sesion-en-memoria-de-la-dra-tania-mota-de-oliveira
-DURATION:PT2H
-DTSTART:20260716T210000Z
-SUMMARY:Ciclo Dialogando desde el Sur. Sesión en memoria de la Dra. Tânia Mota de Oliveira
-UID:d60cc072-0ac5-4e93-a363-d67561915c62@d60c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/ciclo-dialogando-desde-el-sur-sesion-en-memoria-de-la-dra-tania-mota-de-oliveira
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/whistleblowing-interes-publico-y-responsabilidad-penal-problemas-abiertos-en-perspectiva-comparada
-DURATION:PT2H
-DTSTART:20260622T200000Z
-SUMMARY:Whistleblowing\, interés público y responsabilidad penal: problemas abiertos en perspectiva comparada
-UID:7e5a5c9e-a90f-4317-8c01-b8ae5eeb8dba@7e5a.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/whistleblowing-interes-publico-y-responsabilidad-penal-problemas-abiertos-en-perspectiva-comparada
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-la-biblioteca-de-derecho-romano-dr-jose-carlos-costa
-DURATION:PT2H
-DTSTART:20260701T210000Z
-SUMMARY:Presentación de la Biblioteca de Derecho Romano Dr. José Carlos Costa
-UID:575613c8-3193-4e31-9639-ab226cd8412a@5756.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-la-biblioteca-de-derecho-romano-dr-jose-carlos-costa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
-DURATION:PT2H
-DTSTART:20261118T110000Z
-SUMMARY:Fórum II de Buenos Aires. El Derecho y nuevos desafíos políticos\, económicos\, sociales y ambientales en la época contemporánea: Unión Europea y Mercosur
-UID:4126a31d-4c1a-4024-9069-82de7d4eeff9@4126.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-desarrollo-sistematico-de-la-teoria-trialista
-DURATION:PT2H
-DTSTART:20260611T213000Z
-SUMMARY:Conferencia: Desarrollo sistemático de la teoría trialista
-UID:190065b1-4df5-45cf-b4c6-328b99314f2a@1900.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-desarrollo-sistematico-de-la-teoria-trialista
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/30-aniversario-de-la-ley-de-ejecucion-de-la-pena-privativa-de-la-libertad
-DURATION:PT2H
-DTSTART:20260811T203000Z
-SUMMARY:30º Aniversario de la ley de ejecución de la pena privativa de la libertad
-UID:114d28b9-a901-4ad0-93e5-2139e808c41d@114d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/30-aniversario-de-la-ley-de-ejecucion-de-la-pena-privativa-de-la-libertad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-libro-i-ley-n-24240-de-defensa-del-consumidor-comentada-tomos-i-y-ii-i-de-sergio-sebastian-barocelli
-DURATION:PT2H
-DTSTART:20260610T190000Z
-SUMMARY:Presentación de libro Ley Nº 24240 de defensa del consumidor comentada\, Tomos I y II de Sergio Sebastián Barocelli
-UID:7d430bdd-29c8-4789-a071-2b078c6b152a@7d43.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-libro-i-ley-n-24240-de-defensa-del-consumidor-comentada-tomos-i-y-ii-i-de-sergio-sebastian-barocelli
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-ciencia-y-delito-en-argentina-estudios-carcelarios-sobre-delincuencia-1906-1946-i
-DURATION:PT2H
-DTSTART:20260612T230000Z
-SUMMARY:Presentación del libro Ciencia y delito en Argentina: estudios carcelarios sobre delincuencia (1906-1946)
-UID:9c22fdb7-df7d-48a2-88c4-c9438a5210a7@9c22.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-ciencia-y-delito-en-argentina-estudios-carcelarios-sobre-delincuencia-1906-1946-i
+SUMMARY:Presentación del artículo The Democratic Promise of Living International Law
+UID:e1ef6d65-28cf-4940-ba15-7893afc4a3dd@e1ef.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-articulo-i-the-democratic-promise-of-living-international-law-i
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/demencias-en-la-vejez-una-cuestion-de-derechos
 DURATION:PT2H
 DTSTART:20260624T200000Z
 SUMMARY:Demencias en la vejez: una cuestión de derechos
-UID:a9898845-bbf2-4c25-b5da-54346305ce30@a989.org
+UID:0ae05418-9950-45a2-bc2d-0694790533a4@0ae0.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/demencias-en-la-vejez-una-cuestion-de-derechos
 END:VEVENT
 BEGIN:VEVENT
@@ -198,191 +150,239 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevos-paradi
 DURATION:PT2H
 DTSTART:20260623T203000Z
 SUMMARY:Nuevos paradigmas en los estudios kelsenianos
-UID:a6c12947-c840-4436-abbb-a6d66ff3fedd@a6c1.org
+UID:e7bb91b5-3723-4ad6-ab64-33f76e7efec3@e7bb.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevos-paradigmas-en-los-estudios-kelsenianos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-de-helmut-ditsch
+DURATION:PT2H
+DTSTART:20260708T200000Z
+SUMMARY:Conversatorio de Helmut Ditsch
+UID:79900137-f087-4e0d-8087-b294f279ed84@7990.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-de-helmut-ditsch
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-libro-i-derechos-discapacidad-y-proceso-acusatorio-una-obra-para-repensar-el-proceso-penal-desde-la-perspectiva-de-discapacidad-i
 DURATION:PT2H
 DTSTART:20260715T200000Z
 SUMMARY:Presentación de libro Derechos\, discapacidad y proceso acusatorio: una obra para repensar el proceso penal desde la perspectiva de discapacidad
-UID:6d4874b1-c05b-475f-9cae-2dad3a5d1375@6d48.org
+UID:0f6e163d-2520-4333-a398-17d98631f0ca@0f6e.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-libro-i-derechos-discapacidad-y-proceso-acusatorio-una-obra-para-repensar-el-proceso-penal-desde-la-perspectiva-de-discapacidad-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/compliance-transparencia-institucional-investigacion-y-prevencion-de-delitos-a-traves-de-politicas-publicas-y-organismos-anticorrupcion
-DURATION:PT2H
-DTSTART:20260626T190000Z
-SUMMARY:Compliance\, transparencia institucional\, investigación y prevención de delitos a través de políticas públicas y organismos anticorrupción
-UID:74d55352-74b7-489c-ba10-e070b3986be9@74d5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/compliance-transparencia-institucional-investigacion-y-prevencion-de-delitos-a-traves-de-politicas-publicas-y-organismos-anticorrupcion
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/simulacro-de-audiencia-de-vista-de-causa-laboral
-DURATION:PT2H
-DTSTART:20260617T113000Z
-SUMMARY:Simulacro de audiencia de vista de causa laboral
-UID:6a752165-e3d2-4198-a92f-5bc06222fc14@6a75.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/simulacro-de-audiencia-de-vista-de-causa-laboral
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencias-gratuitas-de-capacitacion-profesional
-DURATION:PT2H
-DTSTART:20260609T143000Z
-SUMMARY:Conferencias gratuitas de capacitación profesional
-UID:45d8f8d8-3619-4841-bd61-e9c3f6855c54@45d8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencias-gratuitas-de-capacitacion-profesional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-argumentacion-metodologia-y-herramientas-para-la-redaccion-juridica-con-herramientas-de-la-logica-argumental-para-la-formacion-academica-y-el-ejercicio-profesional-falacias-argumentos-en-el-derecho
-DURATION:PT2H
-DTSTART:20260609T200000Z
-SUMMARY:Taller "Argumentación\, metodología y herramientas para la redacción jurídica con herramientas de la lógica argumental para la formación académica y el ejercicio profesional. Falacias. Argumentos en el derecho"
-UID:05c44c24-991a-485a-83a9-8e437477068d@05c4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-argumentacion-metodologia-y-herramientas-para-la-redaccion-juridica-con-herramientas-de-la-logica-argumental-para-la-formacion-academica-y-el-ejercicio-profesional-falacias-argumentos-en-el-derecho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
-DURATION:PT2H
-DTSTART:20260707T220000Z
-SUMMARY:Seminario sobre actualización de la dogmática penal
-UID:0c9672c6-1f28-47b9-a1ac-3632130a2e4d@0c96.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/profundizacion-de-cuestiones-vinculadas-a-la-prevencion-de-la-corrupcion-en-el-modelo-institucional-italiano
-DURATION:PT2H
-DTSTART:20260625T200000Z
-SUMMARY:Profundización de cuestiones vinculadas a la prevención de la corrupción en el modelo institucional italiano
-UID:5e91af1f-1a7d-4054-a56a-ef67df424479@5e91.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/profundizacion-de-cuestiones-vinculadas-a-la-prevencion-de-la-corrupcion-en-el-modelo-institucional-italiano
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-sobre-reglas-de-evidencia-derecho-probatorio-y-reglas-de-litigacion-en-america-latina
-DURATION:PT2H
-DTSTART:20260629T190000Z
-SUMMARY:Jornadas sobre reglas de evidencia: Derecho probatorio y reglas de litigación en América Latina
-UID:bfe9d607-caa9-494c-b009-0159d6a35961@bfe9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-sobre-reglas-de-evidencia-derecho-probatorio-y-reglas-de-litigacion-en-america-latina
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-erosion-democratica-en-la-argentina-actual
-DURATION:PT2H
-DTSTART:20260612T200000Z
-SUMMARY:Jornada: La erosión democrática en la Argentina actual
-UID:5ac225cf-e3b2-428c-878f-50548d97cd32@5ac2.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-erosion-democratica-en-la-argentina-actual
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/repensando-a-alberdi-en-el-siglo-xxi-uno-de-los-mayores-intelectuales-argentinos-y-el-padre-de-la-cn
-DURATION:PT2H
-DTSTART:20260708T210000Z
-SUMMARY:Repensando a Alberdi en el siglo XXI: uno de los mayores intelectuales argentinos y el padre de la CN
-UID:3a5e8364-7503-40ee-bd24-0d48d1a213fe@3a5e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/repensando-a-alberdi-en-el-siglo-xxi-uno-de-los-mayores-intelectuales-argentinos-y-el-padre-de-la-cn
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-academica-por-los-250-anos-de-la-creacion-del-virreinato-del-rio-de-la-plata
 DURATION:PT2H
 DTSTART:20260611T190000Z
 SUMMARY:Jornada académica por los 250 años de la creación del Virreinato del Río de la Plata
-UID:843ece96-f2a4-4992-9622-1b3c9bd6514c@843e.org
+UID:92e11edd-ecbb-4f39-9f02-9bf211d6ed13@92e1.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-academica-por-los-250-anos-de-la-creacion-del-virreinato-del-rio-de-la-plata
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-dialogo-con-artistas
-DURATION:PT2H
-DTSTART:20260608T210000Z
-SUMMARY:Conversatorio "Diálogo con artistas"
-UID:1743d273-6d6c-4b52-a92c-ee299c4fbad0@1743.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-dialogo-con-artistas
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-libro-i-responsabilidad-del-estado-por-su-inactividad-i
-DURATION:PT2H
-DTSTART:20260622T210000Z
-SUMMARY:Presentación de libro Responsabilidad del Estado por su inactividad
-UID:c91ff83e-6a9a-4a05-a822-38a9515971db@c91f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-libro-i-responsabilidad-del-estado-por-su-inactividad-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
-DURATION:PT2H
-DTSTART:20261027T180000Z
-SUMMARY:Seminario de lectura inter-Cátedras: "El debate Soler/Carrió en torno a la interpretación jurídica"
-UID:cd9f6dae-d34b-4d7e-ba24-c682d1da4e88@cd9f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-identidad-de-genero-i-de-emiliano-litardo
 DURATION:PT2H
 DTSTART:20260617T200000Z
 SUMMARY:Presentación del libro Identidad de Género de Emiliano Litardo
-UID:845e36e1-df65-43fe-bc15-ee8931e4c01b@845e.org
+UID:68f9b8a4-af9f-4bdc-bcb8-0abdb502b83d@68f9.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-identidad-de-genero-i-de-emiliano-litardo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-estudios-sobre-la-prision-una-mirada-desde-la-historia-y-el-derecho
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/debates-sobre-ia-y-prision-preventiva
 DURATION:PT2H
-DTSTART:20260825T200000Z
-SUMMARY:Seminario internacional - Estudios sobre la prisión: una mirada desde la Historia y el Derecho
-UID:8e9fe1a2-0fb5-44c7-b8c0-6ce45c7d8287@8e9f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-estudios-sobre-la-prision-una-mirada-desde-la-historia-y-el-derecho
+DTSTART:20260609T200000Z
+SUMMARY:Debates sobre IA y prisión preventiva
+UID:3b6bb5e5-a27e-45ba-af6f-3bfe6e86a9fb@3b6b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/debates-sobre-ia-y-prision-preventiva
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-tributario-y-financiero-aspectos-introductorios-problemas-clasicos-y-debates-actuales
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-erosion-democratica-en-la-argentina-actual
 DURATION:PT2H
-DTSTART:20260610T210000Z
-SUMMARY:Derecho penal tributario y financiero: aspectos introductorios\, problemas clásicos y debates actuales
-UID:263485fc-22cd-4a6f-b149-24d4b8a29e35@2634.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-penal-tributario-y-financiero-aspectos-introductorios-problemas-clasicos-y-debates-actuales
+DTSTART:20260612T200000Z
+SUMMARY:Jornada: La erosión democrática en la Argentina actual
+UID:5f42f3c2-ebf8-4d3c-8737-3217e605d0ab@5f42.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-la-erosion-democratica-en-la-argentina-actual
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-ciencia-y-delito-en-argentina-estudios-carcelarios-sobre-delincuencia-1906-1946-i
 DURATION:PT2H
-DTSTART:20260618T203000Z
-SUMMARY:Cine y derecho
-UID:a4c53aca-5226-472b-9ded-f67a94ba6320@a4c5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/whistleblowing-y-proteccion-de-denunciantes-transparencia-prevencion-de-delitos-y-corrupcion-compliance-y-responsabilidad-penal-de-las-personas-juridicas-dialogo-con-el-derecho-administrativo
-DURATION:PT2H
-DTSTART:20260624T190000Z
-SUMMARY:Whistleblowing y protección de denunciantes: transparencia\, prevención de delitos y corrupción. Compliance y responsabilidad penal de las personas jurídicas. Diálogo con el Derecho administrativo
-UID:bb5687f1-55b9-42f4-8e02-1600e9b2dcc8@bb56.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/whistleblowing-y-proteccion-de-denunciantes-transparencia-prevencion-de-delitos-y-corrupcion-compliance-y-responsabilidad-penal-de-las-personas-juridicas-dialogo-con-el-derecho-administrativo
+DTSTART:20260612T230000Z
+SUMMARY:Presentación del libro Ciencia y delito en Argentina: estudios carcelarios sobre delincuencia (1906-1946)
+UID:6f05417a-f69b-490a-b946-6c9d636313aa@6f05.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-ciencia-y-delito-en-argentina-estudios-carcelarios-sobre-delincuencia-1906-1946-i
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/iv-jornadas-de-actualizacion-de-dipr
 DURATION:PT2H
 DTSTART:20260623T173000Z
 SUMMARY:IV Jornadas de actualización de DIPR
-UID:335e961b-43a6-4e56-8697-fe1a708a026a@335e.org
+UID:9fa90297-3a5b-4dc4-a0ce-4e48045bb913@9fa9.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/iv-jornadas-de-actualizacion-de-dipr
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/compliance-transparencia-institucional-investigacion-y-prevencion-de-delitos-a-traves-de-politicas-publicas-y-organismos-anticorrupcion
+DURATION:PT2H
+DTSTART:20260626T190000Z
+SUMMARY:Compliance\, transparencia institucional\, investigación y prevención de delitos a través de políticas públicas y organismos anticorrupción
+UID:862f0f7e-6d87-4505-9109-cbf2385403b0@862f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/compliance-transparencia-institucional-investigacion-y-prevencion-de-delitos-a-traves-de-politicas-publicas-y-organismos-anticorrupcion
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-sobre-reglas-de-evidencia-derecho-probatorio-y-reglas-de-litigacion-en-america-latina
+DURATION:PT2H
+DTSTART:20260629T190000Z
+SUMMARY:Jornadas sobre reglas de evidencia: Derecho probatorio y reglas de litigación en América Latina
+UID:ddad5a0a-f989-48ea-b624-570e712fa117@ddad.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-sobre-reglas-de-evidencia-derecho-probatorio-y-reglas-de-litigacion-en-america-latina
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
+DURATION:PT2H
+DTSTART:20260707T220000Z
+SUMMARY:Seminario sobre actualización de la dogmática penal
+UID:5a6c450d-bb98-4ee7-a8c1-e3c3ddee12e2@5a6c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/ciclo-dialogando-desde-el-sur-sesion-en-memoria-de-la-dra-tania-mota-de-oliveira
+DURATION:PT2H
+DTSTART:20260716T210000Z
+SUMMARY:Ciclo Dialogando desde el Sur. Sesión en memoria de la Dra. Tânia Mota de Oliveira
+UID:31690e34-a5f8-473e-8356-29ee544d8d1e@3169.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/ciclo-dialogando-desde-el-sur-sesion-en-memoria-de-la-dra-tania-mota-de-oliveira
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/poblaciones-bajo-control-de-grupos-armados-la-gobernanza-rebelde-y-el-derecho-internacional-publico
+DURATION:PT2H
+DTSTART:20260617T210000Z
+SUMMARY:Poblaciones bajo control de grupos armados: la gobernanza rebelde y el derecho internacional público
+UID:1e8247a7-3e79-4056-a04e-c50cdc6de691@1e82.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/poblaciones-bajo-control-de-grupos-armados-la-gobernanza-rebelde-y-el-derecho-internacional-publico
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/ii-jornadas-intercatedras-de-derecho-internacional-privado
+DURATION:PT2H
+DTSTART:20260629T180000Z
+SUMMARY:II Jornadas Intercátedras de Derecho internacional privado
+UID:2035f23a-eb32-4e6d-b375-aeb0ac0b469c@2035.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/ii-jornadas-intercatedras-de-derecho-internacional-privado
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/intercambio-automatico-de-informacion-tributaria-usos-y-no-usos-por-parte-de-las-administraciones-tributarias-a-casi-10-anos-de-su-implementacion
+DURATION:PT2H
+DTSTART:20260617T160000Z
+SUMMARY:Intercambio automático de información tributaria. Usos y no usos por parte de las administraciones tributarias a casi 10 años de su implementación
+UID:792599ca-b163-4174-84ce-10ab04e1a8ff@7925.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/intercambio-automatico-de-informacion-tributaria-usos-y-no-usos-por-parte-de-las-administraciones-tributarias-a-casi-10-anos-de-su-implementacion
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/30-aniversario-de-la-ley-de-ejecucion-de-la-pena-privativa-de-la-libertad
+DURATION:PT2H
+DTSTART:20260811T203000Z
+SUMMARY:30º Aniversario de la ley de ejecución de la pena privativa de la libertad
+UID:f0e81724-89d7-4ea2-87ae-00575ea2ef32@f0e8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/30-aniversario-de-la-ley-de-ejecucion-de-la-pena-privativa-de-la-libertad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-rediseno-de-la-relacion-juridico-tributaria
+DURATION:PT2H
+DTSTART:20260608T210000Z
+SUMMARY:El rediseño de la relación jurídico tributaria
+UID:4e9afdcb-09ef-4f85-8e75-2e96a231047d@4e9a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-rediseno-de-la-relacion-juridico-tributaria
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/whistleblowing-interes-publico-y-responsabilidad-penal-problemas-abiertos-en-perspectiva-comparada
+DURATION:PT2H
+DTSTART:20260622T200000Z
+SUMMARY:Whistleblowing\, interés público y responsabilidad penal: problemas abiertos en perspectiva comparada
+UID:a889347a-6231-4f59-bbb6-18b75c9c6391@a889.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/whistleblowing-interes-publico-y-responsabilidad-penal-problemas-abiertos-en-perspectiva-comparada
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
+DURATION:PT2H
+DTSTART:20261118T110000Z
+SUMMARY:Fórum II de Buenos Aires. El Derecho y nuevos desafíos políticos\, económicos\, sociales y ambientales en la época contemporánea: Unión Europea y Mercosur
+UID:ec825a9c-d0c1-41b7-9ca9-e3ab4ec5f292@ec82.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-desarrollo-sistematico-de-la-teoria-trialista
+DURATION:PT2H
+DTSTART:20260611T213000Z
+SUMMARY:Conferencia: Desarrollo sistemático de la teoría trialista
+UID:3bad8749-d42b-46c7-9c79-738314ab22e9@3bad.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-desarrollo-sistematico-de-la-teoria-trialista
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevas-adicciones-redes-porno-apuestas-y-gaming-un-analisis-desde-la-psicologia-y-el-derecho
 DURATION:PT2H
 DTSTART:20260612T200000Z
 SUMMARY:Nuevas adicciones: redes\, porno\, apuestas y gaming. Un análisis desde la psicología y el derecho
-UID:531a14b1-3efc-4bf5-a595-09206b5e8e96@531a.org
+UID:cc7fadff-7308-42fa-a816-7a5a765a8e99@cc7f.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevas-adicciones-redes-porno-apuestas-y-gaming-un-analisis-desde-la-psicologia-y-el-derecho
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-de-capacitacion-ambiental
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-la-biblioteca-de-derecho-romano-dr-jose-carlos-costa
 DURATION:PT2H
-DTSTART:20260610T210000Z
-SUMMARY:Jornadas de capacitación ambiental
-UID:c23326e3-3f3e-4d1a-b975-19797994faff@c233.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-de-capacitacion-ambiental
+DTSTART:20260701T210000Z
+SUMMARY:Presentación de la Biblioteca de Derecho Romano Dr. José Carlos Costa
+UID:f5cdb445-53a0-4296-8c2a-92859d38d7dd@f5cd.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-la-biblioteca-de-derecho-romano-dr-jose-carlos-costa
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-articulo-i-the-democratic-promise-of-living-international-law-i
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
 DURATION:PT2H
-DTSTART:20260609T200000Z
-SUMMARY:Presentación del artículo The Democratic Promise of Living International Law
-UID:128509cd-2659-42cb-b11e-aa3ab2a7ab1e@1285.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-articulo-i-the-democratic-promise-of-living-international-law-i
+DTSTART:20260618T203000Z
+SUMMARY:Cine y derecho
+UID:324bfcdc-30e6-48a7-93f8-498c3c920350@324b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/cine-y-derecho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/los-retos-de-la-inteligencia-artificial-exposicion-y-dialogo-con-el-profesor-james-cooper
+DURATION:PT2H
+DTSTART:20260623T210000Z
+SUMMARY:Los retos de la inteligencia artificial. Exposición y diálogo con el profesor James Cooper
+UID:dcd9df18-c1b7-4da0-8416-bda5f910bde0@dcd9.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/los-retos-de-la-inteligencia-artificial-exposicion-y-dialogo-con-el-profesor-james-cooper
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/propiedad-en-juicio-civilistas-y-procesalistas-ante-la-defensa-de-los-derechos-reales
+DURATION:PT2H
+DTSTART:20260928T113000Z
+SUMMARY:Propiedad en juicio. Civilistas y procesalistas ante la defensa de los derechos reales
+UID:3a6fa9a3-8053-45ff-bf52-541518d5f244@3a6f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/propiedad-en-juicio-civilistas-y-procesalistas-ante-la-defensa-de-los-derechos-reales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevos-significados-en-torno-a-la-vejez-y-los-vinculos-creativos-que-descubre-y-crea
+DURATION:PT2H
+DTSTART:20260617T170000Z
+SUMMARY:Nuevos significados en torno a la vejez y los vínculos creativos que descubre y crea
+UID:42d697ee-57d4-4deb-a951-93c0d4ac2f2d@42d6.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevos-significados-en-torno-a-la-vejez-y-los-vinculos-creativos-que-descubre-y-crea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-libro-i-ley-n-24240-de-defensa-del-consumidor-comentada-tomos-i-y-ii-i-de-sergio-sebastian-barocelli
+DURATION:PT2H
+DTSTART:20260610T190000Z
+SUMMARY:Presentación de libro Ley Nº 24240 de defensa del consumidor comentada\, Tomos I y II de Sergio Sebastián Barocelli
+UID:37b07b5b-2947-4c64-be01-d2c1a73f6c7e@37b0.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-de-libro-i-ley-n-24240-de-defensa-del-consumidor-comentada-tomos-i-y-ii-i-de-sergio-sebastian-barocelli
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/simulacro-de-audiencia-de-vista-de-causa-laboral
+DURATION:PT2H
+DTSTART:20260617T113000Z
+SUMMARY:Simulacro de audiencia de vista de causa laboral
+UID:1bf5cada-9961-430b-95d1-c3031933818d@1bf5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/simulacro-de-audiencia-de-vista-de-causa-laboral
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-dialogo-con-artistas
+DURATION:PT2H
+DTSTART:20260608T210000Z
+SUMMARY:Conversatorio "Diálogo con artistas"
+UID:b353e734-040d-4a09-a1dd-2210d79cd85a@b353.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conversatorio-dialogo-con-artistas
 END:VEVENT
 END:VCALENDAR
