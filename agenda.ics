@@ -2,211 +2,243 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-academicas-de-investigacion-y-debate-problemas-actuales-de-la-prueba-en-los-procesos-civiles-penales-y-constitucionales
+DURATION:PT2H
+DTSTART:20260810T123000Z
+SUMMARY:Jornadas académicas de investigación y debate. Problemas actuales de la prueba en los procesos civiles\, penales y constitucionales
+UID:ea71aea5-3130-4ed2-b32a-c3e9c96e604d@ea71.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-academicas-de-investigacion-y-debate-problemas-actuales-de-la-prueba-en-los-procesos-civiles-penales-y-constitucionales
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-publicidad-en-los-juicios-de-lesa-humanidad
 DURATION:PT2H
 DTSTART:20260831T210000Z
 SUMMARY:La publicidad en los juicios de lesa humanidad 
-UID:30e7b35c-0666-4f9d-bec5-67bcae5e22c0@30e7.org
+UID:b99feb52-c1fe-49a2-885d-2db38ea8d1db@b99f.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-publicidad-en-los-juicios-de-lesa-humanidad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/gestacion-subrogada-abordaje-interdisciplinario-y-experiencias-de-vida
-DURATION:PT2H
-DTSTART:20260810T190000Z
-SUMMARY:Gestación subrogada: abordaje interdisciplinario y experiencias de vida
-UID:296c0502-2129-4200-9fdb-8b0bf58927ca@296c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/gestacion-subrogada-abordaje-interdisciplinario-y-experiencias-de-vida
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-nuevo-articulo-19-del-rpt-nuevas-causales-que-inhiben-la-realizacion-de-la-denuncia-por-parte-del-fisco-cuestiones-vinculadas-con-la-necesidad-o-no-de-dictamen-juridico-1
-DURATION:PT2H
-DTSTART:20260805T210000Z
-SUMMARY:El nuevo artículo 19 del RPT: nuevas causales que inhiben la realización de la denuncia por parte del Fisco. Cuestiones vinculadas con la necesidad\, o no\, de dictamen jurídico
-UID:23f56f15-bfd3-437d-b851-03490d9c2d09@23f5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-nuevo-articulo-19-del-rpt-nuevas-causales-que-inhiben-la-realizacion-de-la-denuncia-por-parte-del-fisco-cuestiones-vinculadas-con-la-necesidad-o-no-de-dictamen-juridico-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/mesa-redonda-exilio-forzado-y-derechos-humanos
-DURATION:PT2H
-DTSTART:20260721T210000Z
-SUMMARY:Mesa redonda: Exilio forzado y derechos humanos
-UID:712cc661-e42c-4f6e-b5fb-26c81a8b83e7@712c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/mesa-redonda-exilio-forzado-y-derechos-humanos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/segundo-taller-referido-a-la-implementacion-del-acuerdo-mercosur-ue-propiedad-intelectual
-DURATION:PT2H
-DTSTART:20260819T210000Z
-SUMMARY:Segundo taller referido a la implementación del Acuerdo Mercosur-UE: Propiedad intelectual
-UID:d906e790-03d3-4d37-b953-b0bbb4a0459b@d906.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/segundo-taller-referido-a-la-implementacion-del-acuerdo-mercosur-ue-propiedad-intelectual
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/30-aniversario-de-la-ley-de-ejecucion-de-la-pena-privativa-de-la-libertad
-DURATION:PT2H
-DTSTART:20260811T203000Z
-SUMMARY:30º Aniversario de la ley de ejecución de la pena privativa de la libertad
-UID:974ff7a9-28f0-42c5-a5d7-65ef651f0297@974f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/30-aniversario-de-la-ley-de-ejecucion-de-la-pena-privativa-de-la-libertad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
-DURATION:PT2H
-DTSTART:20261118T110000Z
-SUMMARY:Fórum II de Buenos Aires. El Derecho y nuevos desafíos políticos\, económicos\, sociales y ambientales en la época contemporánea: Unión Europea y Mercosur
-UID:1e3db62a-286e-4bcd-a057-6c3121ba2f64@1e3d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-intercatedras-de-derecho-constitucional-exposicion-y-limites-de-la-accion-de-proteccion-en-chile
-DURATION:PT2H
-DTSTART:20260722T200000Z
-SUMMARY:Seminario Internacional Intercátedras de Derecho Constitucional: Exposición y límites de la acción de protección en Chile
-UID:2edde396-fa03-4c84-a00e-5006c8d61e11@2edd.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-intercatedras-de-derecho-constitucional-exposicion-y-limites-de-la-accion-de-proteccion-en-chile
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-estudios-sobre-la-prision-una-mirada-desde-la-historia-y-el-derecho
 DURATION:PT2H
 DTSTART:20260825T200000Z
 SUMMARY:Seminario internacional - Estudios sobre la prisión: una mirada desde la Historia y el Derecho
-UID:0db2108a-c419-42d0-b3ff-129dfacdf7f0@0db2.org
+UID:4d38e771-cbfc-4053-ae00-dd6204d1dbcb@4d38.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-estudios-sobre-la-prision-una-mirada-desde-la-historia-y-el-derecho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/sociedades-ia-y-tributacion
-DURATION:PT2H
-DTSTART:20260810T210000Z
-SUMMARY:Sociedades\, IA y tributación
-UID:2f202540-7196-446f-8727-5102a13f35d7@2f20.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/sociedades-ia-y-tributacion
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-academicas-de-investigacion-y-debate-problemas-actuales-de-la-prueba-en-los-procesos-civiles-penales-y-constitucionales
-DURATION:PT2H
-DTSTART:20260810T123000Z
-SUMMARY:Jornadas académicas de investigación y debate. Problemas actuales de la prueba en los procesos civiles\, penales y constitucionales
-UID:d0379760-9edd-43b5-9d1c-cbc47232dc7f@d037.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornadas-academicas-de-investigacion-y-debate-problemas-actuales-de-la-prueba-en-los-procesos-civiles-penales-y-constitucionales
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
-DURATION:PT2H
-DTSTART:20260720T200000Z
-SUMMARY: Seminario de lectura y análisis sobre el libro Teoría Analítica del Derecho de Jorge Luis Rodriguez
-UID:8656996e-6143-459d-96c7-4111a240e125@8656.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-derecho-a-la-educacion-y-su-reglamentacion-20-anos-de-la-ley-de-educacion-nacional
-DURATION:PT2H
-DTSTART:20260818T200000Z
-SUMMARY:El derecho a la educación y su reglamentación. 20 años de la Ley de Educación Nacional
-UID:04710e26-00b6-4ccf-a5d4-c45dcfe5c2c8@0471.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-derecho-a-la-educacion-y-su-reglamentacion-20-anos-de-la-ley-de-educacion-nacional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/homenaje-al-profesor-doctor-victor-bazan
-DURATION:PT2H
-DTSTART:20260813T190000Z
-SUMMARY:Homenaje al profesor doctor Víctor Bazán
-UID:f8867f42-c707-404e-97b6-5feaefbf4a74@f886.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/homenaje-al-profesor-doctor-victor-bazan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
-DURATION:PT2H
-DTSTART:20261027T180000Z
-SUMMARY:Seminario de lectura inter-Cátedras: "El debate Soler/Carrió en torno a la interpretación jurídica"
-UID:be715254-e8d0-4901-9411-af9c28090f1d@be71.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevas-perspectivas-en-derecho-y-literatura
-DURATION:PT2H
-DTSTART:20260806T213000Z
-SUMMARY:Nuevas perspectivas en Derecho y Literatura
-UID:f8c8c583-31c7-40f9-b910-90b7f112acf4@f8c8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevas-perspectivas-en-derecho-y-literatura
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
-DURATION:PT2H
-DTSTART:20260825T220000Z
-SUMMARY:Seminario sobre actualización de la dogmática penal
-UID:4397357d-8eb5-4681-803c-c3193dc71710@4397.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/propiedad-en-juicio-civilistas-y-procesalistas-ante-la-defensa-de-los-derechos-reales
 DURATION:PT2H
 DTSTART:20260928T113000Z
 SUMMARY:Propiedad en juicio. Civilistas y procesalistas ante la defensa de los derechos reales
-UID:b99a4bff-3c51-40c2-b36c-1bcc77f8def0@b99a.org
+UID:c01c7f5e-22f9-4810-b17e-36bbaaae8c60@c01c.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/propiedad-en-juicio-civilistas-y-procesalistas-ante-la-defensa-de-los-derechos-reales
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-derecho-de-los-hidrocarburos-y-sostenibilidad
-DURATION:PT2H
-DTSTART:20261126T110000Z
-SUMMARY:I Jornada: Derecho de los hidrocarburos y sostenibilidad
-UID:f4828302-0cd6-4be5-8506-120a7bf10e7d@f482.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-derecho-de-los-hidrocarburos-y-sostenibilidad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-constitucion-y-economia-i-del-dr-juan-vicente-sola
-DURATION:PT2H
-DTSTART:20260807T210000Z
-SUMMARY:Presentación del libro Constitución y economía del Dr. Juan Vicente Sola
-UID:68e7e323-6d05-49cc-8248-54bcefd2df9e@68e7.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-constitucion-y-economia-i-del-dr-juan-vicente-sola
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/workshop-competencia-y-autonomia-relacional-en-ninos-ninas-y-adolescentes-eutanasia-identidad-de-genero-y-cuidado-del-propio-cuerpo
-DURATION:PT2H
-DTSTART:20260810T200000Z
-SUMMARY:WORKSHOP: Competencia y autonomía relacional en niños\, niñas y adolescentes. Eutanasia\, identidad de género y cuidado del propio cuerpo
-UID:1c513fe5-ee69-41ed-8c79-dc1be5edebd9@1c51.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/workshop-competencia-y-autonomia-relacional-en-ninos-ninas-y-adolescentes-eutanasia-identidad-de-genero-y-cuidado-del-propio-cuerpo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/vi-jornada-nacional-de-derecho-comparado
-DURATION:PT2H
-DTSTART:20260902T180000Z
-SUMMARY:VI Jornada nacional de derecho comparado
-UID:f4fb1f18-7211-4188-ba89-498b6bba9894@f4fb.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/vi-jornada-nacional-de-derecho-comparado
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-divina-comedia-y-el-castigo-el-viaje-estetico-de-dante-alighieri
 DURATION:PT2H
 DTSTART:20260831T213000Z
 SUMMARY:La Divina Comedia y el castigo. El viaje estético de Dante Alighieri
-UID:e19aa6d8-8a7b-4c72-bd13-ead83eb58b5a@e19a.org
+UID:36b05151-b53f-445b-a939-d53d06d7722a@36b0.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-divina-comedia-y-el-castigo-el-viaje-estetico-de-dante-alighieri
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/gestacion-subrogada-abordaje-interdisciplinario-y-experiencias-de-vida
+DURATION:PT2H
+DTSTART:20260810T190000Z
+SUMMARY:Gestación subrogada: abordaje interdisciplinario y experiencias de vida
+UID:41034d39-df92-451e-90fa-6907cec25765@4103.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/gestacion-subrogada-abordaje-interdisciplinario-y-experiencias-de-vida
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevas-perspectivas-en-derecho-y-literatura
+DURATION:PT2H
+DTSTART:20260806T213000Z
+SUMMARY:Nuevas perspectivas en Derecho y Literatura
+UID:4d07e41a-dd0b-45ad-b0ac-8e4b1bbe73d5@4d07.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/nuevas-perspectivas-en-derecho-y-literatura
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
+DURATION:PT2H
+DTSTART:20261118T110000Z
+SUMMARY:Fórum II de Buenos Aires. El Derecho y nuevos desafíos políticos\, económicos\, sociales y ambientales en la época contemporánea: Unión Europea y Mercosur
+UID:4f0b7e08-be58-485d-9f61-b9b2512d1790@4f0b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
+DURATION:PT2H
+DTSTART:20260727T200000Z
+SUMMARY: Seminario de lectura y análisis sobre el libro Teoría Analítica del Derecho de Jorge Luis Rodriguez
+UID:876c41e9-71cf-4b3a-99e8-ffc6cc7d060d@876c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-y-analisis-sobre-el-libro-i-teoria-analitica-del-derecho-i-de-jorge-luis-rodriguez
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-derecho-de-los-hidrocarburos-y-sostenibilidad
+DURATION:PT2H
+DTSTART:20261126T110000Z
+SUMMARY:I Jornada: Derecho de los hidrocarburos y sostenibilidad
+UID:34b26adf-8985-41f3-9310-752ef17e17f0@34b2.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-derecho-de-los-hidrocarburos-y-sostenibilidad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-corporate-accountability-for-human-rights-violations-civil-society-and-transnational-activism-across-the-world-i
+DURATION:PT2H
+DTSTART:20260804T200000Z
+SUMMARY:Presentación del libro Corporate Accountability for Human Rights Violations. Civil Society and Transnational Activism across the World
+UID:5423881d-7d41-4366-a575-2cafee79a4d9@5423.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-corporate-accountability-for-human-rights-violations-civil-society-and-transnational-activism-across-the-world-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-laboratorio-argentina-un-analisi-della-giurisprudenza-sui-crimini-contro-l-umanita-i
+DURATION:PT2H
+DTSTART:20260819T190000Z
+SUMMARY:Presentación del libro Laboratorio Argentina. Un analisi della giurisprudenza sui crimini contro l'umanità
+UID:c32e3c56-5f65-4a66-a9e7-34bd4e0f65dd@c32e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-laboratorio-argentina-un-analisi-della-giurisprudenza-sui-crimini-contro-l-umanita-i
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/ix-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
 DURATION:PT2H
 DTSTART:20260909T120000Z
 SUMMARY:IX Jornadas de Investigadores/as en Formación del Instituto de Investigaciones Jurídicas y Sociales "Ambrosio Lucas Gioja"
-UID:00c114f5-7d57-4f85-9c50-a2cbd3af1217@00c1.org
+UID:6bb0d7e0-b927-48c6-9ee1-66db86e85a96@6bb0.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/ix-jornadas-de-investigadores-as-en-formacion-del-instituto-de-investigaciones-juridicas-y-sociales-ambrosio-lucas-gioja
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/vi-jornada-nacional-de-derecho-comparado
+DURATION:PT2H
+DTSTART:20260902T180000Z
+SUMMARY:VI Jornada nacional de derecho comparado
+UID:73e69a01-55d4-4c0c-b63d-ba29f477eccc@73e6.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/vi-jornada-nacional-de-derecho-comparado
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/actividades-del-observatorio-de-salud
+DURATION:PT2H
+DTSTART:20260810T203000Z
+SUMMARY:Actividades del Observatorio de Salud
+UID:533aac09-7709-4551-a4f1-fad9d2f54e3f@533a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/actividades-del-observatorio-de-salud
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
+DURATION:PT2H
+DTSTART:20261027T180000Z
+SUMMARY:Seminario de lectura inter-Cátedras: "El debate Soler/Carrió en torno a la interpretación jurídica"
+UID:79eb7326-ac42-4326-9972-a4cba45a94dd@79eb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-constitucion-y-economia-i-del-dr-juan-vicente-sola
+DURATION:PT2H
+DTSTART:20260807T210000Z
+SUMMARY:Presentación del libro Constitución y economía del Dr. Juan Vicente Sola
+UID:a9543052-fcd7-4755-8564-5ca77223514c@a954.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-constitucion-y-economia-i-del-dr-juan-vicente-sola
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jurisprudencia-del-fuero-contencioso-administrativo-de-la-provincia-de-buenos-aires-sobre-tasas-retributivas
 DURATION:PT2H
 DTSTART:20260824T210000Z
 SUMMARY:Jurisprudencia del fuero contencioso administrativo de la Provincia de Buenos Aires sobre tasas retributivas
-UID:63292781-9240-4788-94f5-0ef99433d076@6329.org
+UID:d6a0ef14-e76d-4e77-9444-3128c469987f@d6a0.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jurisprudencia-del-fuero-contencioso-administrativo-de-la-provincia-de-buenos-aires-sobre-tasas-retributivas
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-de-actualidad-tributaria-tendencias-actuales-de-la-jurisprudencia-en-materia-del-principio-de-solve-et-repete-en-materia-tributaria
+DURATION:PT2H
+DTSTART:20260826T190000Z
+SUMMARY:Jornada de actualidad tributaria "Tendencias actuales de la jurisprudencia en materia del principio de solve et repete en materia tributaria"
+UID:a96ef1fe-dbbe-4ab5-b210-7df55b381825@a96e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jornada-de-actualidad-tributaria-tendencias-actuales-de-la-jurisprudencia-en-materia-del-principio-de-solve-et-repete-en-materia-tributaria
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/sociedades-ia-y-tributacion
+DURATION:PT2H
+DTSTART:20260810T210000Z
+SUMMARY:Sociedades\, IA y tributación
+UID:e6f22716-526b-449d-9b3f-9f56f6a4aa6b@e6f2.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/sociedades-ia-y-tributacion
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/homenaje-al-profesor-doctor-victor-bazan
+DURATION:PT2H
+DTSTART:20260813T190000Z
+SUMMARY:Homenaje al profesor doctor Víctor Bazán
+UID:85b3fa74-19b0-45be-83d6-983626f585c0@85b3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/homenaje-al-profesor-doctor-victor-bazan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/30-aniversario-de-la-ley-de-ejecucion-de-la-pena-privativa-de-la-libertad
+DURATION:PT2H
+DTSTART:20260811T203000Z
+SUMMARY:30º Aniversario de la ley de ejecución de la pena privativa de la libertad
+UID:2fc1ef94-e14c-4d05-bb69-1a699acd1f58@2fc1.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/30-aniversario-de-la-ley-de-ejecucion-de-la-pena-privativa-de-la-libertad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/workshop-competencia-y-autonomia-relacional-en-ninos-ninas-y-adolescentes-eutanasia-identidad-de-genero-y-cuidado-del-propio-cuerpo
+DURATION:PT2H
+DTSTART:20260810T200000Z
+SUMMARY:WORKSHOP: Competencia y autonomía relacional en niños\, niñas y adolescentes. Eutanasia\, identidad de género y cuidado del propio cuerpo
+UID:65ff14c2-f45e-4098-bbe6-066c8011c45a@65ff.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/workshop-competencia-y-autonomia-relacional-en-ninos-ninas-y-adolescentes-eutanasia-identidad-de-genero-y-cuidado-del-propio-cuerpo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-ante-la-ley-suprema-quebrada-dictadura-militar-1976-1983-y-negacion-del-estado-constitucional-las-piezas-del-mal-i-de-raul-gustavo-ferreyra
 DURATION:PT2H
 DTSTART:20260827T200000Z
 SUMMARY:Presentación del libro Ante la ley suprema quebrada. Dictadura militar (1976-1983) y negación del Estado constitucional. Las "piezas del mal"\, de Raúl Gustavo Ferreyra
-UID:ea2e2f3d-ba93-4a7f-9f29-16339384592d@ea2e.org
+UID:3774259d-3740-44c4-b30d-01edf92827cc@3774.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-ante-la-ley-suprema-quebrada-dictadura-militar-1976-1983-y-negacion-del-estado-constitucional-las-piezas-del-mal-i-de-raul-gustavo-ferreyra
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-nuevo-articulo-19-del-rpt-nuevas-causales-que-inhiben-la-realizacion-de-la-denuncia-por-parte-del-fisco-cuestiones-vinculadas-con-la-necesidad-o-no-de-dictamen-juridico-1
+DURATION:PT2H
+DTSTART:20260805T210000Z
+SUMMARY:El nuevo artículo 19 del RPT: nuevas causales que inhiben la realización de la denuncia por parte del Fisco. Cuestiones vinculadas con la necesidad\, o no\, de dictamen jurídico
+UID:235bc10b-9f8e-475a-b400-c5f265556793@235b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-nuevo-articulo-19-del-rpt-nuevas-causales-que-inhiben-la-realizacion-de-la-denuncia-por-parte-del-fisco-cuestiones-vinculadas-con-la-necesidad-o-no-de-dictamen-juridico-1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
+DURATION:PT2H
+DTSTART:20260825T220000Z
+SUMMARY:Seminario sobre actualización de la dogmática penal
+UID:c15bd058-fb0a-482d-ab99-d698c2266272@c15b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-intercatedras-de-derecho-constitucional-exposicion-y-limites-de-la-accion-de-proteccion-en-chile
+DURATION:PT2H
+DTSTART:20260722T200000Z
+SUMMARY:Seminario Internacional Intercátedras de Derecho Constitucional: Exposición y límites de la acción de protección en Chile
+UID:a7bb9b62-c2df-4c5f-9e5a-9520907b4549@a7bb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-intercatedras-de-derecho-constitucional-exposicion-y-limites-de-la-accion-de-proteccion-en-chile
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/mesa-redonda-exilio-forzado-y-derechos-humanos
+DURATION:PT2H
+DTSTART:20260721T210000Z
+SUMMARY:Mesa redonda: Exilio forzado y derechos humanos
+UID:8ad77ec1-6ec5-4d34-8b4b-adf9d408ee8d@8ad7.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/mesa-redonda-exilio-forzado-y-derechos-humanos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-derecho-a-la-educacion-y-su-reglamentacion-20-anos-de-la-ley-de-educacion-nacional
+DURATION:PT2H
+DTSTART:20260818T200000Z
+SUMMARY:El derecho a la educación y su reglamentación. 20 años de la Ley de Educación Nacional
+UID:e9af9dbf-11a0-4e9e-8ebb-abfa385268d7@e9af.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-derecho-a-la-educacion-y-su-reglamentacion-20-anos-de-la-ley-de-educacion-nacional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/segundo-taller-referido-a-la-implementacion-del-acuerdo-mercosur-ue-propiedad-intelectual
+DURATION:PT2H
+DTSTART:20260819T210000Z
+SUMMARY:Segundo taller referido a la implementación del Acuerdo Mercosur-UE: Propiedad intelectual
+UID:a44b7f7c-af27-4c5d-aa41-4488b057e654@a44b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/segundo-taller-referido-a-la-implementacion-del-acuerdo-mercosur-ue-propiedad-intelectual
 END:VEVENT
 END:VCALENDAR
