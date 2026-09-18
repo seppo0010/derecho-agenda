@@ -2,67 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conociendo-el-poder-judicial-1
-DURATION:PT2H
-DTSTART:20261014T210000Z
-SUMMARY:Conociendo el Poder Judicial
-UID:244a05b0-0f84-476c-9049-7f9a45cafb59@244a.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conociendo-el-poder-judicial-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/acto-de-entrega-del-titulo-de-profesora-honoraria-a-la-dra-mariana-sacher
-DURATION:PT2H
-DTSTART:20261006T200000Z
-SUMMARY:Acto de entrega del título de Profesora Honoraria a la Dra. Mariana Sacher
-UID:9e53be6a-a9a1-4965-b212-fdaa2c8e86ac@9e53.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/acto-de-entrega-del-titulo-de-profesora-honoraria-a-la-dra-mariana-sacher
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-derecho-de-los-hidrocarburos-y-sostenibilidad
-DURATION:PT2H
-DTSTART:20261126T110000Z
-SUMMARY:I Jornada: Derecho de los hidrocarburos y sostenibilidad
-UID:43f51381-e5c9-4d89-891b-b58301be24fd@43f5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-derecho-de-los-hidrocarburos-y-sostenibilidad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-el-imperio-de-la-igualdad-una-teoria-democratica-del-derecho-i
-DURATION:PT2H
-DTSTART:20261104T210000Z
-SUMMARY:Presentación del libro El imperio de la igualdad. Una teoría democrática del Derecho
-UID:635a3c66-31a6-40ae-a818-3bd16a07361e@635a.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-el-imperio-de-la-igualdad-una-teoria-democratica-del-derecho-i
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/mesa-redonda-desafios-actuales-para-el-sistema-electoral-mexicano
-DURATION:PT2H
-DTSTART:20260917T200000Z
-SUMMARY:Mesa redonda: Desafíos actuales para el sistema electoral mexicano
-UID:c306d063-7523-48d3-b228-e573ed92ae99@c306.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/mesa-redonda-desafios-actuales-para-el-sistema-electoral-mexicano
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/actualidad-del-derecho-financiero-en-espana-dialogo-con-el-prof-garcia-prats-universidad-de-valencia
-DURATION:PT2H
-DTSTART:20260929T190000Z
-SUMMARY:Actualidad del Derecho Financiero en España. Diálogo con el Prof. García Prats - Universidad de Valencia
-UID:de7ce3b0-3d54-40e0-b988-74b0f05ed257@de7c.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/actualidad-del-derecho-financiero-en-espana-dialogo-con-el-prof-garcia-prats-universidad-de-valencia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-hegel-sobre-lo-injusto-como-vulneracion-del-concepto-de-libertad
-DURATION:PT2H
-DTSTART:20261015T200000Z
-SUMMARY:Conferencia: Hegel sobre lo injusto como vulneración del concepto de libertad
-UID:9db6a9a4-bc11-4aa4-9f54-097d058416a0@9db6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-hegel-sobre-lo-injusto-como-vulneracion-del-concepto-de-libertad
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/los-estudiantes-vamos-a-los-juicios
 DURATION:PT2H
 DTSTART:20261005T200000Z
 SUMMARY:Los estudiantes vamos a los juicios
-UID:d07df7f1-44fa-4fb5-956a-d6786afac030@d07d.org
+UID:ea723103-65c4-4517-81ea-b5c31f4bd251@ea72.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/los-estudiantes-vamos-a-los-juicios
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +14,7 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/propiedad-en-
 DURATION:PT2H
 DTSTART:20260928T113000Z
 SUMMARY:Propiedad en juicio. Civilistas y procesalistas ante la defensa de los derechos reales
-UID:091f25d5-5131-417c-af0f-205db9eb6a10@091f.org
+UID:478ef381-7947-4d9a-a09b-5a3cb2791f95@478e.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/propiedad-en-juicio-civilistas-y-procesalistas-ante-la-defensa-de-los-derechos-reales
 END:VEVENT
 BEGIN:VEVENT
@@ -78,223 +22,167 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-de-est
 DURATION:PT2H
 DTSTART:20261006T170000Z
 SUMMARY:Taller de Estudio Profundizado: Litigio estratégico feminista
-UID:3715dec6-41c6-4c84-9152-9d86239c071b@3715.org
+UID:84b5d855-ab71-4587-bae7-ef93c6607a2f@84b5.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/taller-de-estudio-profundizado-litigio-estrategico-feminista
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/pasado-presente-y-porvenir-de-los-estudios-juridicos-criticos
-DURATION:PT2H
-DTSTART:20261022T210000Z
-SUMMARY:Pasado\, presente y porvenir de los estudios jurídicos críticos
-UID:00ab07d7-8977-46ad-9b33-307608c7e862@00ab.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/pasado-presente-y-porvenir-de-los-estudios-juridicos-criticos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-intercatedras-de-finanzas-publicas-y-derecho-tributario-corti-revilla-schafrik-alvarez-echaguee-naveira
-DURATION:PT2H
-DTSTART:20260922T183000Z
-SUMMARY:I Jornada Intercátedras de Finanzas Públicas y Derecho Tributario: Corti - Revilla - Schafrik - Álvarez Echagüe - Naveira
-UID:22b7df2e-73f5-4f06-9a01-987c8b25947f@22b7.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-intercatedras-de-finanzas-publicas-y-derecho-tributario-corti-revilla-schafrik-alvarez-echaguee-naveira
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/discutiendo-la-corte-julio-nazareno-i-f-orlando-ed-ad-hoc-2026-focos-jurisprudenciales
-DURATION:PT2H
-DTSTART:20260923T210000Z
-SUMMARY:Discutiendo La Corte Julio Nazareno I (F. Orlando ed.\, Ad Hoc\, 2026): focos jurisprudenciales
-UID:8891e684-9dc3-469f-aab0-ad6987ad07c6@8891.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/discutiendo-la-corte-julio-nazareno-i-f-orlando-ed-ad-hoc-2026-focos-jurisprudenciales
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/en-primera-persona-experiencias-de-gobierno
-DURATION:PT2H
-DTSTART:20261014T210000Z
-SUMMARY:En primera persona: experiencias de gobierno
-UID:15cf4ee7-75d9-4b86-9df1-401e4413905e@15cf.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/en-primera-persona-experiencias-de-gobierno
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/mecanismos-alternativos-de-solucion-de-controversias-tributarias-evaluacion-sobre-sus-usos-y-perspectivas-en-el-derecho-domestico
-DURATION:PT2H
-DTSTART:20261008T170000Z
-SUMMARY:Mecanismos alternativos de solución de controversias tributarias -evaluación sobre sus usos y perspectivas en el derecho doméstico-
-UID:8ef9a0bf-a9bf-4d41-88f5-a54666157a65@8ef9.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/mecanismos-alternativos-de-solucion-de-controversias-tributarias-evaluacion-sobre-sus-usos-y-perspectivas-en-el-derecho-domestico
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-ante-la-ley-suprema-quebrada-dictadura-militar-1976-1983-y-negacion-del-estado-constitucional-las-piezas-del-mal-i-de-raul-gustavo-ferreyra
-DURATION:PT2H
-DTSTART:20260917T194500Z
-SUMMARY:Presentación del libro Ante la ley suprema quebrada. Dictadura militar (1976-1983) y negación del Estado constitucional. Las "piezas del mal"\, de Raúl Gustavo Ferreyra
-UID:f8290a5e-78ae-4bae-bbd6-10221cfd6293@f829.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-ante-la-ley-suprema-quebrada-dictadura-militar-1976-1983-y-negacion-del-estado-constitucional-las-piezas-del-mal-i-de-raul-gustavo-ferreyra
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/homenaje-a-la-trayectoria-del-dr-daniel-sabsay
-DURATION:PT2H
-DTSTART:20261020T213000Z
-SUMMARY:Homenaje a la trayectoria del Dr. Daniel Sabsay
-UID:dad40093-dc42-4d11-9eb3-f548c353201b@dad4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/homenaje-a-la-trayectoria-del-dr-daniel-sabsay
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/mes-de-la-investigacion-2026
-DURATION:PT2H
-DTSTART:20260903T210000Z
-SUMMARY:Mes de la Investigación 2026
-UID:aaef01c2-3e3f-41bd-befb-2eb6886d04ba@aaef.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/mes-de-la-investigacion-2026
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
-DURATION:PT2H
-DTSTART:20261118T110000Z
-SUMMARY:Fórum II de Buenos Aires. El Derecho y nuevos desafíos políticos\, económicos\, sociales y ambientales en la época contemporánea: Unión Europea y Mercosur
-UID:85544e00-2136-4f8a-ab53-6e624b94838b@8554.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-garantias-procesales-y-plazo-razonable-un-dialogo-entre-espana-y-argentina
-DURATION:PT2H
-DTSTART:20261201T200000Z
-SUMMARY:Seminario "Garantías procesales y plazo razonable: un diálogo entre España y Argentina"
-UID:c7f55100-43db-4e8b-9e88-62b6d5481845@c7f5.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-garantias-procesales-y-plazo-razonable-un-dialogo-entre-espana-y-argentina
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-populismo-desde-abajo-un-analisis-de-las-cartas-a-peron-en-1951-1952
-DURATION:PT2H
-DTSTART:20261112T130000Z
-SUMMARY:El populismo desde abajo. Un análisis de las cartas a Perón en 1951-1952
-UID:705f2822-64d4-4d1d-8aa7-458916ad412a@705f.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-populismo-desde-abajo-un-analisis-de-las-cartas-a-peron-en-1951-1952
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/xl-jornadas-argentinas-de-filosofia-juridica-y-social-derecho-y-democracia-a-50-anos-de-la-ruptura-del-orden-constitucional
-DURATION:PT2H
-DTSTART:20261014T183000Z
-SUMMARY:XL Jornadas Argentinas de Filosofía Jurídica y Social: "Derecho y Democracia. A 50 años de la ruptura del orden constitucional"
-UID:dca2055b-9afa-4ff0-b21c-72e2a3a353a2@dca2.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/xl-jornadas-argentinas-de-filosofia-juridica-y-social-derecho-y-democracia-a-50-anos-de-la-ruptura-del-orden-constitucional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-publicidad-en-los-juicios-de-lesa-humanidad
-DURATION:PT2H
-DTSTART:20260924T200000Z
-SUMMARY:La publicidad en los juicios de lesa humanidad 
-UID:86da7836-8939-4cfa-8c90-8bdef39d8d9c@86da.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-publicidad-en-los-juicios-de-lesa-humanidad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/4to-encuentro-del-ciclo-de-debates-la-aplicacion-de-los-tratados-internacionales-de-derechos-humanos-con-jerarquia-constitucional-en-las-condiciones-de-su-vigencia
-DURATION:PT2H
-DTSTART:20260928T190000Z
-SUMMARY:4to Encuentro del Ciclo de Debates: La aplicación de los tratados internacionales de derechos humanos con jerarquía constitucional - En las condiciones de su vigencia
-UID:cdc61049-c938-402b-b08e-e05758d2751e@cdc6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/4to-encuentro-del-ciclo-de-debates-la-aplicacion-de-los-tratados-internacionales-de-derechos-humanos-con-jerarquia-constitucional-en-las-condiciones-de-su-vigencia
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-derecho-va-al-cine
-DURATION:PT2H
-DTSTART:20260924T210000Z
-SUMMARY:El derecho va al cine
-UID:91b8ad99-4c57-4828-8bbc-9169e35ba357@91b8.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-derecho-va-al-cine
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-momento-de-comision-del-delito-fiscal-la-definicion-en-la-lif-era-necesaria-a-que-ilicitos-alcanza
-DURATION:PT2H
-DTSTART:20261007T210000Z
-SUMMARY:El momento de comisión del delito fiscal.  La definición en la LIF: ¿era necesaria? ¿a qué ilícitos alcanza?
-UID:07ca00aa-1aff-491b-8e05-4fcccfcea617@07ca.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-momento-de-comision-del-delito-fiscal-la-definicion-en-la-lif-era-necesaria-a-que-ilicitos-alcanza
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/genero-derecho-penal-y-derecho-constitucional
-DURATION:PT2H
-DTSTART:20261020T181500Z
-SUMMARY:Género\, derecho penal y derecho constitucional
-UID:91dff93b-13dc-4ff9-bf45-6b25ef5a1eb3@91df.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/genero-derecho-penal-y-derecho-constitucional
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/los-desafios-de-la-teoria-general-del-derecho-en-la-era-de-la-posverdad
-DURATION:PT2H
-DTSTART:20260928T210000Z
-SUMMARY:Los desafíos de la teoría general del derecho en la era de la posverdad
-UID:49aecb15-0124-4133-88c0-542d48a83f25@49ae.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/los-desafios-de-la-teoria-general-del-derecho-en-la-era-de-la-posverdad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/sobre-la-libertad-los-espacios-juridicos-de-la-justicia
-DURATION:PT2H
-DTSTART:20261007T150000Z
-SUMMARY:Sobre la libertad. Los espacios jurídicos de la justicia
-UID:645e218d-c4e6-4a6c-916c-4cd3374b1be7@645e.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/sobre-la-libertad-los-espacios-juridicos-de-la-justicia
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
 DURATION:PT2H
 DTSTART:20261027T180000Z
 SUMMARY:Seminario de lectura inter-Cátedras: "El debate Soler/Carrió en torno a la interpretación jurídica"
-UID:faf6bb47-dcde-44d0-a299-bf0fff3090d2@faf6.org
+UID:d037bc5c-412b-4caa-86af-36b086d2c61c@d037.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-de-lectura-inter-catedras-el-debate-soler-carrio-en-torno-a-la-interpretacion-juridica
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/sobre-la-inaplicabilidad-de-los-incrementos-patrimoniales-no-justificados-y-de-los-movimientos-bancarios-exceso-reglamentario-la-extension-de-la-fiscalizacion
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/homenaje-a-la-trayectoria-del-dr-daniel-sabsay
 DURATION:PT2H
-DTSTART:20261125T210000Z
-SUMMARY:Sobre la inaplicabilidad de los incrementos patrimoniales no justificados y de los movimientos bancarios. ¿Exceso reglamentario? La extensión de la fiscalización
-UID:44cab1a6-6792-4831-9040-55ac787d4b61@44ca.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/sobre-la-inaplicabilidad-de-los-incrementos-patrimoniales-no-justificados-y-de-los-movimientos-bancarios-exceso-reglamentario-la-extension-de-la-fiscalizacion
+DTSTART:20261020T213000Z
+SUMMARY:Homenaje a la trayectoria del Dr. Daniel Sabsay
+UID:1c83dcab-fec2-44f7-b6db-6abdc52b83c9@1c83.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/homenaje-a-la-trayectoria-del-dr-daniel-sabsay
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-pedagogia-juridica-y-constructivismo-en-la-ensenanza-del-derecho-i
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-hegel-sobre-lo-injusto-como-vulneracion-del-concepto-de-libertad
 DURATION:PT2H
-DTSTART:20261020T130000Z
-SUMMARY:Presentación del libro Pedagogía Jurídica y Constructivismo en la enseñanza del derecho
-UID:f3e64940-9ad5-47b6-9d55-e98480e02085@f3e6.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-pedagogia-juridica-y-constructivismo-en-la-ensenanza-del-derecho-i
+DTSTART:20261015T200000Z
+SUMMARY:Conferencia: Hegel sobre lo injusto como vulneración del concepto de libertad
+UID:c52d38df-08d3-4584-b15d-3c208268704d@c52d.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conferencia-hegel-sobre-lo-injusto-como-vulneracion-del-concepto-de-libertad
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/xi-congreso-argentino-de-derecho-ambiental
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/xl-jornadas-argentinas-de-filosofia-juridica-y-social-derecho-y-democracia-a-50-anos-de-la-ruptura-del-orden-constitucional
 DURATION:PT2H
-DTSTART:20261022T113000Z
-SUMMARY:XI Congreso argentino de Derecho Ambiental
-UID:f5e4cafc-7570-4c39-b0fc-4d6069d821bc@f5e4.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/xi-congreso-argentino-de-derecho-ambiental
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-electoral-y-desinformacion-desde-una-optica-comparada
-DURATION:PT2H
-DTSTART:20260917T170000Z
-SUMMARY:Derecho electoral y desinformación desde una óptica comparada
-UID:1722cba4-de48-49f5-826f-12f033946538@1722.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/derecho-electoral-y-desinformacion-desde-una-optica-comparada
+DTSTART:20261014T183000Z
+SUMMARY:XL Jornadas Argentinas de Filosofía Jurídica y Social: "Derecho y Democracia. A 50 años de la ruptura del orden constitucional"
+UID:b549b09f-91cd-4328-b531-9c4248a82e9c@b549.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/xl-jornadas-argentinas-de-filosofia-juridica-y-social-derecho-y-democracia-a-50-anos-de-la-ruptura-del-orden-constitucional
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-deuda-publica-y-genero
 DURATION:PT2H
 DTSTART:20261023T200000Z
 SUMMARY:Seminario sobre deuda pública y género
-UID:a1f3c809-fcac-47ed-9dce-efff3e19924e@a1f3.org
+UID:9a7c9445-d8bf-4360-a0d6-12cf3c474404@9a7c.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-deuda-publica-y-genero
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-la-constitucion-de-la-nacion-argentina-de-1949-i
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-publicidad-en-los-juicios-de-lesa-humanidad
 DURATION:PT2H
-DTSTART:20261028T213000Z
-SUMMARY:Presentación del libro La constitución de la nación argentina de 1949
-UID:ed602796-9a35-4ef6-b7c0-2f0aa3950cc7@ed60.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-la-constitucion-de-la-nacion-argentina-de-1949-i
+DTSTART:20260924T200000Z
+SUMMARY:La publicidad en los juicios de lesa humanidad 
+UID:3af5360e-f6e6-4844-ab53-60ce985b5409@3af5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-publicidad-en-los-juicios-de-lesa-humanidad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/en-primera-persona-experiencias-de-gobierno
+DURATION:PT2H
+DTSTART:20261014T210000Z
+SUMMARY:En primera persona: experiencias de gobierno
+UID:d0f0e768-999c-4d8f-80e4-7f7ece0b86ed@d0f0.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/en-primera-persona-experiencias-de-gobierno
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/conociendo-el-poder-judicial-1
+DURATION:PT2H
+DTSTART:20261014T210000Z
+SUMMARY:Conociendo el Poder Judicial
+UID:2d06737e-e8cb-4590-8d02-1c3d360908a9@2d06.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/conociendo-el-poder-judicial-1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-derecho-de-los-hidrocarburos-y-sostenibilidad
+DURATION:PT2H
+DTSTART:20261126T110000Z
+SUMMARY:I Jornada: Derecho de los hidrocarburos y sostenibilidad
+UID:51e958a7-b7a3-4789-8d48-3c723ca52202@51e9.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-derecho-de-los-hidrocarburos-y-sostenibilidad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-populismo-desde-abajo-un-analisis-de-las-cartas-a-peron-en-1951-1952
+DURATION:PT2H
+DTSTART:20261112T130000Z
+SUMMARY:El populismo desde abajo. Un análisis de las cartas a Perón en 1951-1952
+UID:82798e11-2c71-41a4-acab-a51a9f67d6fe@8279.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-populismo-desde-abajo-un-analisis-de-las-cartas-a-peron-en-1951-1952
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-pedagogia-juridica-y-constructivismo-en-la-ensenanza-del-derecho-i
+DURATION:PT2H
+DTSTART:20261020T130000Z
+SUMMARY:Presentación del libro Pedagogía Jurídica y Constructivismo en la enseñanza del derecho
+UID:35cf3a42-4cdc-4afe-8f47-bffb6673897f@35cf.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-pedagogia-juridica-y-constructivismo-en-la-ensenanza-del-derecho-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/centros-de-investigacion-conoce-su-trabajo
+DURATION:PT2H
+DTSTART:20261001T210000Z
+SUMMARY:Centros de Investigación: conocé su trabajo
+UID:f756231d-3ba8-4963-91b6-75f626e517cf@f756.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/centros-de-investigacion-conoce-su-trabajo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-garantias-procesales-y-plazo-razonable-un-dialogo-entre-espana-y-argentina
+DURATION:PT2H
+DTSTART:20261201T200000Z
+SUMMARY:Seminario "Garantías procesales y plazo razonable: un diálogo entre España y Argentina"
+UID:9809fcf1-0d16-45d2-8d86-382d3146dbe1@9809.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-garantias-procesales-y-plazo-razonable-un-dialogo-entre-espana-y-argentina
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-momento-de-comision-del-delito-fiscal-la-definicion-en-la-lif-era-necesaria-a-que-ilicitos-alcanza
+DURATION:PT2H
+DTSTART:20261007T210000Z
+SUMMARY:El momento de comisión del delito fiscal.  La definición en la LIF: ¿era necesaria? ¿a qué ilícitos alcanza?
+UID:b72fe2db-1c4e-4584-8e46-e2fd6878b25f@b72f.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-momento-de-comision-del-delito-fiscal-la-definicion-en-la-lif-era-necesaria-a-que-ilicitos-alcanza
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/xi-congreso-argentino-de-derecho-ambiental
+DURATION:PT2H
+DTSTART:20261022T113000Z
+SUMMARY:XI Congreso argentino de Derecho Ambiental
+UID:b2e80a6d-2690-4855-85e2-b8c452bcb7c5@b2e8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/xi-congreso-argentino-de-derecho-ambiental
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/sistemas-jubilatorios-bajo-presion-crisis-reformas-y-alternativas
+DURATION:PT2H
+DTSTART:20260930T213000Z
+SUMMARY:Sistemas jubilatorios bajo presión. Crisis\, reformas y alternativas
+UID:c417809a-dc5c-45bb-8d64-6f4829bd81bf@c417.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/sistemas-jubilatorios-bajo-presion-crisis-reformas-y-alternativas
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/sobre-la-libertad-los-espacios-juridicos-de-la-justicia
+DURATION:PT2H
+DTSTART:20261007T150000Z
+SUMMARY:Sobre la libertad. Los espacios jurídicos de la justicia
+UID:bb16be23-cac1-4e37-95c8-be22b5064d32@bb16.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/sobre-la-libertad-los-espacios-juridicos-de-la-justicia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/40-aniversario-del-centro-de-estudios-interdisciplinarios-de-derecho-industrial-y-economico-ceidie-1986-2026
+DURATION:PT2H
+DTSTART:20261007T203000Z
+SUMMARY:40° Aniversario del Centro de Estudios Interdisciplinarios de Derecho Industrial y Económico (CEIDIE) 1986-2026
+UID:e3e318a5-83d6-4a74-a39a-af6a8dbc0e44@e3e3.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/40-aniversario-del-centro-de-estudios-interdisciplinarios-de-derecho-industrial-y-economico-ceidie-1986-2026
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/sobre-la-inaplicabilidad-de-los-incrementos-patrimoniales-no-justificados-y-de-los-movimientos-bancarios-exceso-reglamentario-la-extension-de-la-fiscalizacion
+DURATION:PT2H
+DTSTART:20261125T210000Z
+SUMMARY:Sobre la inaplicabilidad de los incrementos patrimoniales no justificados y de los movimientos bancarios. ¿Exceso reglamentario? La extensión de la fiscalización
+UID:a9f56740-13a3-4e14-86d2-46fdd9425ffa@a9f5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/sobre-la-inaplicabilidad-de-los-incrementos-patrimoniales-no-justificados-y-de-los-movimientos-bancarios-exceso-reglamentario-la-extension-de-la-fiscalizacion
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-tributacion-del-deportista-la-diversa-imposicion-segun-la-naturaleza-de-la-retribucion
 DURATION:PT2H
 DTSTART:20260924T160000Z
 SUMMARY:La tributación del deportista (la diversa imposición según la naturaleza de la retribución)
-UID:85117313-d06f-44eb-a755-c54e4e2fb78c@8511.org
+UID:e4090b2e-62a6-4c4c-96a0-e5109284a5ac@e409.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-tributacion-del-deportista-la-diversa-imposicion-segun-la-naturaleza-de-la-retribucion
 END:VEVENT
 BEGIN:VEVENT
@@ -302,47 +190,167 @@ DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sob
 DURATION:PT2H
 DTSTART:20260922T220000Z
 SUMMARY:Seminario sobre actualización de la dogmática penal
-UID:2042d3c4-aedb-422b-b063-4d363ba3f198@2042.org
+UID:54f20d09-7d9b-4ee6-b202-a77750265ff7@54f2.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-sobre-actualizacion-de-la-dogmatica-penal
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-el-imperio-de-la-igualdad-una-teoria-democratica-del-derecho-i
+DURATION:PT2H
+DTSTART:20261104T210000Z
+SUMMARY:Presentación del libro El imperio de la igualdad. Una teoría democrática del Derecho
+UID:826ab6a8-d976-46d9-ad77-3cd226ef3545@826a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-el-imperio-de-la-igualdad-una-teoria-democratica-del-derecho-i
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-la-huella-democratica-i
 DURATION:PT2H
-DTSTART:20261111T210000Z
+DTSTART:20261125T210000Z
 SUMMARY:Presentación del libro La huella democrática
-UID:c453357e-8ddd-4572-b942-e575c42a1103@c453.org
+UID:6919b557-e14e-452e-8db3-de44ee87a4b4@6919.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-la-huella-democratica-i
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jubilarse-es-sobrevivir-los-desafios-del-sistema-previsional
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
 DURATION:PT2H
-DTSTART:20261020T183000Z
-SUMMARY:¿Jubilarse es sobrevivir? Los desafíos del sistema previsional
-UID:c0467d97-0815-44af-921f-b9e17be0dd6f@c046.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jubilarse-es-sobrevivir-los-desafios-del-sistema-previsional
+DTSTART:20261118T110000Z
+SUMMARY:Fórum II de Buenos Aires. El Derecho y nuevos desafíos políticos\, económicos\, sociales y ambientales en la época contemporánea: Unión Europea y Mercosur
+UID:c74b64b4-05b6-44b5-8d5a-72e2815f6d80@c74b.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/forum-ii-de-buenos-aires-el-derecho-y-nuevos-desafios-politicos-economicos-sociales-y-ambientales-en-la-epoca-contemporanea-union-europea-y-mercosur
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/fallo-ypf-apuntes-reflexiones-y-desafios
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-la-integracion-regional-ante-la-inestabilidad-internacional
+DURATION:PT2H
+DTSTART:20260928T200000Z
+SUMMARY:Seminario internacional: La integración regional ante la inestabilidad internacional
+UID:a725f2e5-96f2-41df-a379-1c5bf1d326e0@a725.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/seminario-internacional-la-integracion-regional-ante-la-inestabilidad-internacional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/la-ia-como-consejera-de-salud-lecciones-a-proposito-de-la-enciclica-magnifica-humanitas
+DURATION:PT2H
+DTSTART:20260923T200000Z
+SUMMARY:La IA como consejera de salud. Lecciones a propósito de la encíclica Magnifica Humanitas
+UID:795c75d7-a5a8-4022-b28e-c63946829f24@795c.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/la-ia-como-consejera-de-salud-lecciones-a-proposito-de-la-enciclica-magnifica-humanitas
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/el-derecho-va-al-cine
+DURATION:PT2H
+DTSTART:20260924T210000Z
+SUMMARY:El derecho va al cine
+UID:b4c5a0a9-f798-49c8-a27b-b67ac06a0680@b4c5.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/el-derecho-va-al-cine
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/actualidad-del-derecho-financiero-en-espana-dialogo-con-el-prof-garcia-prats-universidad-de-valencia
+DURATION:PT2H
+DTSTART:20260929T190000Z
+SUMMARY:Actualidad del Derecho Financiero en España. Diálogo con el Prof. García Prats - Universidad de Valencia
+UID:39433d80-048c-464d-a62b-e7f9391b2033@3943.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/actualidad-del-derecho-financiero-en-espana-dialogo-con-el-prof-garcia-prats-universidad-de-valencia
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/pasado-presente-y-porvenir-de-los-estudios-juridicos-criticos
+DURATION:PT2H
+DTSTART:20261022T210000Z
+SUMMARY:Pasado\, presente y porvenir de los estudios jurídicos críticos
+UID:6c877032-62ff-4eb7-913f-f6842152c9ec@6c87.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/pasado-presente-y-porvenir-de-los-estudios-juridicos-criticos
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/los-desafios-de-la-teoria-general-del-derecho-en-la-era-de-la-posverdad
 DURATION:PT2H
 DTSTART:20260928T210000Z
-SUMMARY:Fallo YPF: apuntes \, reflexiones y desafíos
-UID:dfa3f5f3-ba8c-421b-9baa-83732319b5f2@dfa3.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/fallo-ypf-apuntes-reflexiones-y-desafios
+SUMMARY:Los desafíos de la teoría general del derecho en la era de la posverdad
+UID:be6ecbaa-3d39-4324-ab54-96abb8183ff4@be6e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/los-desafios-de-la-teoria-general-del-derecho-en-la-era-de-la-posverdad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/acto-de-entrega-del-titulo-de-profesora-honoraria-a-la-dra-mariana-sacher
+DURATION:PT2H
+DTSTART:20261006T200000Z
+SUMMARY:Acto de entrega del título de Profesora Honoraria a la Dra. Mariana Sacher
+UID:0f94db77-2141-40c3-8073-208265981c77@0f94.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/acto-de-entrega-del-titulo-de-profesora-honoraria-a-la-dra-mariana-sacher
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-la-constitucion-de-la-nacion-argentina-de-1949-i
+DURATION:PT2H
+DTSTART:20261028T213000Z
+SUMMARY:Presentación del libro La constitución de la nación argentina de 1949
+UID:222920f9-be85-402c-b1a0-664095f1dead@2229.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/presentacion-del-libro-i-la-constitucion-de-la-nacion-argentina-de-1949-i
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/discutiendo-la-corte-julio-nazareno-i-f-orlando-ed-ad-hoc-2026-focos-jurisprudenciales
+DURATION:PT2H
+DTSTART:20260923T210000Z
+SUMMARY:Discutiendo La Corte Julio Nazareno I (F. Orlando ed.\, Ad Hoc\, 2026): focos jurisprudenciales
+UID:76ef3fef-4f7c-413f-a886-3c8937e80d79@76ef.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/discutiendo-la-corte-julio-nazareno-i-f-orlando-ed-ad-hoc-2026-focos-jurisprudenciales
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-intercatedras-de-finanzas-publicas-y-derecho-tributario-corti-revilla-schafrik-alvarez-echaguee-naveira
+DURATION:PT2H
+DTSTART:20260922T183000Z
+SUMMARY:I Jornada Intercátedras de Finanzas Públicas y Derecho Tributario: Corti - Revilla - Schafrik - Álvarez Echagüe - Naveira
+UID:1f3a8b79-c829-4525-87ba-2e8e9f0342b7@1f3a.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/i-jornada-intercatedras-de-finanzas-publicas-y-derecho-tributario-corti-revilla-schafrik-alvarez-echaguee-naveira
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/genero-derecho-penal-y-derecho-constitucional
+DURATION:PT2H
+DTSTART:20261020T181500Z
+SUMMARY:Género\, derecho penal y derecho constitucional
+UID:54575487-9e25-4ffb-9f64-2e5254b3f0ed@5457.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/genero-derecho-penal-y-derecho-constitucional
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/4to-encuentro-del-ciclo-de-debates-la-aplicacion-de-los-tratados-internacionales-de-derechos-humanos-con-jerarquia-constitucional-en-las-condiciones-de-su-vigencia
+DURATION:PT2H
+DTSTART:20260928T190000Z
+SUMMARY:4to Encuentro del Ciclo de Debates: La aplicación de los tratados internacionales de derechos humanos con jerarquía constitucional - En las condiciones de su vigencia
+UID:8a807615-3946-48e0-985b-38965c46865f@8a80.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/4to-encuentro-del-ciclo-de-debates-la-aplicacion-de-los-tratados-internacionales-de-derechos-humanos-con-jerarquia-constitucional-en-las-condiciones-de-su-vigencia
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/iva-en-foco-exportacion-de-servicios-servicios-digitales-y-facturas-apocrifas
 DURATION:PT2H
 DTSTART:20260921T200000Z
 SUMMARY:IVA en foco: Exportación de servicios\, servicios digitales y facturas apócrifas
-UID:28ee245a-4924-4d8c-a085-88e496555ca6@28ee.org
+UID:e5f7c529-f12d-4754-be1e-3d4751595488@e5f7.org
 URL:http://www.derecho.uba.ar/institucional/deinteres/2026/iva-en-foco-exportacion-de-servicios-servicios-digitales-y-facturas-apocrifas
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/sistemas-jubilatorios-bajo-presion-crisis-reformas-y-alternativas
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/mes-de-la-investigacion-2026
 DURATION:PT2H
-DTSTART:20260930T213000Z
-SUMMARY:Sistemas jubilatorios bajo presión. Crisis\, reformas y alternativas
-UID:ee3db90f-f1ff-477e-a4fa-3366343108b6@ee3d.org
-URL:http://www.derecho.uba.ar/institucional/deinteres/2026/sistemas-jubilatorios-bajo-presion-crisis-reformas-y-alternativas
+DTSTART:20260903T210000Z
+SUMMARY:Mes de la Investigación 2026
+UID:5557ab23-d4df-4fa1-85c0-55d1dd81b17b@5557.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/mes-de-la-investigacion-2026
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/fallo-ypf-apuntes-reflexiones-y-desafios
+DURATION:PT2H
+DTSTART:20260928T210000Z
+SUMMARY:Fallo YPF: apuntes \, reflexiones y desafíos
+UID:afeb1524-77a8-4229-a99f-eaf8bbd2faf1@afeb.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/fallo-ypf-apuntes-reflexiones-y-desafios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/mecanismos-alternativos-de-solucion-de-controversias-tributarias-evaluacion-sobre-sus-usos-y-perspectivas-en-el-derecho-domestico
+DURATION:PT2H
+DTSTART:20261008T170000Z
+SUMMARY:Mecanismos alternativos de solución de controversias tributarias -evaluación sobre sus usos y perspectivas en el derecho doméstico-
+UID:bfd8d071-7073-4a64-a256-a655e56edfda@bfd8.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/mecanismos-alternativos-de-solucion-de-controversias-tributarias-evaluacion-sobre-sus-usos-y-perspectivas-en-el-derecho-domestico
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:http://www.derecho.uba.ar/institucional/deinteres/2026/jubilarse-es-sobrevivir-los-desafios-del-sistema-previsional
+DURATION:PT2H
+DTSTART:20261020T183000Z
+SUMMARY:¿Jubilarse es sobrevivir? Los desafíos del sistema previsional
+UID:3f3e0aad-9722-43cf-8865-dc613c2ab453@3f3e.org
+URL:http://www.derecho.uba.ar/institucional/deinteres/2026/jubilarse-es-sobrevivir-los-desafios-del-sistema-previsional
 END:VEVENT
 END:VCALENDAR
