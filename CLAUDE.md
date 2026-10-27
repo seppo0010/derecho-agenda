@@ -14,7 +14,7 @@ There are no tests, linter config, or build step.
 ## Commands
 
 ```sh
-pipenv install              # Python 3.9, deps in Pipfile
+pipenv install              # Python 3.12, deps in Pipfile
 pipenv run python main.py   # scrape and write ./out/
 ```
 
@@ -26,7 +26,7 @@ The script runs at import time (no `main()` guard) and needs network access to t
 
 - Events are `<article class="item-agenda">` on the listing page. The start time comes from the `datetime` attribute of the inner `<time>`, the title and link from the first `<a>`.
 - Times are naive local times. The script appends a hardcoded `-03:00` (Argentina) offset. Every event gets a fixed 2-hour duration.
-- The description is the `<div class="list-aviso">` on the event page, converted to Markdown with `markdownify`. If that div is missing, the event URL is used instead.
+- The description is the `<div class="post-content">` on the event page, minus its `<h2>` title, image carousel and share buttons, converted to Markdown with `markdownify`. If that div is missing, the event URL is used instead, silently, so check the output for URL-only descriptions after site changes.
 
 ## Deployment
 

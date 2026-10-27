@@ -19,9 +19,12 @@ html_doc = req.text
 def get_description(url):
     req = requests.get(url)
     soup = BeautifulSoup(req.text, 'html.parser')
-    el = soup.find('div', class_='list-aviso')
+    el = soup.find('div', class_='post-content')
     if el is None:
         return url
+    # drop the title (already the event name), image carousel and share buttons
+    for extra in el.find_all(['h2', 'script']) + el.find_all('div', class_=['lightbox', 'post-share']):
+        extra.decompose()
     return re.sub(r'\n+', '\n', md(str(el)))
 
 calendar = Calendar()
